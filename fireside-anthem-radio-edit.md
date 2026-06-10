@@ -39,12 +39,12 @@ Sing it loud for the long weekend, throw your arms in the air —
 This is the night, this is the night, this is the night!
 
 ### Verse 2
-Now Danny swears he caught a forty-pound pike,
+Now somebody swears that they caught a forty-pound pike,
 By midnight it's a monster, by two it's a shark with a bite.
-Marcie's laughin' so hard that she can't even stand,
-And Pete's got a marshmallow burnin' in his hand.
+There's a laugh by the fire so big you can't hardly stand,
+And a marshmallow burnin', plumb forgot in a hand.
 Northern lights or a trick of the smoke?
-Nobody's sober enough to know —
+Out here you don't question, you just let it go —
 We're a tangle of plaid and a chorus of fools,
 And I swear to God these are the people I choose.
 
@@ -175,12 +175,12 @@ Sing it loud for the long weekend, throw your arms in the air
 This is the night, this is the night, this is the night!
 
 [Verse 2]
-Now Danny swears he caught a forty-pound pike
+Now somebody swears that they caught a forty-pound pike
 By midnight it's a monster, by two it's a shark with a bite
-Marcie's laughin' so hard that she can't even stand
-And Pete's got a marshmallow burnin' in his hand
+There's a laugh by the fire so big you can't hardly stand
+And a marshmallow burnin', plumb forgot in a hand
 Northern lights or a trick of the smoke?
-Nobody's sober enough to know
+Out here you don't question, you just let it go
 We're a tangle of plaid and a chorus of fools
 And I swear to God these are the people I choose
 

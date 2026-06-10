@@ -18,7 +18,7 @@
 Two-hour drive and the radio's gone,
 Just the wind and a half-remembered song.
 Screen door slaps, the dock's still warm,
-Throw the bags down, who brought the corn?
+Throw the bags down, here comes the swarm —
 Loon on the lake like she's callin' us home,
 Phones in a drawer 'cause there's no service zone —
 Crack the first one, hear it hiss,
@@ -153,7 +153,7 @@ trap, drill, heavy metal, screamo, lo-fi, ballad
 Two-hour drive and the radio's gone
 Just the wind and a half-remembered song
 Screen door slaps, the dock's still warm
-Throw the bags down, who brought the corn?
+Throw the bags down, here comes the swarm
 Loon on the lake like she's callin' us home
 Phones in a drawer 'cause there's no service zone
 Crack the first one, hear it hiss

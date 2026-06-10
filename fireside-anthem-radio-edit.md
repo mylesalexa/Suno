@@ -39,14 +39,14 @@ Sing it loud for the long weekend, throw your arms in the air —
 This is the night, this is the night, this is the night!
 
 ### Verse 2
-Now somebody swears that they caught a forty-pound pike,
-By midnight it's a monster, by two it's a shark with a bite.
+The stories grow taller the lower the sun,
+And the fish gets bigger with every one —
 There's a laugh by the fire so big you can't hardly stand,
-And a marshmallow burnin', plumb forgot in a hand.
+And a six-string gettin' passed from hand to hand.
 Northern lights or a trick of the smoke?
 Out here you don't question, you just let it go —
 We're a tangle of plaid and a chorus of fools,
-And I swear to God these are the people I choose.
+And I swear these are the people I choose.
 
 ### Pre-Chorus
 'Cause the sun's gone down for good,
@@ -175,14 +175,14 @@ Sing it loud for the long weekend, throw your arms in the air
 This is the night, this is the night, this is the night!
 
 [Verse 2]
-Now somebody swears that they caught a forty-pound pike
-By midnight it's a monster, by two it's a shark with a bite
+The stories grow taller the lower the sun
+And the fish gets bigger with every one
 There's a laugh by the fire so big you can't hardly stand
-And a marshmallow burnin', plumb forgot in a hand
+And a six-string gettin' passed from hand to hand
 Northern lights or a trick of the smoke?
 Out here you don't question, you just let it go
 We're a tangle of plaid and a chorus of fools
-And I swear to God these are the people I choose
+And I swear these are the people I choose
 
 [Pre-Chorus]
 'Cause the sun's gone down for good

@@ -17,8 +17,8 @@
 ### Verse 1
 Two-hour drive and the radio's gone,
 Just the wind and a half-remembered song.
-Screen door slaps, the dock's still warm,
-Throw the bags down, here comes the swarm —
+Screen door slaps, down the path that's worn,
+Dock's still warm, beat the comin' storm —
 Loon on the lake like she's callin' us home,
 Phones in a drawer 'cause there's no service zone —
 Crack the first one, hear it hiss,
@@ -152,8 +152,8 @@ trap, drill, heavy metal, screamo, lo-fi, ballad
 [Verse 1]
 Two-hour drive and the radio's gone
 Just the wind and a half-remembered song
-Screen door slaps, the dock's still warm
-Throw the bags down, here comes the swarm
+Screen door slaps, down the path that's worn
+Dock's still warm, beat the comin' storm
 Loon on the lake like she's callin' us home
 Phones in a drawer 'cause there's no service zone
 Crack the first one, hear it hiss

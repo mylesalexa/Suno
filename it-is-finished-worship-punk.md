@@ -1,24 +1,24 @@
 # It Is Finished
 
-*Christian worship pop-punk — the gospel-center of the record, and its most harrowing track. Sung from
-the perspective of JESUS on the cross: the agony, the nails, the crown, the blood, the flogging and the
-mockery — and through all of it, His mind is on *you*. A cry-out song, not an anthem. It parallels the
-violence done to Him with the cruelty we do to each other — and lands on the unthinkable mercy: He took
-it so we wouldn't have to do it to one another anymore.*
+*Christian worship pop-punk — the gospel-center of the record, and its most harrowing track. A witness
+retelling the crucifixion in the third person: the agony, the nails, the crown, the blood, the flogging
+and the mockery — and through all of it, He had *you* in mind. A cry-out song, not an anthem. It parallels
+the violence done to Him with the cruelty we still do to each other — and lands on the unthinkable mercy:
+He took it so we wouldn't have to do it to one another anymore.*
 
-> **A note on the POV:** this is a dramatic/devotional "voice of Christ" lyric in the tradition of hymns
-> and Passion songs — a worshipful imagining of His love from the cross, drawn straight from the gospel
-> accounts. It is reverent, never flippant.
+> **A note on the POV:** this is told *about* Jesus, not *as* Jesus — a believer crying out at the foot of
+> the cross. The only words placed on His lips are the ones the Gospels actually record ("not My will but
+> Yours," "Father, forgive them," "It is finished"). Everything else is testimony and reverent reflection.
 
 ---
 
 ## Creative Direction
 
-**Topic:** *The crucifixion, from Jesus' point of view — "I saw your face, and I stayed on the cross."*
+**Topic:** *The crucifixion, witnessed — "they drove the nails, but He would not pull His hands away."*
 The horror is real and named (the nails, the thorns, the lash, the spit, the mockery), but the engine of
-the song is His **love and resolve**: He could have stopped it, and He didn't, because He was thinking of
-you. The turn the user asked for: we still tear each other down the same way He was torn — and He bore
-all of it so that we'd be free to stop.
+the song is His **love and resolve**: He could have stopped it, and He didn't, because He had us in mind.
+The turn the user asked for: we still tear each other down the same way He was torn — and He bore all of
+it so that we'd be free to stop.
 
 **Why it works as a cry-out (not an anthem):** the cross isn't a fist-pump; it's a wound. So this song
 stays low and aching — a raw, building lament that cries out rather than celebrates. The dynamics build
@@ -31,17 +31,17 @@ wound each other — and He still chose us.*
 2. **Isaiah 53:5** — "he was pierced for our transgressions... by his wounds we are healed." *(the wounds)*
 3. **Isaiah 53:7** — "he was oppressed and afflicted, yet he did not open his mouth... as a sheep before its shearers is silent." *(the silence under mockery)*
 4. **Matthew 27:28–30** — the crown of thorns, the spitting, the mocking, the staff that struck His head. *(verse imagery)*
-5. **Luke 23:34** — "Father, forgive them, for they do not know what they are doing." *(the bridge)*
-6. **Hebrews 12:2** — "for the joy set before him he endured the cross, scorning its shame." *("the joy was you")*
-7. **Romans 5:8** — "while we were still sinners, Christ died for us." *(the parallel / the mercy)*
-8. **1 Peter 2:23–24** — "When they hurled their insults at him, he did not retaliate... He himself bore our sins in his body on the cross." *(took it so we wouldn't)*
-9. **John 15:13** — "Greater love has no one than this: to lay down one's life for one's friends." *(the heart of it)*
+5. **Luke 22:42** — "Father... not my will, but yours be done." *(Gethsemane)*
+6. **Luke 23:34** — "Father, forgive them, for they do not know what they are doing." *(the bridge)*
+7. **Hebrews 12:2** — "for the joy set before him he endured the cross, scorning its shame." *(He had us in mind)*
+8. **Romans 5:8** — "while we were still sinners, Christ died for us." *(the parallel / the mercy)*
+9. **1 Peter 2:23–24** — "When they hurled their insults at him, he did not retaliate... He himself bore our sins in his body on the cross." *(took it so we wouldn't)*
 
 **Emotional arc:** Gethsemane dread, the weight of what's coming (V1) → the lash and the crown, His
-silence (pre/V2) → the cry-out chorus: every blow, and I saw *your* face, so I stayed (chorus) → the
-parallel — we still wound each other like this, "Father, forgive them," and I'm dying so you don't have
-to (bridge) → the final exhale: "it is finished" (final section) → bare, whispered resolve: "I'd do it
-all again — for you."
+silence (pre/V2) → the cry-out chorus: every blow, and He had us in mind, so He stayed (chorus) → the
+parallel — we still wound each other like this, "Father, forgive them," He died so we don't have to
+(bridge) → the final exhale: "it is finished" (final section) → bare, whispered awe: "He'd do it all
+again — for you."
 
 ---
 
@@ -65,76 +65,76 @@ cut on the record, with restraint that finally breaks.
 
 ### Verse 1
 *(bare, trembling — Gethsemane)*
-On my knees in the garden, sweatin' blood in the dark,
-I can see the whole road comin' and it's tearin' me apart.
-But I held your name like a heartbeat — every face I'd ever made —
-And I whispered, "not My will but Yours," and I rose, and I stayed.
+On His knees in the garden, sweatin' blood in the dark,
+He could see the whole road comin' and it tore Him apart.
+But He held our names like a heartbeat — every face He'd ever made —
+And He whispered, "not My will but Yours" — then He rose, and He stayed.
 
 ### Pre-Chorus
 *(low, building)*
-'Cause I'd already counted the cost,
-And I would not — I could not — leave you lost —
+'Cause He'd already counted the cost,
+And He would not — He could not — leave us lost —
 
 ### Chorus
 *(the band swells, anguished, crying out)*
-So drive the nails — I won't pull my hands away,
-Press the thorns down — I will not turn My face.
-Every lash, every curse, every drop of the blood I gave —
-I was lookin' straight at you, and I stayed, I stayed.
+So they drove the nails — but He would not pull His hands away,
+Pressed the thorns down — and He would not turn His face.
+Every lash, every curse, every drop of the blood He gave —
+He had me on His mind, and He stayed, He stayed.
 
 ### Verse 2
 *(low again, raw)*
-They tore the skin from My shoulders, and I did not say a word,
+They tore the skin from His shoulders, and He did not say a word,
 Spit on the King of Heaven, mocked the only love they'd heard.
-Drove a crown into My temple, watched it run down red,
-And the same crowd I was dyin' for was screamin' "kill Him" instead.
+Drove a crown into His temple, watched it run down red —
+And the same crowd He was dyin' for was screamin' "kill Him" instead.
 
 ### Pre-Chorus
 *(building)*
-And it wasn't the iron that held Me there —
-It was you, it was you, it was love I couldn't bear to lose —
+And it wasn't the iron that held Him there —
+It was us, it was us — it was love He could not bear to lose —
 
 ### Chorus
 *(anguished, crying out)*
-So drive the nails — I won't pull my hands away,
-Press the thorns down — I will not turn My face.
-Every lash, every curse, every drop of the blood I gave —
-I was lookin' straight at you, and I stayed, I stayed.
+So they drove the nails — but He would not pull His hands away,
+Pressed the thorns down — and He would not turn His face.
+Every lash, every curse, every drop of the blood He gave —
+He had me on His mind, and He stayed, He stayed.
 
 ### Bridge
 *(strip to almost nothing — pleading, then swelling)*
-You still do it to each other — the same nails, the same shame,
-Tongues like whips on a brother, throwin' stones in My name.
-But I took every blow that you'd ever give or get,
-"Father, forgive them" — let it die right here, let this be the end of it.
+We still do it to each other — the same nails, the same shame,
+Tongues like whips on a brother, throwin' stones in His name.
+But He took every blow that we'd ever give or get,
+He prayed "Father, forgive them" over the very ones who did it.
 *(rising)*
 So lay it down... lay it down...
-I bore it all so you could finally put it down —
+He bore it all so we could finally put it down —
 
 ### Final Section
 *(the heaviest swell, then it breaks into light — B minor lifting to D)*
-It is finished —
+Then He bowed His head — "It is finished" —
 *(softer, releasing)*
 It is finished —
 The debt is paid, the veil is torn, the grave is just a door —
-You don't have to earn it, child — that's what the blood was for.
+We don't have to earn it now — that's what the blood was for.
 
 ### Outro
 *(bare, whispered, a faint choir rising like dawn)*
-I'd do it all again,
+And He'd do it all again,
 Every nail, every thorn —
-I'd do it all again...
+He'd do it all again...
 for you.
 
 ---
 
 ## Alternate Chorus Hook Options
-1. **"I was lookin' straight at you, and I stayed, I stayed"** *(primary)*
-2. **"Drive the nails — I won't pull my hands away"**
-3. **"It wasn't the iron that held Me there — it was you"**
-4. **"I took every blow that you'd ever give or get"**
+1. **"He had me on His mind, and He stayed, He stayed"** *(primary)*
+2. **"They drove the nails, but He would not pull His hands away"**
+3. **"It wasn't the iron that held Him there — it was us"**
+4. **"He took every blow that we'd ever give or get"**
 5. **"It is finished — that's what the blood was for"**
-6. **"I'd do it all again — every nail, every thorn — for you"**
+6. **"He'd do it all again — every nail, every thorn — for you"**
 
 ---
 
@@ -164,63 +164,63 @@ upbeat, anthem, gang vocals, EDM, trap, country, pop, fast tempo
 
 [Verse 1]
 (bare, trembling)
-On my knees in the garden, sweatin' blood in the dark
-I can see the whole road comin' and it's tearin' me apart
-But I held your name like a heartbeat, every face I'd ever made
-And I whispered, not My will but Yours, and I rose, and I stayed
+On His knees in the garden, sweatin' blood in the dark
+He could see the whole road comin' and it tore Him apart
+But He held our names like a heartbeat, every face He'd ever made
+And He whispered, not My will but Yours, then He rose, and He stayed
 
 [Pre-Chorus]
 (low, building)
-'Cause I'd already counted the cost
-And I would not, I could not, leave you lost
+'Cause He'd already counted the cost
+And He would not, He could not, leave us lost
 
 [Chorus]
 (band swells, anguished, crying out)
-So drive the nails, I won't pull my hands away
-Press the thorns down, I will not turn My face
-Every lash, every curse, every drop of the blood I gave
-I was lookin' straight at you, and I stayed, I stayed
+So they drove the nails, but He would not pull His hands away
+Pressed the thorns down, and He would not turn His face
+Every lash, every curse, every drop of the blood He gave
+He had me on His mind, and He stayed, He stayed
 
 [Verse 2]
 (low, raw)
-They tore the skin from My shoulders, and I did not say a word
+They tore the skin from His shoulders, and He did not say a word
 Spit on the King of Heaven, mocked the only love they'd heard
-Drove a crown into My temple, watched it run down red
-And the same crowd I was dyin' for was screamin' kill Him instead
+Drove a crown into His temple, watched it run down red
+And the same crowd He was dyin' for was screamin' kill Him instead
 
 [Pre-Chorus]
 (building)
-And it wasn't the iron that held Me there
-It was you, it was you, it was love I couldn't bear to lose
+And it wasn't the iron that held Him there
+It was us, it was us, it was love He could not bear to lose
 
 [Chorus]
 (anguished, crying out)
-So drive the nails, I won't pull my hands away
-Press the thorns down, I will not turn My face
-Every lash, every curse, every drop of the blood I gave
-I was lookin' straight at you, and I stayed, I stayed
+So they drove the nails, but He would not pull His hands away
+Pressed the thorns down, and He would not turn His face
+Every lash, every curse, every drop of the blood He gave
+He had me on His mind, and He stayed, He stayed
 
 [Bridge]
 (strip to almost nothing, pleading, then swelling)
-You still do it to each other, the same nails, the same shame
-Tongues like whips on a brother, throwin' stones in My name
-But I took every blow that you'd ever give or get
-Father, forgive them, let it die right here, let this be the end of it
+We still do it to each other, the same nails, the same shame
+Tongues like whips on a brother, throwin' stones in His name
+But He took every blow that we'd ever give or get
+He prayed Father, forgive them over the very ones who did it
 So lay it down, lay it down
-I bore it all so you could finally put it down
+He bore it all so we could finally put it down
 
 [Final Chorus]
 (heaviest swell, then breaking into light)
-It is finished
+Then He bowed His head, it is finished
 It is finished
 The debt is paid, the veil is torn, the grave is just a door
-You don't have to earn it, child, that's what the blood was for
+We don't have to earn it now, that's what the blood was for
 
 [Outro]
 (bare, whispered, faint choir rising)
-I'd do it all again
+And He'd do it all again
 Every nail, every thorn
-I'd do it all again
+He'd do it all again
 for you
 ```
 

@@ -61,9 +61,9 @@ Alt titles: *"Holding On," "Unshakable," "When the World Goes Crazy," "Hold the 
 
 ## 6. Suno-Ready Style Prompt
 
-> Melodic Christian pop-punk worship anthem, 168 BPM, key of D, palm-muted distorted guitars, driving punk drums, anthemic gang vocals, urgent male lead, huge singalong whoa-oh chorus, hopeful
+> Fast melodic skate-punk, 184 BPM, key of D, palm-muted power chords, double-time punk drums, snotty raw male lead, shout-along whoa-oh chorus, breakneck and defiant, hopeful Christian energy
 
-**Tempo & vocal feel:** ~**165–172 BPM**, key of **D** (lift to **E** for the final chorus). Fast eighth-note
+**Tempo & vocal feel:** ~**182–186 BPM** (fast skate-punk), key of **D** (lift to **E** for the final chorus). Fast eighth-note
 palm-muted verses, wide-open power-chord chorus. Lead vocal: young, urgent, slightly raw and emotional —
 pushed but not screamed. Gang vocals (whole band shouting) on the hook and outro; double-track the chorus
 and stack the `(Whoa-oh)`s.
@@ -161,7 +161,7 @@ Anchor (Holding On to You)
 
 ### Style of Music box (paste exactly)
 ```
-Melodic Christian pop-punk worship anthem, 168 BPM, key of D, palm-muted distorted guitars, driving punk drums, anthemic gang vocals, urgent male lead, huge singalong whoa-oh chorus, hopeful
+Fast melodic skate-punk, 184 BPM, key of D, palm-muted power chords, double-time punk drums, snotty raw male lead, shout-along whoa-oh chorus, breakneck and defiant, hopeful Christian energy
 ```
 
 ### Exclude Styles box (optional)

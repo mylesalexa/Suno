@@ -40,7 +40,7 @@ crowd outro: "we'll finish this together."
 **Genre:** anthemic, building pop-punk — warm, communal, bittersweet-triumphant. Driving guitars, soaring
 octave-lead melody, and a big gang-vocal "we" chorus. The arms-around-each-other, lighters-up closer feel.
 
-- **Tempo:** ~**148–152 BPM** — anthemic, with lift and weight.
+- **Tempo:** ~**146–150 BPM** — rootsy heartland-punk drive, lighters-up and communal.
 - **Key:** **D** major, lift to **E** for the final chorus.
 - **Vocal:** warm, passionate male lead — reflective in the verses, full and triumphant in the chorus.
   Big communal gang vocals on the "keep the faith / all the way home" hooks and the bridge — this is a
@@ -135,7 +135,7 @@ Kept the Faith
 
 ### Style of Music box (paste exactly)
 ```
-Anthemic building pop-punk, 150 BPM, key of D, driving guitars, soaring octave leads, warm passionate male lead, big communal gang-vocal chorus, bittersweet triumphant, Christian perseverance anthem
+Heartland folk-punk anthem, 148 BPM, key of D, raspy gritty male lead, jangly electric and acoustic guitars, mandolin, gang-chant chorus, lighters-up communal feel, bittersweet triumphant, Christian
 ```
 
 ### Exclude Styles box (optional)

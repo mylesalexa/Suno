@@ -135,7 +135,7 @@ Take It All
 
 ### Style of Music box (paste exactly)
 ```
-Emotive worship pop-punk, 138 BPM, key of C, intimate clean-guitar verses, soaring anthemic adoring chorus, passionate male lead, big communal worship gang vocals, builds intimate to huge, Christian
+Emotive worship pop-punk, 138 BPM, key of C, clean-guitar verses, ambient pads and hammond organ, soaring adoring chorus, male lead, communal worship gang vocals, builds intimate to huge, Christian
 ```
 
 ### Exclude Styles box (optional)

@@ -40,7 +40,7 @@ resolve: *"I don't know what's ahead, but You already know"* (outro).
 "Still's" melody. Palm-muted verses opening to wide open-chord choruses, ringing octave lead line over the
 hook, punchy punk drums, big gang-vocal "whoa-oh"s.
 
-- **Tempo:** ~**155–160 BPM** — fast and forward-moving, but anthemic, not frantic.
+- **Tempo:** ~**158–162 BPM** — bright and bouncy, four-on-the-floor pop-punk, radio-single energy.
 - **Key:** **E** major, lift to **F#** for the final chorus.
 - **Vocal:** young, hopeful, full-chested male lead — earnest in the verses, soaring and committed in the
   chorus. Gang vocals on the "I don't know, but You do" call-and-response and the outro.
@@ -143,7 +143,7 @@ I Don't Know (But You Do)
 
 ### Style of Music box (paste exactly)
 ```
-Anthemic Christian pop-punk worship anthem, 158 BPM, key of E, driving palm-muted guitars, octave lead lines, punchy punk drums, gang-vocal whoa-oh hooks, hopeful male lead, big singalong chorus
+Bright radio pop-punk, 160 BPM, key of A, chiming guitars, four-on-the-floor bounce, handclaps, oh-oh hooks, upbeat hopeful male lead, big poppy singalong chorus, energetic and joyful, Christian
 ```
 
 ### Exclude Styles box (optional)

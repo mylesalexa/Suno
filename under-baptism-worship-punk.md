@@ -39,7 +39,7 @@ cathartic final chorus → bare, broken outro: *"I went down a dyin' man, and I 
 
 ## Style / Tempo / Vocal
 
-**Genre:** raw, dynamic pop-punk — same emotional deep-cut family as "Empty." Intimate clean/arpeggiated
+**Genre:** atmospheric, post-rock-tinged pop-punk — a dynamic deep cut, different texture from "Empty." Intimate clean/arpeggiated
 guitar verses (bass + ghosted drums), exploding into a driving, distorted, cathartic chorus. Big dynamic
 swings; a single raw lead carries it, group vocals only as soft echoes at the very end.
 
@@ -143,7 +143,7 @@ Under (Came Up New)
 
 ### Style of Music box (paste exactly)
 ```
-Raw emotional pop-punk, 150 BPM, key of C, intimate clean-guitar verses, explosive distorted cathartic chorus, gritty cracking male lead, real and vulnerable, heartfelt Christian baptism testimony
+Atmospheric post-rock pop-punk, 150 BPM, key of C, ambient delayed guitars, water FX, swelling distorted cathartic chorus, gritty emotive male lead, dynamic build, raw Christian baptism testimony
 ```
 
 ### Exclude Styles box (optional)

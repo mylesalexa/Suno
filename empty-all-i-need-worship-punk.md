@@ -35,11 +35,11 @@ cathartic final chorus → bare, intimate outro: *"I came in empty, now my cup r
 
 ## Style / Tempo / Vocal
 
-**Genre:** raw, dynamic pop-punk — emotional deep cut, not anthem. Intimate clean/arpeggiated guitar in
+**Genre:** piano-led pop-punk ballad that explodes — emotional deep cut. Piano and clean guitar in
 the verses (bass and ghosted drums underneath), exploding into a driving, distorted, *cathartic* chorus.
 Big dynamic range is the whole point. Minimal gang vocals — this one rides a single raw lead.
 
-- **Tempo:** ~**144–148 BPM**, with real dynamic dips (verses pulled way back, chorus full).
+- **Tempo:** ~**128–132 BPM** — a piano ballad that detonates; verses bare, choruses full and crashing.
 - **Key:** **D** major, with **minor-leaning verses** (B minor feel) resolving up into the chorus — that
   shadow-to-light shift carries the testimony.
 - **Vocal:** gritty, vulnerable, *cracking* male lead — near-spoken and quiet at the bottom of the verses,
@@ -138,7 +138,7 @@ Empty (All I Need)
 
 ### Style of Music box (paste exactly)
 ```
-Raw emotional pop-punk, 146 BPM, key of D, intimate clean-guitar verses, driving distorted cathartic chorus, gritty cracking male lead, real and vulnerable, heartfelt Christian testimony
+Pop-punk ballad that explodes, 130 BPM, key of D, piano and clean-guitar intro, strings, building to a distorted cathartic chorus, gritty cracking male lead, raw and vulnerable, Christian testimony
 ```
 
 ### Exclude Styles box (optional)
@@ -149,7 +149,7 @@ EDM, trap, country, lo-fi, rap, autotune, gang vocals
 ### Lyrics box (paste exactly)
 ```
 [Intro]
-(soft clean guitar, single picked notes)
+(soft piano and clean guitar, single notes)
 
 [Verse 1]
 (quiet, intimate, vulnerable)

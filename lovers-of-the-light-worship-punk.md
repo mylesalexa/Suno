@@ -49,7 +49,7 @@ our lives."*
 verses, soaring melodic octave-lead lines, a huge singable gang-vocal chorus, and an emotional bridge
 that pulls back before the final explosion. More anthem than the deep cuts, but it still carries weight.
 
-- **Tempo:** ~**166–170 BPM** — fast, urgent, anthemic.
+- **Tempo:** ~**164–168 BPM** — fast and urgent, with a half-time gang-chant breakdown.
 - **Key:** **D** major with **minor-leaning verses** lifting into a bright, soaring chorus.
 - **Vocal:** passionate, soaring male lead — intense and emotive in the verses, full-throated and melodic
   in the chorus. Gang vocals on the "we will not conform" and "hope for all" lines; let the bridge get
@@ -151,7 +151,7 @@ Lovers of the Light
 
 ### Style of Music box (paste exactly)
 ```
-Anthemic emotive pop-punk, 168 BPM, key of D, driving distorted guitars, soaring melodic octave leads, passionate male lead, big gang-vocal anthem chorus, intense and hopeful, Christian conviction
+Emotive post-hardcore pop-punk, 165 BPM, key of D, dual-guitar harmony leads, heavy distorted riffs, gang-chant breakdown, soaring male lead, intense anthemic chorus, urgent hopeful, Christian
 ```
 
 ### Exclude Styles box (optional)

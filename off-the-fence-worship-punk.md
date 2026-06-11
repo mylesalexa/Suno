@@ -44,7 +44,7 @@ chorus → tender crowd outro: "come on home — don't walk away."
 melody, a big arms-out gang-vocal chorus that feels like an invitation, and a bridge that pulls back to
 the intimate "moment" before the final explosion. Urgent energy, warm heart.
 
-- **Tempo:** ~**154–158 BPM** — driving and urgent, but with room for the chorus to soar.
+- **Tempo:** ~**148–152 BPM** — driving backbeat with claps, room for the choir-style chorus to soar.
 - **Key:** **G** major, lift to **A** for the final chorus.
 - **Vocal:** passionate, soaring male lead — earnest and direct in the verses, wide and pleading-but-warm
   in the chorus. Gang vocals on the "why you waitin' / just come / this is the day" hooks; the bridge gets
@@ -142,7 +142,7 @@ Off the Fence
 
 ### Style of Music box (paste exactly)
 ```
-Anthemic emotive pop-punk altar call, 156 BPM, key of G, driving guitars, soaring octave leads, passionate male lead, huge open inviting gang-vocal chorus, urgent warm and hopeful, Christian
+Gospel-tinged pop-punk, 150 BPM, key of G, hammond organ, handclaps and tambourine, choir-style gang vocals, passionate male lead, big celebratory invitation chorus, warm and hopeful, Christian
 ```
 
 ### Exclude Styles box (optional)

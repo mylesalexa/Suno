@@ -37,10 +37,10 @@ crowd outro: "we'll finish this together."
 
 ## Style / Tempo / Vocal
 
-**Genre:** anthemic, building pop-punk — warm, communal, bittersweet-triumphant. Driving guitars, soaring
-octave-lead melody, and a big gang-vocal "we" chorus. The arms-around-each-other, lighters-up closer feel.
+**Genre:** driving melodic punk rock — fast, raw, and communal. Distorted power-chord guitars, pounding
+punk drums, and a big unison crowd gang-chant "we" chorus. The arms-around-each-other, fists-up closer feel.
 
-- **Tempo:** ~**146–150 BPM** — rootsy heartland-punk drive, lighters-up and communal.
+- **Tempo:** ~**150–154 BPM** — fast, driving punk-rock pulse; relentless and communal.
 - **Key:** **D** major, lift to **E** for the final chorus.
 - **Vocal:** warm, passionate male lead — reflective in the verses, full and triumphant in the chorus.
   Big communal gang vocals on the "keep the faith / all the way home" hooks and the bridge — this is a
@@ -135,18 +135,18 @@ Kept the Faith
 
 ### Style of Music box (paste exactly)
 ```
-Heartland folk-punk anthem, 148 BPM, key of D, raspy gritty male lead, jangly electric and acoustic guitars, mandolin, gang-chant chorus, lighters-up communal feel, bittersweet triumphant, Christian
+Driving punk rock singalong, 152 BPM, key of D, distorted power chords, fast punk drums, big unison crowd gang-chant chorus, raw passionate male lead, anthemic and bittersweet triumphant, Christian
 ```
 
 ### Exclude Styles box (optional)
 ```
-country, EDM, trap, lo-fi, rap, screamo, metal
+country, Americana, folk, bluegrass, mandolin, banjo, acoustic, twang, EDM, trap
 ```
 
 ### Lyrics box (paste exactly)
 ```
 [Intro]
-(driving guitar, octave lead, building)
+(fast distorted power chords, driving punk drums)
 (Whoa-oh-oh-oh!)
 
 [Verse 1]

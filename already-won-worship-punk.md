@@ -138,7 +138,7 @@ Already Won
 
 ### Style of Music box (paste exactly)
 ```
-Triumphant anthemic pop-punk, 172 BPM, key of E, driving distorted guitars, soaring octave leads, huge gang-vocal celebration chorus, jubilant male lead, key change finale, joyful victorious Christian
+Triumphant pop-punk, 172 BPM, key of E, driving distorted guitars, soaring octave leads, huge gang-vocal celebration chorus, jubilant male lead, key change finale, joyful victorious Christian
 ```
 
 ### Exclude Styles box (optional)

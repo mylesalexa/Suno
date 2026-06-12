@@ -2,7 +2,7 @@
 
 *Dark, driving outlaw country — the storm-chaser's anthem. Everyone else runs for the cellar; he floors
 it the other way. It's the thrill, the fear, the not-knowing-if-this-is-the-one-that-kills-him, and the
-survival high that hooks him right back in. Country at the core — twang, dobro, fiddle — but breathless
+survival high that hooks him right back in. Polished modern country — acoustic, banjo, fiddle, pedal steel — urgent
 and ominous, built to hit fast and grip. Companion to "When the Sky Turns Green" (other side of the storm).*
 
 > **Original — not a copy.** Plays in the same dark-storm-country world as the reference (the chase, the
@@ -39,14 +39,15 @@ closest he feels to God (bridge) → final chorus → driving-off outro, already
 
 ## Style / Tempo / Vocal
 
-**Genre:** dark, driving outlaw country — country at the core, *not* rock. Gritty Telecaster twang, dobro
-slide, fiddle, and a banjo roll riding a fast, freight-train country shuffle. Breathless and ominous,
-opening into a big country chorus. Faster than its companion song to carry the chase.
+**Genre:** driving modern country anthem — radio/arena country, *not* rock or grunge. Acoustic guitar,
+banjo roll, fiddle, and pedal steel, with clean ringing electric for size over a fast, punchy country
+beat. Opens into a big, soaring chorus. Faster than its companion song to carry the chase.
 
 - **Tempo:** ~**150–156 BPM** — fast, driving, train-beat urgency; **hit the first verse immediately.**
 - **Key:** **E minor** — dark, with a chorus that opens big but stays edgy, not bright.
-- **Vocal:** gritty, raspy, breathless male baritone — urgent and conversational in the verses, full and
-  desperate in the chorus. Keep it twangy and human, not polished — fear and adrenaline in the delivery.
+- **Vocal:** warm, powerful, *polished* modern-country male lead — clean and strong, big and emotive (the
+  same radio-country anthem voice as "Everybody Knows Somebody" / "Where We Belong," **not** gritty or
+  grungy). Urgent and steady in the verses, soaring in the chorus — adrenaline in the phrasing, not grit.
 
 ---
 
@@ -91,7 +92,7 @@ But I'll chase it 'til they lay me in the ground —
 Lord, I was born to chase the storm.
 
 ### Bridge
-*(drops down, breathless, building)*
+*(drops down, intimate, building)*
 My wife, she'll never get it, and my daddy never did,
 Why a grown man chases dyin' like he's still some reckless kid.
 But there's somethin' in the chaos that's the closest I've felt to Him —
@@ -136,12 +137,12 @@ One Eye on the Sky
 
 ### Style of Music box (paste exactly)
 ```
-Driving outlaw country, 152 BPM, key of E minor, Telecaster twang, dobro slide, fiddle, banjo roll, freight-train country drums, gritty raspy baritone, breathless and ominous, big country chorus
+Driving modern country anthem, 150 BPM, key of E minor, acoustic guitar, banjo, fiddle, pedal steel, punchy country drums, warm powerful polished male lead, urgent and cinematic, big soaring chorus
 ```
 
 ### Exclude Styles box (optional)
 ```
-rock, hard rock, arena rock, metal, distorted electric guitar, pop, EDM, screamo
+rock, southern rock, grunge, distorted guitars, gritty raspy vocals, metal, screamo, pop, EDM
 ```
 
 ### Lyrics box (paste exactly)
@@ -194,7 +195,7 @@ But I'll chase it 'til they lay me in the ground
 Lord, I was born to chase the storm
 
 [Bridge]
-(drops down, breathless, building)
+(drops down, intimate, building)
 My wife, she'll never get it, and my daddy never did
 Why a grown man chases dyin' like he's still some reckless kid
 But there's somethin' in the chaos that's the closest I've felt to Him
@@ -219,4 +220,5 @@ Lord, I was born to chase the storm
 
 > **Fit note:** under the ~3000-char cap. Hit the verse fast — keep the intro to a single lick. The grip is
 > the thrill/fear contradiction, so keep the vocal urgent and a little ragged. If Suno drifts toward rock,
-> push `outlaw country, Telecaster, dobro, fiddle, banjo` harder and keep `rock/distorted` in Exclude.
+> push `modern country, acoustic, fiddle, pedal steel, banjo, polished male lead` harder and keep
+> `rock / grunge / distorted / raspy` in Exclude.

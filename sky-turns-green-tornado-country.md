@@ -1,10 +1,10 @@
 # When the Sky Turns Green
 
-*Dark, driving modern/outlaw country — a storm song in the lineage of ominous, muscled-up Nashville cuts
-like "Ain't No Love in Oklahoma," but country at the core (not arena rock). The tornado is both literal
-and a force of pitiless judgment: out on the southern prairie, the wind doesn't love anybody — it takes
-the roof, the truck, the home, and her. Gritty Telecaster and dobro, a stomping country beat, a raspy
-baritone, and a hook built to grip.*
+*Dark, dramatic modern country anthem — a storm song in the lineage of big, ominous Nashville cuts like
+"Ain't No Love in Oklahoma," but polished country at the core (not arena rock or grunge). The tornado is
+both literal and a force of pitiless judgment: out on the southern prairie, the wind doesn't love anybody
+— it takes the roof, the truck, the home, and her. Acoustic, pedal steel and dobro, a punchy country beat,
+and a warm, powerful, polished modern-country lead — clean and strong, matching the catalog's anthems.*
 
 > **Original — not a copy.** Captures the *feel* of dark storm-country (menace, fatalism, the storm as
 > a living thing) with entirely original lyrics and imagery. No artist names go in the Suno box.
@@ -38,14 +38,15 @@ the prairie always collects (bridge) → final chorus → ominous fade.
 
 ## Style / Tempo / Vocal
 
-**Genre:** dark, driving outlaw/modern country — Southern-gothic, *not* rock. Acoustic guitar, gritty
-Telecaster twang, dobro/lap-steel slide, and fiddle over a stomping country beat; gritty, raspy baritone.
-Brooding verses that open into a huge, haunting chorus. Keep it country — no arena-rock distortion.
+**Genre:** dramatic modern country anthem — radio/arena country, *not* rock or grunge. Acoustic guitar,
+pedal steel, dobro, and fiddle, with clean ringing electric for size over a punchy country beat. Brooding
+verses open into a huge, soaring chorus. Keep it polished country — no distortion, no raspy grit.
 
 - **Tempo:** ~**138–142 BPM** — heavy mid-tempo stomp; **hit the first verse fast, almost no intro.**
 - **Key:** **E minor** (dark), with the chorus opening big and menacing rather than bright.
-- **Vocal:** gritty, weathered, powerful male baritone with a raspy edge — restrained and ominous in the
-  verses, full-throated and desperate in the chorus. Optional low gang shout doubling the hook line.
+- **Vocal:** warm, powerful, *polished* modern-country male lead — clean and strong, big and emotive (the
+  same radio-country anthem voice as "Everybody Knows Somebody" / "Where We Belong," **not** gritty or
+  grungy). Restrained and steady in the verses, soaring in the chorus.
 
 ---
 
@@ -135,12 +136,12 @@ When the Sky Turns Green
 
 ### Style of Music box (paste exactly)
 ```
-Dark driving outlaw country, 140 BPM, key of E minor, acoustic guitar, Telecaster twang, dobro slide, fiddle, country drums, gritty raspy baritone, ominous Southern storm song, big haunting chorus
+Modern country anthem, 140 BPM, key of E minor, acoustic guitar, pedal steel, dobro, fiddle, punchy country drums, warm powerful polished male lead, dramatic and cinematic, big soaring chorus
 ```
 
 ### Exclude Styles box (optional)
 ```
-rock, hard rock, arena rock, metal, distorted electric guitar, pop, EDM, upbeat, happy
+rock, southern rock, grunge, distorted guitars, gritty raspy vocals, metal, screamo, pop, EDM
 ```
 
 ### Lyrics box (paste exactly)

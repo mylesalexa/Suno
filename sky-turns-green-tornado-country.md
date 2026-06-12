@@ -135,7 +135,7 @@ When the Sky Turns Green
 
 ### Style of Music box (paste exactly)
 ```
-Dark driving outlaw country, 140 BPM, key of E minor, acoustic guitar, Telecaster twang, dobro slide, fiddle, stomping country drums, gritty raspy baritone, ominous Southern storm song, haunting chorus
+Dark driving outlaw country, 140 BPM, key of E minor, acoustic guitar, Telecaster twang, dobro slide, fiddle, country drums, gritty raspy baritone, ominous Southern storm song, big haunting chorus
 ```
 
 ### Exclude Styles box (optional)

@@ -138,7 +138,7 @@ One Eye on the Sky
 
 ### Style of Music box (paste exactly)
 ```
-Driving cinematic country, 150 BPM, key of E minor, acoustic guitar, moody electric guitar, pedal steel, warm Nashville polish, harmonies, powerful warm male lead, atmospheric and dark, no autotune, urgent
+Driving cinematic country, 150 BPM, key of E minor, acoustic guitar, moody electric, pedal steel, warm Nashville polish, harmonies, powerful warm male lead, atmospheric and dark, no autotune, urgent
 ```
 
 ### Exclude Styles box (optional)

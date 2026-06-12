@@ -135,7 +135,7 @@ Act of God
 
 ### Style of Music box (paste exactly)
 ```
-Hard-driving cinematic country, 152 BPM, key of E minor, galloping train-beat drums, driving acoustic, ringing electric, pedal steel, high-octane groove, powerful polished male lead, dark and prayerful
+Hard-driving cinematic country, 152 BPM, key of E minor, galloping train-beat drums, driving acoustic, electric guitar, pedal steel, high-octane groove, powerful polished male lead, dark and prayerful
 ```
 
 ### Exclude Styles box (optional)

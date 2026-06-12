@@ -1,9 +1,10 @@
 # When the Sky Turns Green
 
-*Dark, driving country-rock — a storm song in the lineage of muscled-up, ominous Nashville rockers like
-"Ain't No Love in Oklahoma." The tornado is both literal and a force of pitiless judgment: out on the
-southern prairie, the wind doesn't love anybody — it takes the roof, the truck, the home, and her.
-Heavy electric guitars, a stomping beat, a gritty raspy baritone, and a hook built to grip.*
+*Dark, driving modern/outlaw country — a storm song in the lineage of ominous, muscled-up Nashville cuts
+like "Ain't No Love in Oklahoma," but country at the core (not arena rock). The tornado is both literal
+and a force of pitiless judgment: out on the southern prairie, the wind doesn't love anybody — it takes
+the roof, the truck, the home, and her. Gritty Telecaster and dobro, a stomping country beat, a raspy
+baritone, and a hook built to grip.*
 
 > **Original — not a copy.** Captures the *feel* of dark storm-country (menace, fatalism, the storm as
 > a living thing) with entirely original lyrics and imagery. No artist names go in the Suno box.
@@ -37,11 +38,11 @@ the prairie always collects (bridge) → final chorus → ominous fade.
 
 ## Style / Tempo / Vocal
 
-**Genre:** dark, driving country-rock — heavy and cinematic. Big distorted electric guitars and a menacing
-slide/dobro line over a stomping floor-tom beat; Hammond organ swells for dread; gritty, powerful raspy
-baritone. Brooding verses that detonate into a huge, ominous chorus. Southern-gothic storm energy.
+**Genre:** dark, driving outlaw/modern country — Southern-gothic, *not* rock. Acoustic guitar, gritty
+Telecaster twang, dobro/lap-steel slide, and fiddle over a stomping country beat; gritty, raspy baritone.
+Brooding verses that open into a huge, haunting chorus. Keep it country — no arena-rock distortion.
 
-- **Tempo:** ~**136–142 BPM** — a heavy mid-tempo stomp, relentless, not frantic.
+- **Tempo:** ~**138–142 BPM** — heavy mid-tempo stomp; **hit the first verse fast, almost no intro.**
 - **Key:** **E minor** (dark), with the chorus opening big and menacing rather than bright.
 - **Vocal:** gritty, weathered, powerful male baritone with a raspy edge — restrained and ominous in the
   verses, full-throated and desperate in the chorus. Optional low gang shout doubling the hook line.
@@ -134,18 +135,18 @@ When the Sky Turns Green
 
 ### Style of Music box (paste exactly)
 ```
-Dark driving country rock, 138 BPM, key of E minor, heavy distorted electric guitars, stomping drums, gritty powerful male baritone, ominous Southern storm anthem, slide guitar, big menacing chorus
+Dark driving outlaw country, 140 BPM, key of E minor, acoustic guitar, Telecaster twang, dobro slide, fiddle, stomping country drums, gritty raspy baritone, ominous Southern storm song, haunting chorus
 ```
 
 ### Exclude Styles box (optional)
 ```
-pop, bubblegum, upbeat, bright, EDM, trap, lo-fi, happy
+rock, hard rock, arena rock, metal, distorted electric guitar, pop, EDM, upbeat, happy
 ```
 
 ### Lyrics box (paste exactly)
 ```
 [Intro]
-(ominous slide guitar, distant thunder, heavy)
+(quick dobro slide, kick straight into the verse — short)
 
 [Verse 1]
 (restrained, ominous)

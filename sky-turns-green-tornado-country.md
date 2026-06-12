@@ -138,7 +138,7 @@ When the Sky Turns Green
 
 ### Style of Music box (paste exactly)
 ```
-Cinematic modern country, 140 BPM, key of E minor, acoustic guitar, bright electric licks, pedal steel, banjo accents, warm Nashville polish, vocal harmonies, powerful warm male lead, no autotune, dramatic
+Cinematic modern country, 140 BPM, key of E minor, acoustic guitar, bright electric licks, pedal steel, banjo, warm Nashville polish, vocal harmonies, powerful warm male lead, no autotune, dramatic
 ```
 
 ### Exclude Styles box (optional)

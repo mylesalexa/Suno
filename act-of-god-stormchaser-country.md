@@ -44,7 +44,7 @@ bridge: never felt so small, hold me through the night (bridge) → final chorus
 dark brooding electric, pedal steel, and fiddle over a fast, punchy country beat. Opens into a big,
 dramatic chorus with tight harmonies. Shadowy and reverent, not sunny. (No banjo — keep it dark.)
 
-- **Tempo:** ~**146–150 BPM** — fast, driving, with weight under it; **hit the first verse fast.**
+- **Tempo:** ~**150–154 BPM** — hard-driving, high-octane, with weight; **hit the first verse fast.**
 - **Key:** **E minor** — dark and dramatic, the chorus opens big but stays heavy, not bright.
 - **Vocal:** warm, powerful, *polished* modern-country male lead — clean and strong, big and emotive (the
   same radio-country anthem voice as "Everybody Knows Somebody" / "Where We Belong," **not** gritty or
@@ -135,7 +135,7 @@ Act of God
 
 ### Style of Music box (paste exactly)
 ```
-Driving cinematic country, 148 BPM, key of E minor, acoustic guitar, moody electric, pedal steel, Nashville polish, harmonies, powerful warm male lead, atmospheric and dark, no autotune, prayerful
+Hard-driving cinematic country, 152 BPM, key of E minor, galloping train-beat drums, driving acoustic, ringing electric, pedal steel, high-octane groove, powerful polished male lead, dark and prayerful
 ```
 
 ### Exclude Styles box (optional)

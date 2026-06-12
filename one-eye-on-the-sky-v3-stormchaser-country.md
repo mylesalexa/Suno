@@ -17,7 +17,7 @@ Same moody, polished modern-country voice as the catalog. Dark and driving, hits
 dark brooding electric, pedal steel over a fast, punchy country beat. Big, dramatic chorus with tight
 harmonies. Shadowy, not sunny — no banjo.
 
-- **Tempo:** ~**150 BPM** — fast, driving, with weight; **hit the first verse fast.**
+- **Tempo:** ~**158 BPM** — hard-driving, high-octane; **hit the first verse fast.**
 - **Key:** **E minor** — dark, the chorus opens big but stays heavy.
 - **Vocal:** warm, powerful, *polished* modern-country male lead — clean and strong, big and emotive (the
   same anthem voice as "Everybody Knows Somebody" / "Where We Belong," **not** gritty or grungy). Urgent in
@@ -99,7 +99,7 @@ One Eye on the Sky
 
 ### Style of Music box (paste exactly)
 ```
-Driving cinematic country, 150 BPM, key of E minor, acoustic guitar, moody electric, pedal steel, Nashville polish, harmonies, powerful warm male lead, atmospheric and dark, no autotune, urgent
+Hard-driving cinematic country, 158 BPM, key of E minor, galloping train-beat drums, driving acoustic, ringing electric, pedal steel, high-octane groove, powerful polished male lead, intense and dark
 ```
 
 ### Exclude Styles box (optional)

@@ -47,7 +47,7 @@ shadowy, not sunny). Opens into a big, soaring chorus with tight harmonies. Warm
 **no autotune** — the same production and lead voice as the catalog's anthems, in a minor key. Faster than
 its companion song to carry the chase.
 
-- **Tempo:** ~**150–156 BPM** — fast, driving, train-beat urgency; **hit the first verse immediately.**
+- **Tempo:** ~**156–160 BPM** — hard-driving, high-octane train-beat; **hit the first verse immediately.**
 - **Key:** **E minor** — dark, with a chorus that opens big but stays edgy, not bright.
 - **Vocal:** warm, powerful, *polished* modern-country male lead — clean and strong, big and emotive (the
   same radio-country anthem voice as "Everybody Knows Somebody" / "Where We Belong," **not** gritty or
@@ -138,7 +138,7 @@ One Eye on the Sky
 
 ### Style of Music box (paste exactly)
 ```
-Driving cinematic country, 150 BPM, key of E minor, acoustic guitar, moody electric, pedal steel, warm Nashville polish, harmonies, powerful warm male lead, atmospheric and dark, no autotune, urgent
+Hard-driving cinematic country, 158 BPM, key of E minor, galloping train-beat drums, driving acoustic, ringing electric, pedal steel, high-octane groove, powerful polished male lead, intense and dark
 ```
 
 ### Exclude Styles box (optional)

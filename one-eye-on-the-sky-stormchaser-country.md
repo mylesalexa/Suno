@@ -41,9 +41,9 @@ some of us drive."
 
 ## Style / Tempo / Vocal
 
-**Genre:** driving modern country anthem — radio/arena country, *not* rock or grunge. Acoustic guitar,
-banjo roll, fiddle, and pedal steel, with clean ringing electric for size over a fast, punchy country
-beat. Opens into a big, soaring chorus with tight harmonies. Warm Nashville polish, organic instruments,
+**Genre:** driving, *moody* modern country — radio/arena country, *not* rock or grunge. Acoustic guitar,
+fiddle, pedal steel, and dark, brooding electric over a fast, punchy country beat (no banjo — keep it
+shadowy, not sunny). Opens into a big, soaring chorus with tight harmonies. Warm Nashville polish, organic instruments,
 **no autotune** — the same production and lead voice as the catalog's anthems, in a minor key. Faster than
 its companion song to carry the chase.
 
@@ -138,7 +138,7 @@ One Eye on the Sky
 
 ### Style of Music box (paste exactly)
 ```
-Driving cinematic country, 150 BPM, key of E minor, acoustic guitar, bright electric licks, pedal steel, banjo, warm Nashville polish, vocal harmonies, powerful warm male lead, no autotune, urgent
+Driving cinematic country, 150 BPM, key of E minor, acoustic guitar, moody electric guitar, pedal steel, warm Nashville polish, harmonies, powerful warm male lead, atmospheric and dark, no autotune, urgent
 ```
 
 ### Exclude Styles box (optional)
@@ -149,7 +149,7 @@ heavy rock, southern rock, grunge, distorted guitars, gritty raspy vocals, EDM, 
 ### Lyrics box (paste exactly)
 ```
 [Intro]
-(quick fiddle and banjo kick, straight into the verse — short)
+(quick fiddle and moody electric kick, straight into the verse — short)
 
 [Verse 1]
 (urgent, driving)
@@ -219,4 +219,4 @@ Some run for their lives, and some of us drive
 > **Fit note:** under the ~3000-char cap. Hit the verse fast — keep the intro to a single lick. The grip is
 > the adrenaline/fear contradiction and the "it turns on you" reversal, so keep the vocal urgent but clean
 > and powerful (not grungy). If Suno drifts toward rock, push `modern country, acoustic, fiddle, pedal
-> steel, banjo, polished male lead` harder and keep `rock / grunge / distorted / raspy` in Exclude.
+> steel, moody electric, polished male lead` harder and keep `rock / grunge / distorted / raspy` in Exclude.

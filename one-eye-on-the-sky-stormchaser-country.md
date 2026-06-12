@@ -1,39 +1,41 @@
 # One Eye on the Sky
 
-*Dark, driving outlaw country — the storm-chaser's anthem. Everyone else runs for the cellar; he floors
-it the other way. It's the thrill, the fear, the not-knowing-if-this-is-the-one-that-kills-him, and the
-survival high that hooks him right back in. Polished modern country — acoustic, banjo, fiddle, pedal steel — urgent
-and ominous, built to hit fast and grip. Companion to "When the Sky Turns Green" (other side of the storm).*
+*Driving modern country anthem — a pure storm-chaser song. No backstory, no love interest, no looking
+back: just the adrenaline, the chase, the fear, the run, and the terror of a thing that can turn on a dime
+and come straight for you. Polished, powerful modern-country anthem voice (matching the rest of the
+catalog), built to hit fast. Companion to "When the Sky Turns Green" — the other side of the storm.*
 
-> **Original — not a copy.** Plays in the same dark-storm-country world as the reference (the chase, the
-> "devil" in the weather) with all-original lyrics and hook. No artist names in the Suno box.
+> **Original — not a copy.** Lives in the dark-storm-country world without lifting any lines or melody.
+> No artist names go in the Suno box.
 
 ---
 
 ## Creative Direction
 
-**Concept:** *The man who chases what everyone else flees — "one eye on Jesus, one eye on the sky."* It
-lives inside the chase: the addictive pull toward the funnel, the terror of getting too close, the prayer
-on his lips, and the fact that surviving it only makes him want it more. Thrill, fear, uncertainty,
-survival — all four, in that order, across the song.
+**Concept:** *The chase, and nothing but the chase.* Everyone runs for cover; he points the truck at the
+funnel. The song is the pure experience — the launch, the rush, the closing distance, the moment it
+changes direction and the hunter becomes the hunted, the flat-out run, and the not-knowing whether he
+drives home or doesn't. Adrenaline → chase → fear → run → the unknown.
 
 **Why it grips:**
-- **Thrill + dread in the same breath.** "Scared to death and I never felt so alive" is the whole song in
-  one line — the contradiction is the hook.
-- **Real stakes / uncertainty.** "Could be the day the wind finally takes me down" — he doesn't know if
-  he'll walk away, and neither do we. That's tension.
-- **A survival story you can see.** V2 is a specific near-miss (the freight-train roar, the barn around the
-  water tower) — he lived, and the relief curdles right back into craving.
-- **The faith wrestle.** "One eye on Jesus, one eye on the sky" and "the closest I've felt to Him" give it
-  weight — the chase as a reckless, almost holy reach for something bigger.
+- **Adrenaline as addiction:** "there's a needle in my blood that only this can feed." It's a compulsion,
+  not a hobby.
+- **The reversal:** "one second you're the chaser, then the thing is chasin' back" — hunter to hunted in a
+  heartbeat. That flip is the heart-in-throat moment.
+- **The unknown direction:** tornadoes don't read a map — "it'll turn on a dime, come straight for the
+  glass." Real behavior, and the source of the dread.
+- **Fear + thrill in one breath:** "hundred-mile-an-hour heart, scared out of my mind / there's nothin'
+  like the chase." The contradiction is the hook.
+- **The run:** "threw it in reverse and ran" — survival isn't guaranteed; sometimes you flee what you came
+  to find.
 
-**Authentic detail (researched):** the green/red radar, the rotating wall, hail, the freight-train roar,
-"you can't outrun it," the funnel "being born" — grounded so the fear reads real.
+**Authentic detail (researched):** rain-wrapped funnels you can't see, storms that shift and double back,
+the fact you can't reliably outrun one, the radar-screen chase rigs.
 
-**Emotional arc:** the pre-dawn pull, the addiction (V1) → "the closer to the dyin', the closer I get
-free" (pre) → the chase: everyone runs, I run toward it, scared and alive (chorus) → the near-miss
-survival story (V2) → "a holy kind of terror" (pre 2) → the bridge: nobody understands why, but it's the
-closest he feels to God (bridge) → final chorus → driving-off outro, already chasing the next one.
+**Emotional arc:** the launch and the rush (V1) → the addiction (pre) → chase / fear / run / it turns
+(chorus) → the close call, hunter→hunted, the retreat (V2) → "it don't read a map" (pre 2) → the unknown
+*is* the addiction (bridge) → final chorus → the mission-statement outro: "some run for their lives, and
+some of us drive."
 
 ---
 
@@ -54,81 +56,78 @@ beat. Opens into a big, soaring chorus. Faster than its companion song to carry 
 ## Full Lyrics
 
 ### Verse 1
-Five a.m., the dew's still wet, the radar's lit up red,
-Gas-station coffee in my fist and a death wish in my head.
-Mama says I'll meet my Maker in a ditch off 54 —
-But soon as that horizon starts to turn, I want it more.
+Antennas on the dash, three screens glowin' in the dark,
+Doin' ninety down a county road 'fore the first drop even starts.
+A caravan of strangers all chasin' the same line,
+Hearts already hammerin' 'fore we ever cross the sign.
 
 ### Pre-Chorus
-There's a sickness in a man like me —
-The closer to the dyin', the closer I get free —
+There's a needle in my blood that only this can feed —
+Foot down, dead ahead, runnin' straight at what should make me leave —
 
 ### Chorus
-They all run for the cellar — I run for the storm,
-Foot down on the gravel where the funnel's bein' born.
-Scared to death and I never felt so alive,
-One eye on Jesus and one eye on the sky.
-Could be the day the wind finally takes me down,
-But I'll chase it 'til they lay me in the ground —
-Lord, I was born to chase the storm.
+One eye on the road, one eye on the sky,
+Chasin' down a killer that don't care if I die.
+It'll turn on a dime, come straight for the glass —
+You floor it, then you run, and you pray that you're fast.
+Hundred-mile-an-hour heart, scared out of my mind —
+Lord, there's nothin' like the chase when the sky comes alive.
 
 ### Verse 2
-Watched it drop in Greer County like the hand of God came down,
-Wrapped a barn around a water tower, threw a pickup through the town.
-I was a quarter-mile too close when the world went freight-train loud —
-Said every prayer I ever knew, and I lived to tell it now.
+Had it on the ropes, half a mile and closin' in,
+Then the rain wrapped all around it and I couldn't see a thing.
+It crossed the road behind me — I was huntin', then got hunted,
+Threw it in reverse and ran, heart screamin', engine gunnin'.
 
 ### Pre-Chorus
-'Cause there's a holy kind of terror in that wall —
-A man ain't really livin' 'til he's stared the devil down and all —
+'Cause it don't pick a lane and it don't read a map —
+One second you're the chaser, then the thing is chasin' back —
 
 ### Chorus
-They all run for the cellar — I run for the storm,
-Foot down on the gravel where the funnel's bein' born.
-Scared to death and I never felt so alive,
-One eye on Jesus and one eye on the sky.
-Could be the day the wind finally takes me down,
-But I'll chase it 'til they lay me in the ground —
-Lord, I was born to chase the storm.
+One eye on the road, one eye on the sky,
+Chasin' down a killer that don't care if I die.
+It'll turn on a dime, come straight for the glass —
+You floor it, then you run, and you pray that you're fast.
+Hundred-mile-an-hour heart, scared out of my mind —
+Lord, there's nothin' like the chase when the sky comes alive.
 
 ### Bridge
 *(drops down, intimate, building)*
-My wife, she'll never get it, and my daddy never did,
-Why a grown man chases dyin' like he's still some reckless kid.
-But there's somethin' in the chaos that's the closest I've felt to Him —
-And the day I finally quit is the day the light goes dim —
-So here I go again —
+Nobody steers it, nobody knows which way it'll go —
+Could lift up and vanish, or drop a mile-wide funnel slow.
+And that's the part that keeps me comin', that's the part that keeps me up at night —
+Not knowin' if I'm walkin' away, or if this is the one that ends my life —
+Here it comes — here it comes —
 
 ### Final Chorus
 *(bigger, urgent)*
-They all run for the cellar — I run for the storm,
-Foot down on the gravel where the funnel's bein' born.
-Scared to death and I never felt so alive,
-One eye on Jesus and one eye on the sky.
-Could be the day the wind finally takes me down,
-But I'll chase it 'til they lay me in the ground —
-Lord, I was born to chase the storm.
+One eye on the road, one eye on the sky,
+Chasin' down a killer that don't care if I die.
+It'll turn on a dime, come straight for the glass —
+You floor it, then you run, and you pray that you're fast.
+Hundred-mile-an-hour heart, scared out of my mind —
+Lord, there's nothin' like the chase when the sky comes alive.
 
 ### Outro
 *(driving off, fading)*
-One eye on Jesus, one eye on the sky —
-Lord, I was born to chase the storm.
+One eye on the road, one eye on the sky —
+Some run for their lives... and some of us drive.
 
 ---
 
 ## Alternate Chorus Hook Options
-1. **"One eye on Jesus and one eye on the sky"** *(primary)*
-2. **"They all run for the cellar — I run for the storm"**
-3. **"Scared to death and I never felt so alive"**
-4. **"Lord, I was born to chase the storm"**
-5. **"Could be the day the wind finally takes me down"**
-6. **"The closer to the dyin', the closer I get free"**
+1. **"One eye on the road, one eye on the sky"** *(primary)*
+2. **"Chasin' down a killer that don't care if I die"**
+3. **"You floor it, then you run, and you pray that you're fast"**
+4. **"One second you're the chaser, then the thing is chasin' back"**
+5. **"Hundred-mile-an-hour heart, scared out of my mind"**
+6. **"Some run for their lives, and some of us drive"**
 
 ---
 
 ## ⬇️ Ready to Drop Into Suno (Custom Mode)
 
-> **How Suno reads this:** the **Style of Music** box caps at ~200 chars (silently truncated), comma-separated, genre first, BPM as a number, no artist names (filtered). The **Lyrics** box caps at ~3000 chars and reads `[Section]` tags plus `(parentheses)` for dynamics / performance direction. Keep "rock/distorted" out of the box and in the Exclude list so it stays country.
+> **How Suno reads this:** the **Style of Music** box caps at ~200 chars (silently truncated), comma-separated, genre first, BPM as a number, no artist names (filtered). The **Lyrics** box caps at ~3000 chars and reads `[Section]` tags plus `(parentheses)` for dynamics / performance direction. Keep "rock/grunge/distorted/raspy" out of the box and in the Exclude list so it stays polished country.
 
 ### Title (≤80 chars)
 ```
@@ -151,74 +150,71 @@ rock, southern rock, grunge, distorted guitars, gritty raspy vocals, metal, scre
 (quick fiddle and banjo kick, straight into the verse — short)
 
 [Verse 1]
-(urgent, conversational, twangy)
-Five a.m., the dew's still wet, the radar's lit up red
-Gas-station coffee in my fist and a death wish in my head
-Mama says I'll meet my Maker in a ditch off 54
-But soon as that horizon starts to turn, I want it more
+(urgent, driving)
+Antennas on the dash, three screens glowin' in the dark
+Doin' ninety down a county road 'fore the first drop even starts
+A caravan of strangers all chasin' the same line
+Hearts already hammerin' 'fore we ever cross the sign
 
 [Pre-Chorus]
 (building)
-There's a sickness in a man like me
-The closer to the dyin', the closer I get free
+There's a needle in my blood that only this can feed
+Foot down, dead ahead, runnin' straight at what should make me leave
 
 [Chorus]
 (full band, big country, urgent)
-They all run for the cellar, I run for the storm
-Foot down on the gravel where the funnel's bein' born
-Scared to death and I never felt so alive
-One eye on Jesus and one eye on the sky
-Could be the day the wind finally takes me down
-But I'll chase it 'til they lay me in the ground
-Lord, I was born to chase the storm
+One eye on the road, one eye on the sky
+Chasin' down a killer that don't care if I die
+It'll turn on a dime, come straight for the glass
+You floor it, then you run, and you pray that you're fast
+Hundred-mile-an-hour heart, scared out of my mind
+Lord, there's nothin' like the chase when the sky comes alive
 
 [Verse 2]
-(urgent, raw)
-Watched it drop in Greer County like the hand of God came down
-Wrapped a barn around a water tower, threw a pickup through the town
-I was a quarter-mile too close when the world went freight-train loud
-Said every prayer I ever knew, and I lived to tell it now
+(urgent, driving)
+Had it on the ropes, half a mile and closin' in
+Then the rain wrapped all around it and I couldn't see a thing
+It crossed the road behind me, I was huntin', then got hunted
+Threw it in reverse and ran, heart screamin', engine gunnin'
 
 [Pre-Chorus]
 (building)
-'Cause there's a holy kind of terror in that wall
-A man ain't really livin' 'til he's stared the devil down and all
+'Cause it don't pick a lane and it don't read a map
+One second you're the chaser, then the thing is chasin' back
 
 [Chorus]
 (full band, big country, urgent)
-They all run for the cellar, I run for the storm
-Foot down on the gravel where the funnel's bein' born
-Scared to death and I never felt so alive
-One eye on Jesus and one eye on the sky
-Could be the day the wind finally takes me down
-But I'll chase it 'til they lay me in the ground
-Lord, I was born to chase the storm
+One eye on the road, one eye on the sky
+Chasin' down a killer that don't care if I die
+It'll turn on a dime, come straight for the glass
+You floor it, then you run, and you pray that you're fast
+Hundred-mile-an-hour heart, scared out of my mind
+Lord, there's nothin' like the chase when the sky comes alive
 
 [Bridge]
 (drops down, intimate, building)
-My wife, she'll never get it, and my daddy never did
-Why a grown man chases dyin' like he's still some reckless kid
-But there's somethin' in the chaos that's the closest I've felt to Him
-And the day I finally quit is the day the light goes dim
-So here I go again
+Nobody steers it, nobody knows which way it'll go
+Could lift up and vanish, or drop a mile-wide funnel slow
+And that's the part that keeps me comin', that's the part that keeps me up at night
+Not knowin' if I'm walkin' away, or if this is the one that ends my life
+Here it comes, here it comes
 
 [Final Chorus]
 (bigger, urgent)
-They all run for the cellar, I run for the storm
-Foot down on the gravel where the funnel's bein' born
-Scared to death and I never felt so alive
-One eye on Jesus and one eye on the sky
-Could be the day the wind finally takes me down
-But I'll chase it 'til they lay me in the ground
-Lord, I was born to chase the storm
+One eye on the road, one eye on the sky
+Chasin' down a killer that don't care if I die
+It'll turn on a dime, come straight for the glass
+You floor it, then you run, and you pray that you're fast
+Hundred-mile-an-hour heart, scared out of my mind
+Lord, there's nothin' like the chase when the sky comes alive
 
 [Outro]
 (driving off, fading)
-One eye on Jesus, one eye on the sky
-Lord, I was born to chase the storm
+One eye on the road, one eye on the sky
+Some run for their lives, and some of us drive
 ```
 
 > **Fit note:** under the ~3000-char cap. Hit the verse fast — keep the intro to a single lick. The grip is
-> the thrill/fear contradiction, so keep the vocal urgent and a little ragged. If Suno drifts toward rock,
-> push `modern country, acoustic, fiddle, pedal steel, banjo, polished male lead` harder and keep
-> `rock / grunge / distorted / raspy` in Exclude.
+> the adrenaline/fear contradiction and the "it turns on you" reversal, so keep the vocal urgent but clean
+> and powerful (not grungy). If Suno drifts toward rock, push `modern country, acoustic, fiddle, pedal
+> steel, banjo, polished male lead` harder and keep `rock / grunge / distorted / raspy` in Exclude.

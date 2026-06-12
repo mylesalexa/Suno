@@ -40,7 +40,9 @@ the prairie always collects (bridge) → final chorus → ominous fade.
 
 **Genre:** dramatic modern country anthem — radio/arena country, *not* rock or grunge. Acoustic guitar,
 pedal steel, dobro, and fiddle, with clean ringing electric for size over a punchy country beat. Brooding
-verses open into a huge, soaring chorus. Keep it polished country — no distortion, no raspy grit.
+verses open into a huge, soaring chorus with tight harmonies. Warm Nashville polish, organic instruments,
+**no autotune** — the same production and lead voice as the catalog's anthems, just dropped into a minor
+key and made dramatic. No distortion, no grit.
 
 - **Tempo:** ~**138–142 BPM** — heavy mid-tempo stomp; **hit the first verse fast, almost no intro.**
 - **Key:** **E minor** (dark), with the chorus opening big and menacing rather than bright.
@@ -136,12 +138,12 @@ When the Sky Turns Green
 
 ### Style of Music box (paste exactly)
 ```
-Modern country anthem, 140 BPM, key of E minor, acoustic guitar, pedal steel, dobro, fiddle, punchy country drums, warm powerful polished male lead, dramatic and cinematic, big soaring chorus
+Cinematic modern country, 140 BPM, key of E minor, acoustic guitar, bright electric licks, pedal steel, banjo accents, warm Nashville polish, vocal harmonies, powerful warm male lead, no autotune, dramatic
 ```
 
 ### Exclude Styles box (optional)
 ```
-rock, southern rock, grunge, distorted guitars, gritty raspy vocals, metal, screamo, pop, EDM
+heavy rock, southern rock, grunge, distorted guitars, gritty raspy vocals, EDM, rap, novelty, twangy caricature, overproduction, excessive reverb, autotune, spoken word
 ```
 
 ### Lyrics box (paste exactly)

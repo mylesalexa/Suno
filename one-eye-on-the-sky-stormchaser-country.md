@@ -43,7 +43,9 @@ some of us drive."
 
 **Genre:** driving modern country anthem — radio/arena country, *not* rock or grunge. Acoustic guitar,
 banjo roll, fiddle, and pedal steel, with clean ringing electric for size over a fast, punchy country
-beat. Opens into a big, soaring chorus. Faster than its companion song to carry the chase.
+beat. Opens into a big, soaring chorus with tight harmonies. Warm Nashville polish, organic instruments,
+**no autotune** — the same production and lead voice as the catalog's anthems, in a minor key. Faster than
+its companion song to carry the chase.
 
 - **Tempo:** ~**150–156 BPM** — fast, driving, train-beat urgency; **hit the first verse immediately.**
 - **Key:** **E minor** — dark, with a chorus that opens big but stays edgy, not bright.
@@ -136,12 +138,12 @@ One Eye on the Sky
 
 ### Style of Music box (paste exactly)
 ```
-Driving modern country anthem, 150 BPM, key of E minor, acoustic guitar, banjo, fiddle, pedal steel, punchy country drums, warm powerful polished male lead, urgent and cinematic, big soaring chorus
+Driving cinematic country, 150 BPM, key of E minor, acoustic guitar, bright electric licks, pedal steel, banjo, warm Nashville polish, vocal harmonies, powerful warm male lead, organic, no autotune, urgent
 ```
 
 ### Exclude Styles box (optional)
 ```
-rock, southern rock, grunge, distorted guitars, gritty raspy vocals, metal, screamo, pop, EDM
+heavy rock, southern rock, grunge, distorted guitars, gritty raspy vocals, EDM, rap, novelty, twangy caricature, overproduction, excessive reverb, autotune, spoken word
 ```
 
 ### Lyrics box (paste exactly)

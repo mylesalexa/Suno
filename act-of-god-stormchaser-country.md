@@ -135,7 +135,7 @@ Act of God
 
 ### Style of Music box (paste exactly)
 ```
-Driving cinematic country, 148 BPM, key of E minor, acoustic guitar, moody electric, pedal steel, warm Nashville polish, harmonies, powerful warm male lead, atmospheric and dark, no autotune, prayerful
+Driving cinematic country, 148 BPM, key of E minor, acoustic guitar, moody electric, pedal steel, Nashville polish, harmonies, powerful warm male lead, atmospheric and dark, no autotune, prayerful
 ```
 
 ### Exclude Styles box (optional)

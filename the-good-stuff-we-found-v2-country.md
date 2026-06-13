@@ -78,6 +78,8 @@ The good stuff we found along the ride.
 *(soften, then build)*
 We watched 'em climb their mountains, dug for brave behind their eyes,
 Charley's freckles in the summer, Harper's giggles in the sky.
+And Teddy's runnin' circles, that goldendoodle grin,
+Tongue out, tail goin' ninety, draggin' us all back in.
 And every year goes faster, every photograph goes by —
 So hold me closer, sweetheart, while the good times still roll by.
 
@@ -178,6 +180,8 @@ The good stuff we found along the ride
 (soften, then build)
 We watched 'em climb their mountains, dug for brave behind their eyes
 Charley's freckles in the summer, Harper's giggles in the sky
+And Teddy's runnin' circles, that goldendoodle grin
+Tongue out, tail goin' ninety, draggin' us all back in
 And every year goes faster, every photograph goes by
 So hold me closer, sweetheart, while the good times still roll by
 

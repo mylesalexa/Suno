@@ -130,7 +130,7 @@ God Gave Me Girls
 
 ### Style of Music box (paste exactly)
 ```
-Heartfelt country, 100 BPM, key of D, warm male lead, acoustic guitar, fiddle, pedal steel, piano, light drums, big sentimental singalong chorus, harmonies, tender and joyful, radio country, no autotune
+Heartfelt country, 100 BPM, key of D, warm male lead, acoustic guitar, fiddle, pedal steel, piano, big sentimental singalong chorus, harmonies, tender and joyful, radio country, no autotune
 ```
 
 ### Exclude Styles box (optional)

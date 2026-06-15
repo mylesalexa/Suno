@@ -35,7 +35,7 @@ hope (going to get that man back). New emotional lane, universal feeling, instan
 
 ### Style of Music box (paste exactly)
 ```
-Modern heartland country, 84 BPM, key of D, raw raspy emotive male lead, sparse acoustic guitar, fiddle, pedal steel, real drums building to a cathartic anthem, organic, huge singalong chorus, no autotune
+Modern heartland country, 84 BPM, key of D, raw emotive male lead, sparse acoustic guitar, fiddle, pedal steel, real drums building to a cathartic anthem, organic, huge singalong chorus, no autotune
 ```
 
 ### Exclude Styles box (optional)
@@ -199,7 +199,7 @@ the panel keeping me honest, exactly as asked.
 
 ## ⭐ Best Suno prompt (the champion)
 ```
-Modern heartland country, 84 BPM, key of D, raw raspy emotive male lead, sparse acoustic guitar, fiddle, pedal steel, real drums building to a cathartic anthem, organic, huge singalong chorus, no autotune
+Modern heartland country, 84 BPM, key of D, raw emotive male lead, sparse acoustic guitar, fiddle, pedal steel, real drums building to a cathartic anthem, organic, huge singalong chorus, no autotune
 ```
 Paste that + the Title/Exclude/Lyrics boxes above into Suno Custom Mode. **Tip:** keep the verses sparse
 (let the vocal sit almost dry) so the first chorus *hits* — that dynamic jump is the whole trick, and it's

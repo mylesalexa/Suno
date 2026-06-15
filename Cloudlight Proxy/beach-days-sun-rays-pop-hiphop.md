@@ -66,7 +66,7 @@ Beach Days, Sun Rays (Senior Summer Mix)
 
 **Style of Music box (paste exactly)**
 ```
-Clean pop hip-hop summer anthem, 106 BPM, key of G, bright 808 beat, trap hi-hats, claps, plucky synths, confident young male vocal, melodic rap verses, huge sung singalong chorus, energetic, not cheesy
+Clean pop hip-hop summer anthem, 106 BPM, key of G, bright 808 beat, trap hi-hats, claps, confident young male vocal, melodic rap verses, huge sung singalong chorus, energetic, not cheesy
 ```
 
 **Exclude Styles box (optional)**
@@ -167,7 +167,7 @@ Summer's here to stay
 
 ## ⭐ Best Suno prompt
 ```
-Clean pop hip-hop summer anthem, 106 BPM, key of G, bright 808 beat, trap hi-hats, claps, plucky synths, confident young male vocal, melodic rap verses, huge sung singalong chorus, energetic, not cheesy
+Clean pop hip-hop summer anthem, 106 BPM, key of G, bright 808 beat, trap hi-hats, claps, confident young male vocal, melodic rap verses, huge sung singalong chorus, energetic, not cheesy
 ```
 **Tip:** the **confident (not childish) flow** is what keeps it grade-11-12 cool — keep the verses smooth
 and a little laid-back, the chorus big and sung. "explicit/profanity/childish" in Exclude keeps it

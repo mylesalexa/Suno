@@ -23,7 +23,7 @@ Upbeat modern country summer anthem, 135 BPM, key of G, driving acoustic and ele
 
 ## 3. Longer Suno Prompt (under 500 chars)
 ```
-Upbeat modern commercial country summer anthem, ~135 BPM, key of G. Windows-down, tailgate-party energy — Luke Bryan / FGL / summer-Wallen lane. Warm, easygoing male lead with a grin in it; fast conversational verses exploding into a huge, chantable gang-vocal chorus with a hands-in-the-air post-chorus. Driving acoustic + bright electric guitar, banjo rolls, fiddle, hand-claps, four-on-the-floor backbeat drums, thick bass, stacked harmonies. Feel-good, nostalgic, flirty, radio-ready. Organic, no autotune. Build into a key-lift final chorus.
+Upbeat modern commercial country summer anthem, ~135 BPM, key of G. Windows-down, tailgate-party energy. Warm, easygoing male lead with a grin in it; fast conversational verses exploding into a huge, chantable gang-vocal chorus with a hands-in-the-air post-chorus. Driving acoustic + bright electric guitar, banjo rolls, fiddle, hand-claps, four-on-the-floor backbeat drums, stacked harmonies. Feel-good, nostalgic, flirty, radio-ready. Organic, no autotune. Build into a key-lift final chorus.
 ```
 
 ## 4. Ten Title / Hook Options

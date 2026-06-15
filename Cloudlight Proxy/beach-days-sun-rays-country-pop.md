@@ -63,7 +63,7 @@ Beach Days, Sun Rays
 
 **Style of Music box (paste exactly)**
 ```
-Tropical country-pop summer anthem, 118 BPM, key of G, male lead, acoustic guitar, beachy slide guitar, steel drums, ukulele, marimba, island groove, claps, huge oh-oh singalong chorus, sunny and breezy
+Tropical country-pop summer anthem, 118 BPM, key of G, male lead, acoustic guitar, beachy slide guitar, steel drums, ukulele, island groove, claps, huge oh-oh singalong chorus, sunny and breezy
 ```
 
 **Exclude Styles box (optional)**
@@ -157,7 +157,7 @@ Summer's here to stay
 
 ## ⭐ Best Suno prompt
 ```
-Tropical country-pop summer anthem, 118 BPM, key of G, male lead, acoustic guitar, beachy slide guitar, steel drums, ukulele, marimba, island groove, claps, huge oh-oh singalong chorus, sunny and breezy
+Tropical country-pop summer anthem, 118 BPM, key of G, male lead, acoustic guitar, beachy slide guitar, steel drums, ukulele, island groove, claps, huge oh-oh singalong chorus, sunny and breezy
 ```
 **Tip:** the **steel-drum + "oh-oh" cold open** is the no-skip hook and the short-form clip. Keep the steel
 drums and island groove up front, **banjo/fiddle excluded**, and keep a little **twang in the vocal** so it

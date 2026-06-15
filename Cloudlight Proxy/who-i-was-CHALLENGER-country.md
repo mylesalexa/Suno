@@ -140,7 +140,7 @@ Hook 9 · Sing 9 · Emo 9 · Fit 9 · Orig 8
 ### Mia Solano (curator/A&R) — **47/50**
 Hook 10 · Sing 9 · Emo 9 · Fit 9 · Orig 10
 > *"This is the save-and-repeat. The hook reframes a feeling everyone's had — that's exactly what goes
-> screenshot-and-share. It out-frshes 'Neon Still On' because the twist is in the *idea*, not just the
+> screenshot-and-share. It out-freshes 'Neon Still On' because the twist is in the *idea*, not just the
 > production. First-skip-proof."*
 
 ### Loretta James (vocal coach) — **48/50**
@@ -169,7 +169,7 @@ Hook 10 · Sing 9 · Emo 10 · Fit 9 · Orig 10
 |---|---|---|---|
 | **Hook** | 9.8 | V1 (≈9.4) | ✅ Challenger |
 | **Singability/Radio** | 9.4 | V1 (≈9.4) | ✅ Challenger (edge) |
-| **Emotion** | 9.2 | V3 (≈9.4) | ✅ Challenger (9.2 vs 9.4 — see note) |
+| **Emotion** | 9.2 | V3 (≈9.4) | 🤝 V3 edges the average (9.4 vs 9.2) — co-champ, see note |
 | **Production Fit** | 9.0 | V5 (≈9.0) | 🤝 Tie with V5 |
 | **Originality** | 9.2 | V4/V5 (≈8.0) | ✅ Challenger |
 

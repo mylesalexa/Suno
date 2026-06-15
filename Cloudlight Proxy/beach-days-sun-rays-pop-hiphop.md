@@ -75,7 +75,7 @@ Beach Days, Sun Rays (Senior Summer Dance Mix)
 
 **Style of Music box (paste exactly)**
 ```
-Danceable clean EDM pop hip-hop, 112 BPM, key of G, four-on-the-floor club beat, funky boogie bassline, synth pluck hook, EDM build and drop, young male vocal, rap verses, huge sung chorus, TikTok dance
+Danceable clean EDM pop hip-hop, 112 BPM, key of G, four-on-the-floor club beat, funky boogie bassline, synth pluck hook, EDM build and drop, young male vocal, rap verses, sung chorus, TikTok dance
 ```
 
 **Exclude Styles box (optional)**
@@ -106,7 +106,7 @@ Threw the backpack in the closet, ain't lookin' back
 Senior summer, baby, time to just relax
 
 [Chorus]
-(big sung pop hook, gang vocals, four-on-the-floor, funky bass)
+(big sung hook, gang vocals, funky bass)
 'Cause school's out till September, beach days and sun rays
 Toes down in the water, livin' on the sunny days
 Sun up in the sky, not a care, let it all fade
@@ -136,7 +136,7 @@ Threw the backpack in the closet, ain't lookin' back
 Senior summer, baby, time to just relax
 
 [Chorus]
-(big sung pop hook, gang vocals, four-on-the-floor, funky bass)
+(big sung hook, gang vocals, funky bass)
 'Cause school's out till September, beach days and sun rays
 Toes down in the water, livin' on the sunny days
 Sun up in the sky, not a care, let it all fade
@@ -183,7 +183,7 @@ Summer's here to stay
 
 ## ⭐ Best Suno prompt
 ```
-Danceable clean EDM pop hip-hop, 112 BPM, key of G, four-on-the-floor club beat, funky boogie bassline, synth pluck hook, EDM build and drop, young male vocal, rap verses, huge sung chorus, TikTok dance
+Danceable clean EDM pop hip-hop, 112 BPM, key of G, four-on-the-floor club beat, funky boogie bassline, synth pluck hook, EDM build and drop, young male vocal, rap verses, sung chorus, TikTok dance
 ```
 **Tip:** the two levers that add the "boogie" — keep the **funky bassline** bouncing under the verses (that's
 the groove you can't stand still to), and make the **`[Dance Break]` a real EDM build-and-drop** (riser →

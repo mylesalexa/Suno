@@ -71,7 +71,7 @@ Beach Days, Sun Rays (Senior Summer Dance Mix)
 
 **Style of Music box (paste exactly)**
 ```
-Clean EDM pop hip-hop, 112 BPM, key of G, four-on-the-floor, funky boogie bass, lush emotive chords, soaring synth lead, stacked vocal harmonies, euphoric build and drop, male vocal, rap verses, TikTok dance
+Clean EDM pop hip-hop, 112 BPM, key of G, four-on-floor, funky boogie bass, lush emotive chords, soaring synth lead, vocal harmonies, euphoric build and drop, male vocal, rap verses, TikTok dance
 ```
 
 **Exclude Styles box (optional)**
@@ -174,7 +174,7 @@ Summer's here to stay
 
 ## ⭐ Best Suno prompt
 ```
-Clean EDM pop hip-hop, 112 BPM, key of G, four-on-the-floor, funky boogie bass, lush emotive chords, soaring synth lead, stacked vocal harmonies, euphoric build and drop, male vocal, rap verses, TikTok dance
+Clean EDM pop hip-hop, 112 BPM, key of G, four-on-floor, funky boogie bass, lush emotive chords, soaring synth lead, vocal harmonies, euphoric build and drop, male vocal, rap verses, TikTok dance
 ```
 **Tip:** "lush emotive chords" + "stacked vocal harmonies" are the levers that make the harmony *resonate
 with the vocal* — the chorus melody sits on chord tones (G–D–Em–C) so every line rings, and the harmonies

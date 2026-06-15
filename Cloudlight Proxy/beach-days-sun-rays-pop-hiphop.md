@@ -40,7 +40,7 @@ Beach Days, Sun Rays (Pop Mix)
 
 **Style of Music box (paste exactly)**
 ```
-Pop hip-hop summer anthem, 102 BPM, key of G, melodic rap verses, big sung pop hook, 808 bass, trap hi-hats, snaps and claps, bright synths, light acoustic guitar, young male vocal, catchy Top 40 chorus
+Pop hip-hop summer anthem, 102 BPM, key of G, melodic rap verses, big sung pop hook, 808 bass, trap hi-hats, claps, bright synths, light acoustic guitar, young male vocal, catchy Top 40 chorus
 ```
 
 **Exclude Styles box (optional)**
@@ -141,7 +141,7 @@ Summer's here to stay
 
 ## ⭐ Best Suno prompt
 ```
-Pop hip-hop summer anthem, 102 BPM, key of G, melodic rap verses, big sung pop hook, 808 bass, trap hi-hats, snaps and claps, bright synths, light acoustic guitar, young male vocal, catchy Top 40 chorus
+Pop hip-hop summer anthem, 102 BPM, key of G, melodic rap verses, big sung pop hook, 808 bass, trap hi-hats, claps, bright synths, light acoustic guitar, young male vocal, catchy Top 40 chorus
 ```
 **Tip:** the contrast is the magic — keep the **verses rapped/rhythmic** and the **chorus fully sung** so
 the hook lands like a lift. 808 + trap hats up front; a light acoustic loop keeps a thread of warmth. The

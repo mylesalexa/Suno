@@ -40,13 +40,13 @@ everybody, including you. Lean into *belonging*, not loneliness.
 ## 4. Suno Style Prompt (under 200 chars)
 
 ```
-Modern commercial country, 92 BPM, key of G, warm male lead, acoustic and electric guitar, pedal steel, fiddle, steady drums, big singalong chorus, stacked harmonies, radio-ready, nostalgic, no autotune
+Modern commercial country, 92 BPM, key of G, warm male lead, acoustic and electric guitar, pedal steel, fiddle, steady drums, big singalong chorus, stacked harmonies, nostalgic, no autotune
 ```
 
 ## 5. Longer Suno Style Prompt (under 500 chars)
 
 ```
-Modern commercial country radio ballad-anthem, ~92 BPM, key of G. Warm, easygoing male lead with a little grit; conversational verses opening into a huge, hooky singalong chorus with stacked harmonies. Acoustic + clean and warm electric guitar, weeping pedal steel, fiddle accents, steady backbeat drums, upright/electric bass, tasteful piano. Late-night, neon-lit, nostalgic but hopeful — small-town Saturday-night feel. Polished Nashville production, organic instruments, no autotune. Build to a key-lift final chorus.
+Modern commercial country radio ballad-anthem, ~92 BPM, key of G. Warm, easygoing male lead with a little grit; conversational verses opening into a huge, hooky singalong chorus with stacked harmonies. Acoustic + clean and warm electric guitar, weeping pedal steel, fiddle accents, steady backbeat drums, upright bass. Late-night, neon-lit, nostalgic but hopeful — small-town Saturday-night feel. Polished Nashville production, organic instruments, no autotune. Build to a key-lift final chorus.
 ```
 
 ## 6. Ten Possible Titles
@@ -113,7 +113,7 @@ Gas Station at Midnight
 
 **Style of Music box (paste exactly)**
 ```
-Modern commercial country, 92 BPM, key of G, warm male lead, acoustic and electric guitar, pedal steel, fiddle, steady drums, big singalong chorus, stacked harmonies, radio-ready, nostalgic, no autotune
+Modern commercial country, 92 BPM, key of G, warm male lead, acoustic and electric guitar, pedal steel, fiddle, steady drums, big singalong chorus, stacked harmonies, nostalgic, no autotune
 ```
 
 **Exclude Styles box (optional)**
@@ -199,7 +199,7 @@ At the gas station at midnight
 ## ⭐ The Single Best Suno Prompt
 
 ```
-Modern commercial country, 92 BPM, key of G, warm male lead, acoustic and electric guitar, pedal steel, fiddle, steady drums, big singalong chorus, stacked harmonies, radio-ready, nostalgic, no autotune
+Modern commercial country, 92 BPM, key of G, warm male lead, acoustic and electric guitar, pedal steel, fiddle, steady drums, big singalong chorus, stacked harmonies, nostalgic, no autotune
 ```
 
 ## ⭐ The Best Final Lyric Version

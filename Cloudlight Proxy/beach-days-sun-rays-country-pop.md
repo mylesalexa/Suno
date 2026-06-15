@@ -64,7 +64,7 @@ Beach Days, Sun Rays
 
 **Style of Music box (paste exactly)**
 ```
-Country-pop crossover summer anthem, 120 BPM, key of G, warm male lead, acoustic guitar, beachy electric, banjo, finger-snaps and claps, four-on-the-floor, tropical groove, huge oh-oh singalong chorus
+Country-pop crossover summer anthem, 120 BPM, key of G, male lead, acoustic guitar, beachy electric, banjo, finger-snaps and claps, four-on-the-floor, tropical groove, huge oh-oh singalong chorus
 ```
 
 **Exclude Styles box (optional)**
@@ -158,7 +158,7 @@ Summer's here to stay
 
 ## ⭐ Best Suno prompt
 ```
-Country-pop crossover summer anthem, 120 BPM, key of G, warm male lead, acoustic guitar, beachy electric, banjo, finger-snaps and claps, four-on-the-floor, tropical groove, huge oh-oh singalong chorus
+Country-pop crossover summer anthem, 120 BPM, key of G, male lead, acoustic guitar, beachy electric, banjo, finger-snaps and claps, four-on-the-floor, tropical groove, huge oh-oh singalong chorus
 ```
 **Tip:** the cold-open "oh-oh / school's out till September" is the no-skip hook and the short-form clip —
 keep claps and snaps loud and the chorus stacked. Keep the banjo audible so it stays *country*-pop, not

@@ -1,59 +1,71 @@
-# Beach Days, Sun Rays *(clean senior-summer pop/hip-hop banger)*
+# Beach Days, Sun Rays *(clean senior-summer dance/pop-hip-hop banger)*
 
-*The clean-but-cool Top-40 version of the school's-out hook, aged up to grade 11-12 / senior-summer energy
-— melodic rap verses about the last bell, piling in the car, bonfires, late nights, and one summer before
-everything changes. Still 100% clean and school/grad-appropriate (no alcohol, no profanity) but authentic
-and *not cheesy*. Bright 808 beat into the giant sung "beach days and sun rays" chorus. Young male vocal.
-Cloudlight Proxy.*
+*The clean-but-cool Top-40 version of the school's-out hook, aged to grade 11-12 / senior-summer energy
+and built to **DANCE** — a club-bounce 808 beat with a four-on-the-floor kick and a dedicated dance break
+engineered for a **TikTok dance challenge**. 100% clean and school/grad-appropriate, but it bangs and it
+moves. Young male vocal, melodic rap verses, huge sung "beach days and sun rays" chorus. Cloudlight Proxy.*
 
-> **Aged up from the kid version:** swapped the elementary imagery (water balloons, popsicles, superhero
-> capes) for real senior-summer stuff — last day, the group chat, gas-station runs, bonfires, "seventeen
-> and bulletproof," the bittersweet "come September things change." Clean, but cool.
+> **Now danceable + TikTok-ready:** added a four-on-the-floor club bounce, a `[Dance Break]` with call-out
+> moves, and a simple repeatable 8-count choreography (below) built around the "sun rays / beach days"
+> post-chorus loop — so a TikTok dance can actually be made from it. A choreographer is now on the panel.
 
 ---
 
 ## Concept & Angle
-**Concept:** the last bell of the year rings and it's *senior summer* — that golden stretch with your crew
-before everything changes — over a knocking pop/hip-hop beat and a giant sung chorus. **Strongest angle:**
-nostalgia-in-real-time for teens: clean enough for the grad party and the school playlist, but real enough
-that a 17-year-old thinks it's cool, not corny. A little bittersweet under all the fun = replay value.
+**Concept:** last bell of senior year, the crew, one summer before everything changes — over a danceable
+pop/hip-hop beat with a chant-and-move hook. **Strongest angle:** it's clean enough for the grad party and
+the school feed, cool enough that a 17-year-old films it, and — the new part — **easy enough to dance to
+that the chorus *is* the choreography.** The "sun rays / beach days" tag is the loop you do the moves on.
 
 ---
 
 ## Style / Tempo / Vocal
-**Genre:** clean pop/hip-hop summer anthem — bright bouncy 808 beat, crisp trap hi-hats, claps and snaps,
-plucky synths, a light acoustic loop for warmth; **confident melodic rap verses** into a **huge sung pop
-chorus** with stacked "oh-oh" hooks. Modern, energetic, radio-clean — cool, not cheesy.
+**Genre:** clean, **danceable** pop/hip-hop summer anthem — club-bounce 808 beat with a four-on-the-floor
+kick, crisp trap hi-hats, claps, plucky synths, a light acoustic loop for warmth; confident melodic rap
+verses into a huge sung chorus and a **dance-break drop**. Made to move, made for short-form.
 
-- **Tempo:** ~**104–108 BPM** — bouncy, upbeat. **Key:** G major (sunny).
-- **Vocal:** **young male (late-teen)** — confident, smooth melodic-rap flow on the verses, full and bright
-  on the sung chorus. Gang-vocal shouts on the hook. Clean; a little pop sheen fine. No childish delivery.
+- **Tempo:** ~**108–112 BPM** — danceable club bounce (the four-on-the-floor is what makes it move).
+- **Key:** **G major** (sunny).
+- **Vocal:** **young male (late-teen)** — confident, smooth flow on verses, big and bright on the chorus,
+  punchy call-outs on the dance break. Gang-vocal shouts on the hook. Clean. No childish delivery.
 
 ---
 
-## The Panel (clean-but-cool teen banger criteria)
-*Five judges scoring a clean song that still has to land with high-schoolers — 10 pts each, 50/judge, 250.*
+## The Panel (clean-but-cool teen banger + danceability)
+*Six judges now — added a choreographer for the TikTok-dance test. Five criteria, 10 each, 50/judge, 300 total.
+Criteria: **Bop/Beat · Clean-but-Cool · Danceable (TikTok dance) · Chant/Singalong · Replay.***
 - **Marisol Vega** — Gen-Z/teen music supervisor (clean-radio & school-dance lane).
-- **DJ Tempo (Marcus Webb)** — hip-hop producer/beatmaker. Does the beat knock, is the flow real?
+- **DJ Tempo (Marcus Webb)** — hip-hop producer/beatmaker. Does the beat knock?
 - **Coach Rivera** — high-school activities director (grad night / pep-rally song picker).
-- **Hannah Cole** — "Teen Pop / Clean Hits" playlist editor. Replay + parent/school-safe.
-- **Maya (age 17)** — senior, the focus-group teen. The only question: *"cool, or cringe?"*
+- **Hannah Cole** — "Teen Pop / Clean Hits" playlist editor.
+- **Maya (age 17)** — senior, the focus-group teen: *"cool, or cringe?"*
+- **Bex Tran** — TikTok choreographer & dance-trend creator: *"can I build an 8-count from this?"*
 
-| Judge | Bop | Clean-but-Cool | Chant | Replay | Flow/Beat | Total | Note |
+| Judge | Bop | Clean | Danceable | Chant | Replay | Total | Note |
 |---|---|---|---|---|---|---|---|
-| **Marisol** | 9 | 10 | 9 | 9 | 9 | **46** | "Clean enough for the school dance, current enough for radio — that balance is hard, this nails it." |
-| **DJ Tempo** | 10 | 9 | 9 | 9 | 10 | **47** | "Beat knocks and the flow's confident, not kiddie — *this* is why it reads cool instead of cheesy." |
-| **Coach Rivera** | 9 | 10 | 10 | 9 | 9 | **47** | "Whole senior class chants this at grad night — 'seventeen and bulletproof' is the yearbook quote." |
-| **Hannah** | 9 | 10 | 9 | 10 | 9 | **47** | "High replay, totally clean — instant add to the clean teen-pop playlists." |
-| **Maya (17)** | 10 | 9 | 10 | 10 | 9 | **48** | "Okay this actually goes. The bonfire verse is so us. Not cringe — I'd post this." |
+| **Marisol** | 9 | 10 | 9 | 9 | 9 | **46** | "Clean for the school dance, current for radio — and now it actually moves." |
+| **DJ Tempo** | 10 | 9 | 10 | 9 | 9 | **47** | "Four-on-the-floor under the 808 is the move — that's what makes a crowd bounce." |
+| **Coach Rivera** | 9 | 10 | 9 | 10 | 9 | **47** | "Pep rally + grad night lock; the dance break gets the whole gym up." |
+| **Hannah** | 9 | 10 | 9 | 9 | 10 | **47** | "High replay, 100% clean, and the loop is a built-in trend." |
+| **Maya (17)** | 10 | 9 | 10 | 10 | 10 | **49** | "The dance is SO easy and so fun — I'd post this same day. This goes viral." |
+| **Bex Tran** (choreo) | 9 | 10 | 10 | 10 | 9 | **48** | "The 'sun rays / beach days' loop is a ready-made 8-count — arms up, sway, step-splash, freeze. Trend-able." |
 
-**Total: 235/250 — clean teen banger, certified not-cheesy.** It keeps the perfect Clean score (no
-profanity, no alcohol, school-safe) while the confident flow + the bittersweet senior-summer angle push
-it from "kids' song" to "cool." Panel verdict: *"Clean enough for the gym, cool enough for the group chat —
-the 'come September things change' line is what gives it replay."*
+**Total: 284/300 — clean, cool, AND danceable.** It keeps the perfect Clean score, bops, and now the
+choreographer signs off: the post-chorus is a turnkey TikTok dance. Panel verdict: *"Clean enough for the
+gym, cool enough for the group chat, and easy enough to dance that the hook does the choreography for you."*
 
-**Squeeze notes applied:** confident (not childish) flow, "seventeen and bulletproof" + bonfire verse as
-the prime chantable moments, bittersweet turn kept for replay value.
+**Squeeze notes applied:** four-on-the-floor under the 808 for danceability (DJ Tempo), a `[Dance Break]`
+drop with call-out moves (Bex), the move loop tied to the "sun rays / beach days" hook (Maya).
+
+---
+
+## 🕺 The TikTok Dance (simple, clean 8-count — done on the post-chorus loop)
+On **"(oh-oh) sun rays / (oh-oh) beach days"**:
+1. **"Sun rays"** — both arms shoot up into a V (sunshine), 2 counts.
+2. **"Beach days"** — drop into a surfer sway, hips side-to-side, 2 counts.
+3. **"Step-splash"** — step right + kick a little "splash," then left, 2 counts.
+4. **"Soak it up"** — wind the hands up and "throw it up," then freeze + finger-guns on the beat, 2 counts.
+Loop it. Easy enough for a hallway, big enough for the gym — the whole point of the four-on-the-floor.
 
 ---
 
@@ -61,12 +73,12 @@ the prime chantable moments, bittersweet turn kept for replay value.
 
 **Title (≤80 chars)**
 ```
-Beach Days, Sun Rays (Senior Summer Mix)
+Beach Days, Sun Rays (Senior Summer Dance Mix)
 ```
 
 **Style of Music box (paste exactly)**
 ```
-Clean pop hip-hop summer anthem, 106 BPM, key of G, bright 808 beat, trap hi-hats, claps, confident young male vocal, melodic rap verses, huge sung singalong chorus, energetic, not cheesy
+Danceable clean pop hip-hop, 110 BPM, key of G, club-bounce 808 beat, four-on-the-floor kick, trap hi-hats, claps, young male vocal, melodic rap verses, huge sung chorus, made for a TikTok dance
 ```
 
 **Exclude Styles box (optional)**
@@ -77,7 +89,7 @@ explicit, profanity, childish, nursery, dark, violent, sad, ballad, slow tempo, 
 **Lyrics box (paste exactly)**
 ```
 [Intro]
-(bright 808 and trap hats, claps, plucky synth)
+(club-bounce 808, four-on-the-floor kick, claps)
 (Oh-oh) school's out, let's go
 
 [Verse 1]
@@ -97,7 +109,7 @@ Threw the backpack in the closet, ain't lookin' back
 Senior summer, baby, time to just relax
 
 [Chorus]
-(big sung pop hook, gang vocals, stacked harmonies)
+(big sung pop hook, gang vocals, four-on-the-floor)
 'Cause school's out till September, beach days and sun rays
 Toes down in the water, livin' on the sunny days
 Sun up in the sky, not a care, let it all fade
@@ -106,7 +118,7 @@ Hey! School's out till September
 Beach days and sun rays
 
 [Post-Chorus]
-(chant with 808, claps)
+(dance loop, gang chant, claps)
 (Oh-oh-oh) sun rays
 (Oh-oh-oh) beach days
 
@@ -127,7 +139,7 @@ Threw the backpack in the closet, ain't lookin' back
 Senior summer, baby, time to just relax
 
 [Chorus]
-(big sung pop hook, gang vocals, stacked harmonies)
+(big sung pop hook, gang vocals, four-on-the-floor)
 'Cause school's out till September, beach days and sun rays
 Toes down in the water, livin' on the sunny days
 Sun up in the sky, not a care, let it all fade
@@ -135,13 +147,20 @@ Turn it up, soak it up, summer's here to stay
 Hey! School's out till September
 Beach days and sun rays
 
+[Dance Break]
+(beat drop, four-on-the-floor, gang chant, do the moves)
+Hands to the sun rays, up, up
+Lean to the beach days, sway, sway
+Step in the water, splash-splash-go
+Wind it up, throw it up, summer let's go
+
 [Post-Chorus]
-(chant with 808, claps)
+(dance loop, gang chant, claps)
 (Oh-oh-oh) sun rays
 (Oh-oh-oh) beach days
 
 [Bridge]
-(half-time, 808 swell, then beat drops back in)
+(half-time, 808 swell, then the beat drops back in)
 From the first warm mornin' to the last goodbye
 We were seventeen and bulletproof under that sky
 Don't wake me up till it's gotta end
@@ -157,7 +176,7 @@ Hey! School's out till September
 Beach days and sun rays
 
 [Outro]
-(808 fading, claps)
+(dance loop, 808 fading, claps)
 (Oh-oh-oh) sun rays
 (Oh-oh-oh) beach days
 Summer's here to stay
@@ -167,15 +186,13 @@ Summer's here to stay
 
 ## ⭐ Best Suno prompt
 ```
-Clean pop hip-hop summer anthem, 106 BPM, key of G, bright 808 beat, trap hi-hats, claps, confident young male vocal, melodic rap verses, huge sung singalong chorus, energetic, not cheesy
+Danceable clean pop hip-hop, 110 BPM, key of G, club-bounce 808 beat, four-on-the-floor kick, trap hi-hats, claps, young male vocal, melodic rap verses, huge sung chorus, made for a TikTok dance
 ```
-**Tip:** the **confident (not childish) flow** is what keeps it grade-11-12 cool — keep the verses smooth
-and a little laid-back, the chorus big and sung. "explicit/profanity/childish" in Exclude keeps it
-clean-and-cool. The bittersweet "come September things change" line is the replay hook — don't cut it. If
-it skews young, lean the 808 bigger and the flow more relaxed.
+**Tip:** the **four-on-the-floor kick under the 808** is what makes it danceable — keep it driving and
+keep the **`[Dance Break]`** as a clean beat-drop with the call-out moves. The post-chorus "sun rays /
+beach days" loop is the dance trend — make it punchy and repeatable. Clean kept by "explicit/profanity" in
+Exclude. If it's not moving enough, push to 112 BPM and emphasize the kick.
 
 ## Variations
-- **Female-lead:** swap `confident young male vocal` → `confident young female vocal`; change "her laugh"
-  to "his laugh."
-- **Country-rap crossover:** add `acoustic guitar, country-rap` and raise the acoustic to tie it to the
-  country catalog.
+- **Female-lead:** swap `young male vocal` → `young female vocal`; change "her laugh" to "his laugh."
+- **Bigger drop:** add `EDM-trap dance drop` on the `[Dance Break]` for a harder TikTok moment.

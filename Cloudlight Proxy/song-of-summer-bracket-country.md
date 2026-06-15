@@ -102,7 +102,7 @@ Tan Lines
 
 **Style of Music box (paste exactly)**
 ```
-Feel-good summer country with a groove, 112 BPM, key of D, warm male lead, acoustic guitar, bright electric licks, fiddle, hand-claps, pocket drums, flirty and breezy, huge singalong chorus, no autotune
+Feel-good summer country with a groove, 112 BPM, key of D, warm male lead, acoustic guitar, electric licks, fiddle, hand-claps, pocket drums, flirty and breezy, huge singalong chorus, no autotune
 ```
 
 **Exclude Styles box (optional)**
@@ -216,7 +216,7 @@ Upbeat country summer anthem, 138 BPM, key of G, warm male lead, driving acousti
 
 ## ⭐ Best Suno prompt (the song of the summer)
 ```
-Feel-good summer country with a groove, 112 BPM, key of D, warm male lead, acoustic guitar, bright electric licks, fiddle, hand-claps, pocket drums, flirty and breezy, huge singalong chorus, no autotune
+Feel-good summer country with a groove, 112 BPM, key of D, warm male lead, acoustic guitar, electric licks, fiddle, hand-claps, pocket drums, flirty and breezy, huge singalong chorus, no autotune
 ```
 Generate **"Tan Lines"** with that. **Tip:** keep the groove in the pocket and the claps loud — the
 post-chorus "oh-oh, nothin' but tan lines" is the short-form/loop hook, so make sure it's stacked and

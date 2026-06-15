@@ -3,7 +3,7 @@
 *A sunshine TROPICAL country-pop summer banger — school's out, calendar's in the trash, nothing but beach
 days and sun rays. Island groove in that "Drunk on a Plane" / no-shoes-no-shirt lane: steel drums,
 ukulele, beachy slide guitar, breezy and bright — country heart, pop hooks, tropical paint. Giant "oh-oh"
-singalong. Male lead (female swap noted). Cloudlight Proxy.*
+singalong. Young male tenor lead (Hunter-Hayes-style; female swap noted). Cloudlight Proxy.*
 
 > **Revision:** ditched the banjo and pushed it **tropical** — steel drums, ukulele, marimba, beachy
 > slide instead of twangy bluegrass. Same school's-out hook and lyrics; new island-country-pop skin.
@@ -25,8 +25,9 @@ pop hooks, Caribbean-breeze paint — the no-shoes, drink-with-an-umbrella lane.
 
 - **Tempo:** ~**116–120 BPM** — breezy island bounce, danceable but laid-back.
 - **Key:** **G major** (sunny), optional lift to **A** for the final chorus.
-- **Vocal:** **male lead** — warm, easygoing, a grin and a little twang (keep the twang so it stays
-  *country*-tropical, not pure pop); conversational verses into a huge melodic chorus with stacked "oh-oh"
+- **Vocal:** **young, bright male tenor** — Hunter-Hayes-style (youthful, boyish, a little higher and
+  clean — right at home on a school's-out song). Energetic, a grin and a little twang so it stays
+  *country*-tropical, not pure pop; conversational verses into a huge melodic chorus with stacked "oh-oh"
   harmonies. Light pop sheen ok; no heavy autotune.
 
 ---
@@ -63,7 +64,7 @@ Beach Days, Sun Rays
 
 **Style of Music box (paste exactly)**
 ```
-Tropical country-pop summer anthem, 118 BPM, key of G, male lead, acoustic guitar, beachy slide guitar, steel drums, ukulele, island groove, claps, huge oh-oh singalong chorus, sunny and breezy
+Tropical country-pop summer anthem, 118 BPM, key of G, young bright male tenor, acoustic guitar, beachy slide, steel drums, ukulele, island groove, huge oh-oh singalong chorus, sunny and breezy
 ```
 
 **Exclude Styles box (optional)**
@@ -79,7 +80,7 @@ banjo, fiddle, sad, ballad, minor key, slow tempo, metal, screamo, hardcore, dar
 (Oh-oh-oh) beach days and sun rays
 
 [Verse 1]
-(male lead, bright, breezy)
+(young bright male tenor, breezy)
 Last bell rang and I tossed the backpack in the bay
 Flip-flops on, got a cooler and a full tank
 Windows down, sunscreen, radio up loud
@@ -105,7 +106,7 @@ Beach days and sun rays
 (Oh-oh-oh) beach days
 
 [Verse 2]
-(male lead, bright)
+(young bright male tenor)
 Boardwalk lights and a melting soft-serve cone
 Tiki torches when the sun heads home
 Beach-towel kingdom, umbrella throne
@@ -157,7 +158,7 @@ Summer's here to stay
 
 ## ⭐ Best Suno prompt
 ```
-Tropical country-pop summer anthem, 118 BPM, key of G, male lead, acoustic guitar, beachy slide guitar, steel drums, ukulele, island groove, claps, huge oh-oh singalong chorus, sunny and breezy
+Tropical country-pop summer anthem, 118 BPM, key of G, young bright male tenor, acoustic guitar, beachy slide, steel drums, ukulele, island groove, huge oh-oh singalong chorus, sunny and breezy
 ```
 **Tip:** the **steel-drum + "oh-oh" cold open** is the no-skip hook and the short-form clip. Keep the steel
 drums and island groove up front, **banjo/fiddle excluded**, and keep a little **twang in the vocal** so it
@@ -165,5 +166,5 @@ reads country-tropical (the "Drunk on a Plane" lane), not Margaritaville karaoke
 to 120 BPM; if too busy, pull the marimba back and let the steel drums carry it.
 
 ## Female-lead option (on-trend)
-Swap `male lead` → `bright youthful female lead` and add `male vocals` to Exclude — a female tropical
+Swap `young bright male tenor` → `bright youthful female lead` and add `male vocals` to Exclude — a female tropical
 country-pop cut rides the 2026 wave hard. Lyrics need no changes.

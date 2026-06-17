@@ -33,11 +33,11 @@ punched up by a comedy panel, and split into two Suno generations because 4 minu
 | **"Big Daryl" Friesen** (Steinbach-born headliner) | 9 | 10 | 9 | 9 | 9 | **46** | "Tag the roof bit harder — give it a topper." → added the *coffin-to-save-on-the-funeral* button. |
 | **Oma Reimer** (cultural truth check) | 9 | 10 | 9 | 10 | 9 | **47** | "The pail's real — make her fill it before the ice cream's done." → added. |
 | **Sasha Klein** (late-night head writer) | 9 | 9 | 10 | 9 | 9 | **46** | "Plant 'clearance' early, pay it off at the end." → added the *clearance shirt* callback closer. |
-| **The Open-Mic Crowd** (laugh meter) | 10 | 9 | 9 | 9 | 9 | **46** | "Two-Mennonites-fishing is the roof-raiser — put it late." → it's the penultimate bit. |
+| **The Open-Mic Crowd** (laugh meter) | 10 | 9 | 9 | 9 | 9 | **46** | "Closet-drinker bit is the roof-raiser — put it late." → it's the penultimate bit. |
 | **Pastor Dueck** (edge-vs-heart) | 9 | 10 | 9 | 10 | 9 | **47** | "Land on love so the edge is allowed." → warm closer kept. |
 
 **Total: 232/250 — panel-approved, authentic, and it bangs.** Verdict: *"It's true, it's kind, and the
-ice-cream-pail and fishing bits are belly laughs. Tightened the tags; this is the keeper."*
+ice-cream-pail and closet-drinker bits are belly laughs. Tightened the tags; this is the keeper."*
 
 ---
 
@@ -148,7 +148,7 @@ Steinbach, you've been incredible — drive safe, tithe generously, and somebody
   `singing, melody, music` excluded; if a take drifts musical, add `(deadpan spoken delivery)` and
   regenerate (it took to spoken word last time, so you're in good shape).
 - **The big laughs** (panel-tested): the ice-cream-pail "investment," the coffin topper, the "surveillance"
-  line, and **two-Mennonites-fishing** — protect those, they're the roof-raisers.
+  line, and the **closet-drinker bit** ("the guests are him") — protect those, they're the roof-raisers.
 - **Edge stays kind:** no profanity, no faith-bashing; it lands *because* it ends on love (the clearance-
   shirt callback). That's the affectionate-roast sweet spot Mennonites actually enjoy.
 

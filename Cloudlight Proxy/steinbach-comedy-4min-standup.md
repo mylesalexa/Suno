@@ -68,11 +68,11 @@ Steinbach, Manitoba! The only city in Canada where the bank is bigger than the b
 Steinbach Credit Union — these folks don't spend money, they gather it and admire it. A Mennonite doesn't have a savings account; he has a calling.
 (laughter, applause)
 
-You know you're in Steinbach when you open a freezer and every container is lying to you. It says "ice cream" — it's borscht. Says "butter" — more borscht.
+You know you're in a Mennonite kitchen when the freezer is full of containers and not one of them tells the truth. The tub says "ice cream" — that's chili. The margarine — also chili.
 (laughter)
-The ice-cream pail is the official Tupperware of the Mennonite people. Grandma buys four litres of ice cream and the ice cream is the FREE GIFT — she's in it for the pail. "The pail's half the value, at least."
+There's a yogurt container in there older than I am, three labels deep, every one crossed out in marker. That pail has outlived two freezers and a marriage.
 (laughter)
-She's filling it with potato salad before she's even finished the ice cream. That's not dessert. That's an investment.
+You do not throw out a good ice-cream pail in this town. You wash it, you stack it, and one day you leave it to your kids in the will.
 (laughter, applause)
 
 A Mennonite cannot physically walk past a deal. Put a yellow clearance sticker on a brick, he'll buy two. "When am I gonna need a brick?" Doesn't matter — it was eighty percent off.
@@ -110,24 +110,24 @@ Then there's faspa. Faspa is when a Mennonite serves you a four-course meal and 
 (laughter)
 Vareniki, farmer sausage, rollkuchen with watermelon, borscht, and a basket of buns — and Grandma says, "Ach, I didn't make much, just pick."
 (laughter)
-There's enough food to end a famine and she is genuinely hurt you can't manage a seventh sausage. You don't leave a Mennonite house hungry. You leave it horizontal.
+There's enough food to end a famine and she is genuinely hurt you can't manage a seventh sausage. You don't leave a Mennonite house hungry — you leave needing a nap and a bigger belt.
 (laughter, applause)
 
 Twenty-two churches in one town. Sunday morning it's a NASCAR of minivans — all doing exactly the speed limit, because Jesus is watching... and so is Mrs. Penner.
 (laughter)
-Mennonites don't gossip. They "share concerns." "Now, I'm not one to talk... but did you SEE who was at the bar on Friday?" That's not prayer, Brenda. That's surveillance.
+Mennonites don't gossip. They "lift each other up in conversation." "Now, I'm not one to judge, but did you SEE who was at the bar Friday?" That's not concern, Brenda. That's surveillance.
 (laughter)
-They'll pray for you so hard it feels like a threat.
+And if they really don't like you, they add you to the prayer list — by full name — so the whole town knows what you did and that God's been notified.
 (big laughter, applause)
 
 Now — officially — Steinbach was dry until 2003. Officially.
 (laughter)
-But every Mennonite basement has a "special communion wine" that is somehow forty percent.
+But drive to the off-sale one town over and read the plates. All Steinbach. All parked nose-out — for a quick getaway.
 (laughter)
-And you know why you always take TWO Mennonites fishing? Because if you only take one... he'll drink all your beer.
-(big laughter)
-You take two — so they watch each other. That's not a fishing trip. That's accountability.
-(laughter, applause)
+A Mennonite doesn't drink. He "samples." He "has a little something for the cold." It's July.
+(laughter)
+Every basement's got a homemade wine that started as grape juice and found religion — forty percent, blessed personally. And he'll never buy just one beer, that looks like a habit. He buys a flat. For "guests." The guests are him.
+(big laughter, applause)
 
 Last thing — you cannot date in this town, because everybody's a cousin. Six last names, forty thousand people. You meet a Friesen, you don't ask IF you're related — you ask how closely.
 (laughter)
@@ -151,3 +151,19 @@ Steinbach, you've been incredible — drive safe, tithe generously, and somebody
   line, and **two-Mennonites-fishing** — protect those, they're the roof-raisers.
 - **Edge stays kind:** no profanity, no faith-bashing; it lands *because* it ends on love (the clearance-
   shirt callback). That's the affectionate-roast sweet spot Mennonites actually enjoy.
+
+---
+
+## ✅ Originality check (per request)
+All jokes here are **original**, written for this set. What's drawn from research is **cultural fact**,
+which nobody owns — ice-cream pails reused as containers, faspa foods, 22 churches, "Automobile City,"
+dry-until-2003, frugality, the surname pool. The *jokes built on* those facts are mine.
+- **Deliberately replaced** the well-worn **folk joke** "take two Mennonites fishing (one drinks your beer)"
+  with an original closet-drinker bit (off-sale plates / "samples" / "the guests are him").
+- **Deliberately rewrote** the ice-cream-pail bit so it does **not** reuse lines from published satire
+  (e.g., the Unger Review's "the pail's half the value" / "potato salad before finishing the ice cream").
+  My version (chili-not-ice-cream, labels crossed out, "left in the will") is original.
+- Common idioms ("shirt off their back," "I'll rest when I'm dead") are language, not anyone's material;
+  the punchlines/toppers around them (the coffin, the clearance shirt) are original.
+- No lines were lifted from any comedian's act. If you ever want, run the final past a plagiarism checker —
+  it should come back clean since it's all freshly written.

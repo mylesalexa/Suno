@@ -30,7 +30,7 @@ Family Ski Trip Gong Show
 
 **Style of Music box (paste exactly)**
 ```
-Upbeat comedic country hootenanny, 150 BPM, key of G, acoustic guitar, fiddle, banjo, stomp-clap, upright bass, rowdy male lead with family gang vocals, fast and funny, huge singalong chorus, no autotune
+Upbeat comedic country hootenanny, 150 BPM, key of G, acoustic guitar, fiddle, banjo, stomp-clap, rowdy male lead with family gang vocals, fast and funny, huge singalong chorus, no autotune
 ```
 
 **Exclude Styles box (optional)**
@@ -122,7 +122,7 @@ Family ski trip gong show
 
 ## ⭐ Best Suno prompt
 ```
-Upbeat comedic country hootenanny, 150 BPM, key of G, acoustic guitar, fiddle, banjo, stomp-clap, upright bass, rowdy male lead with family gang vocals, fast and funny, huge singalong chorus, no autotune
+Upbeat comedic country hootenanny, 150 BPM, key of G, acoustic guitar, fiddle, banjo, stomp-clap, rowdy male lead with family gang vocals, fast and funny, huge singalong chorus, no autotune
 ```
 **Tip:** the comedy lands on the **gang-vocal call-outs** — make `(shout) Pizza! French fry!` and the
 "WHERE ARE YOU? — I DON'T KNOW!" land like a whole family yelling. Keep it **fast and rowdy** (fiddle +

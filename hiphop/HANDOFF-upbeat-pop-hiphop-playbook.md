@@ -22,7 +22,7 @@ This doc is the recipe so a fresh thread can crank out more without re-deriving 
 - **Style box:**
   `Clean summer pop hip-hop, 104 BPM, key of A minor, smooth bounce, warm chords, finger snaps, mellow 808, melodic sung-rap verses, big sung hook, lush harmonies, golden-hour R&B-pop, radio polished`
 - **Exclude:** `explicit, profanity, provocative, vulgar, sexual, dark, aggressive, hardcore, country, metal, childish`
-- **File:** `Cloudlight Proxy/patio-nights-pop-hiphop.md`
+- **File:** `hiphop/patio-nights-pop-hiphop.md`
 
 ### 2. "Beach Days, Sun Rays" — the *danceable/EDM* end of the lane
 - **Vibe:** clean **school's-out senior-summer** banger — last bell, windows down, beach, bonfire, "seventeen
@@ -33,7 +33,7 @@ This doc is the recipe so a fresh thread can crank out more without re-deriving 
 - **Style box:**
   `Clean EDM pop hip-hop, 112 BPM, key of G, four-on-floor, funky boogie bass, lush emotive chords, soaring synth lead, vocal harmonies, melodic sung-rap verses, sung chorus, male vocal, TikTok dance`
 - **Exclude:** `monotone, spoken word, deadpan, harmonica, blues, explicit, profanity, childish, dark, sad, ballad`
-- **File:** `Cloudlight Proxy/beach-days-sun-rays-pop-hiphop.md`
+- **File:** `hiphop/beach-days-sun-rays-pop-hiphop.md`
 
 **The spectrum:** Patio Nights (104 BPM, mellow R&B-pop bounce) ⟷ Beach Days (112 BPM, EDM dance drop).
 New upbeat songs live anywhere on that line. Want it more dance-y? Push toward Beach Days. More grown/chill
@@ -108,8 +108,8 @@ crossover? Push toward Patio Nights.
 1. Pick a spot on the spectrum (chill Patio ⟷ dance Beach Days) and a clear **clean upbeat concept**.
 2. Write concept/angle, then the style box, exclude box, title, and lyrics following the structure above.
 3. **Verify char counts** (style ≤200, lyrics ≤3000, title ≤80); trim if needed; remove stray fences.
-4. Save as `hiphop/<song-slug>.md` (or `Cloudlight Proxy/` to match where the originals live — confirm with
-   the user; the two reference files currently live in `Cloudlight Proxy/`).
+4. Save as `hiphop/<song-slug>.md` — the whole upbeat lane lives in the `hiphop/` folder (both reference
+   files and this playbook are there).
 5. Optionally run the **judges' panel** device (chart/dance/Gen-Z personas scoring Hook · Replay · Vibe ·
    Clean-but-Cool · Danceable) to pressure-test and refine — the user likes this.
 6. **Commit + push:**

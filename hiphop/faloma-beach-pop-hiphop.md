@@ -1,60 +1,63 @@
-# Faloma Nights *(clean Latin hip-hop dance-party banger — beach bonfire, late-night)*
+# Faloma Nights *(Latin × Tritonal — melodic Latin festival future-bass beach banger)*
 
-*The Latin-fusion night-party cut: clean **Latin hip-hop dance-party** banger about **Faloma Beach after
-dark** — bonfire on the sand, dancing under the stars on a hidden Whiteshell bay. Built on the
-**"Hips Don't Lie" vibe**: a blaring **trumpet hook**, hot **Latin percussion** (congas, timbales, shakers),
-a **cumbia-reggaeton dembow** hip-sway, over hard 808 and a real drop. Move-and-groove, clean but grown.
-Melodic sung-rap verses, huge party hook, a little Spanish spice. Cloudlight Proxy.*
+*The fusion cut: clean **Latin festival future-bass** banger about **Faloma Beach after dark** — the
+"Hips Don't Lie" Latin half (blaring cumbia trumpet, congas, reggaeton dembow hip-sway) crossed with the
+**Tritonal half** (huge euphoric festival drop, soaring supersaw leads, lush emotive chords, sidechain pump).
+Bonfire on a hidden Whiteshell bay, dancing under the stars, hands up. 128 BPM, hard 808, real drops.
+Melodic sung-rap verses, Spanish spice, the trumpet riff doubling the drop. Cloudlight Proxy.*
 
-> **Brief / the change:** keep the late-night beach-party banger, add the **Shakira "Hips Don't Lie" Latin
-> vibe** — blaring cumbia trumpet riff, congas/timbales/shakers, dembow hip-sway, tasteful "baila / muévelo"
-> chants. Still the hidden Faloma/Whiteshell setting (bay off the 301, granite cliffs), now with Latin fire.
+> **Brief / the fusion:** mix the Latin ("Hips Don't Lie" cumbia/reggaeton) vibe with the **Tritonal** vibe
+> (festival progressive / future-bass). The model is **"Mi Gente" / "Taki Taki"** — Latin groove + festival
+> EDM drop — but with Tritonal's *emotional, melodic supersaw* sheen on the drop instead of a hard moombahton hit.
 
 ---
 
-## How we get the "Hips Don't Lie" vibe (the recipe)
-- 🎺 **Blaring trumpet/brass hook** — the signature cumbia horn riff; it's the hook's secret weapon.
-- 🥁 **Hot Latin percussion** — congas, timbales, shakers/güira layered busy under the 808.
-- 💃 **Cumbia-reggaeton dembow groove** — hip-swaying syncopation = feels fast and sexy at any tempo.
-- 🗣️ **Spanish spice, kept clean** — "baila," "muévelo," a "hips don't lie" nod, "uno dos tres."
+## The fusion recipe (Latin × Tritonal)
+- **Verses = Latin:** cumbia-reggaeton **dembow** hip-sway, congas/timbales/shakers, the **blaring trumpet
+  hook** (the Hips-Don't-Lie signature), melodic sung-rap.
+- **Drop = Tritonal:** white-noise riser → **soaring supersaw leads + lush emotive chords + sidechain pump**,
+  euphoric festival energy, with the **trumpet riff doubling the synth lead** (the "Mi Gente" move — the
+  Latin hook *becomes* the drop).
+- **128 BPM** bridges both: verses feel reggaeton/half-time, the drop is full four-on-the-floor festival house.
+- **A minor** keeps it emotional-euphoric (Tritonal) and nighttime-club (Latin) at once.
 
 ---
 
 ## Concept & Angle
-**Concept:** the secret Whiteshell beach becomes a **Latin-fired bonfire party** after dark — trumpets over
-the bass, hips moving, sand underfoot, stars overhead, no neighbors for miles. **Strongest angle:** the
-hidden spot + the Latin heat = a private Carnival on a Manitoba lake. Clean by being **cool and grown** —
-it's all groove, fire, and night, never excess.
+**Concept:** a hidden Whiteshell beach turns into a **Latin festival** after dark — trumpets and supersaws
+over the bonfire, hips moving, hands in the sky, the whole bay a private rave. **Strongest angle:** the
+secret spot + Latin heat + festival euphoria = "Mi Gente on a Manitoba lake at midnight." Clean = all
+groove, fire, and night.
 
 ---
 
 ## Style / Tempo / Vocal
-**Genre:** clean **Latin hip-hop dance-party** banger — **cumbia-reggaeton dembow** groove, a **blaring
-trumpet hook**, congas/timbales/shakers, hard 808, claps, party gang-chants; **melodic sung-rap verses**
-into a huge sung hook with a real drop and a trumpet dance break. Late-night beach-bonfire, hands-up, hot.
+**Genre:** clean **Latin festival future-bass / hip-hop** — cumbia-reggaeton **dembow** verses with a
+**blaring trumpet hook**, exploding into a huge **Tritonal-style festival drop** (soaring supersaws, lush
+emotive chords, sidechain pump, hard 808). Congas, claps, gang-chants, white-noise risers. Hands-up, euphoric, hot.
 
-- **Tempo:** ~**124 BPM** with a **dembow hip-sway** — feels hot and fast (Latin percussion does the work).
-- **Key:** **A minor** (night-club Latin energy, bright euphoric lift on the drop).
-- **Vocal:** confident **male** — melodic sung-rap on verses (tuneful, hyped), big and euphoric on the hook,
-  Latin gang-vocal chants. Light auto-tune fine. Clean. (Female-lead / male-female trade-off is great here too.)
+- **Tempo:** ~**128 BPM** — reggaeton/dembow feel in the verses, full festival four-on-the-floor on the drop.
+- **Key:** **A minor** (emotional-euphoric festival + nighttime Latin club).
+- **Vocal:** confident **male** — melodic sung-rap on verses (hyped, tuneful), big and euphoric on the hook,
+  Latin gang-vocal chants. Light auto-tune fine. Clean. (Female-lead / male-female trade-off is great here.)
 
 ---
 
-## The Panel (Latin dance-party read)
-*Criteria: **Hook · Replay · Dance Energy · Latin Flavor · Production** (10 each, 50/judge, 250).*
+## The Panel (Latin × Tritonal read)
+*Criteria: **Hook · Replay · Drop/Energy · Fusion Flavor · Production** (10 each, 50/judge, 250).*
 - **Skip Dyer** (playlist editor) · **DJ Tempo** (producer) · **Hannah Cole** (pop playlists) ·
-  **Maya (17)** (Gen-Z gut check) · **Birch** (Manitoba local).
+  **Maya (17)** (Gen-Z gut check) · **Reign** (chart/festival strategist).
 
-| Judge | Hook | Replay | Dance | Latin | Prod | Total | Note |
+| Judge | Hook | Replay | Drop | Fusion | Prod | Total | Note |
 |---|---|---|---|---|---|---|---|
-| **Skip** | 10 | 9 | 10 | 9 | 9 | **47** | "That trumpet hook is the earworm — Latin-summer-playlist gold." |
-| **DJ Tempo** | 9 | 9 | 10 | 10 | 10 | **48** | "Dembow + congas + the horn riff over 808 — THIS is the hip-shake. It moves." |
-| **Hannah** | 10 | 9 | 10 | 9 | 9 | **47** | "'Hips don't lie when the rhythm get loud' — cheeky nod, clean, instant chant." |
-| **Maya (17)** | 9 | 10 | 10 | 9 | 9 | **47** | "Trumpets on a beach at night?! The 'baila baila' part is a TikTok dance, easy." |
-| **Birch** (local) | 9 | 9 | 9 | 9 | 9 | **45** | "A Carnival on a secret Whiteshell bay — wild and I'm here for it." |
+| **Skip** | 9 | 9 | 10 | 10 | 9 | **47** | "Latin verse into a festival supersaw drop — that's the 'Mi Gente' lane, huge." |
+| **DJ Tempo** | 9 | 9 | 10 | 10 | 10 | **48** | "Trumpet doubling the supersaw on the drop is THE move. Dembow verse, four-on-floor drop. Slams." |
+| **Hannah** | 10 | 9 | 9 | 9 | 9 | **46** | "Two earworms in one — the horn riff AND the chant. Clean, euphoric, current." |
+| **Maya (17)** | 9 | 10 | 10 | 9 | 9 | **47** | "Festival trumpets at a beach bonfire? Hands UP. The drop is gonna go off live." |
+| **Reign** | 9 | 9 | 10 | 10 | 10 | **48** | "Latin-EDM crossover is the biggest global lane right now — festival + radio + playlists." |
 
-**Total: 234/250 — a clean Latin beach-party banger.** Verdict: *"The trumpet and the dembow bring the heat
-the night was missing — Faloma by firelight, hips moving."*
+**Total: 236/250 — Latin heat meets festival euphoria.** Verdict: *"The trumpet brings the hips, Tritonal
+brings the sky — verse moves you, the drop launches you."*
 
 ---
 
@@ -67,7 +70,7 @@ Faloma Nights
 
 **Style of Music box (paste exactly)**
 ```
-Clean Latin pop hip-hop dance banger, 124 BPM, A minor, cumbia reggaeton dembow groove, blaring trumpet hook, congas, timbales, shakers, hard 808, melodic sung-rap verses, huge sung hook, hands-up
+Clean Latin festival future-bass hip-hop, 128 BPM, A minor, cumbia reggaeton dembow verses, blaring trumpet hook into a supersaw festival drop, sidechain pump, hard 808, melodic sung-rap, gang chants
 ```
 
 **Exclude Styles box (optional)**
@@ -78,11 +81,11 @@ explicit, profanity, provocative, childish, country, twang, banjo, slow, sleepy,
 **Lyrics box (paste exactly)**
 ```
 [Intro]
-(night waves, bonfire crackle, blaring trumpet riff, congas and shakers, 808 booms in)
+(night waves, bonfire crackle, lone trumpet, white-noise swell, 808 booms in)
 Faloma after dark... baila, let's go
 
 [Verse 1]
-(melodic sung-rap, bouncy, hip-sway groove)
+(melodic sung-rap, dembow hip-sway, congas under)
 Sun went down but the party just woke up
 Bonfire crackin' and we passin' the cups
 Trumpet on the breeze and the congas hit deep
@@ -93,12 +96,12 @@ Hips don't lie when the rhythm get loud
 Faloma, Faloma, muévelo, crowd
 
 [Pre-Chorus]
-(riser, shakers building, hands up, drop incoming)
+(white-noise riser, snare roll, trumpet climbing, drop incoming)
 Throw your hands in the sky, let the embers fly
-Trumpets up — let the bass drop high
+Trumpets up — three, two, one, let it fly
 
 [Drop / Chorus]
-(huge Latin dance drop, blaring trumpet hook, dembow, 808, gang vocals)
+(festival future-bass drop, soaring supersaws, trumpet riff on the lead, dembow, sidechain pump, gang vocals)
 Fire on the beach, we movin' under the stars
 Faloma all night, the whole lake is ours
 Baila, baila — feel the bass in your chest
@@ -109,12 +112,12 @@ Move them hips, let the rhythm take hold
 Faloma Nights, where the dark turns to gold
 
 [Post-Chorus]
-(trumpet stabs, gang chant, congas)
+(trumpet stabs over supersaws, gang chant, claps)
 (Hey!) Fire on the beach
 (Baila!) Move your body, oh
 
 [Verse 2]
-(melodic sung-rap, hyped)
+(melodic sung-rap, dembow groove)
 DJ on the cooler got the whole bay shakin'
 Granite cliffs echoin' the moves we makin'
 Trumpet section blastin' like it's Carnival
@@ -125,7 +128,7 @@ Strangers turn to family on a Faloma night
 Don't stop, won't stop, muévelo all night
 
 [Drop / Chorus]
-(huge Latin dance drop, blaring trumpet hook, dembow, 808, gang vocals)
+(festival drop, supersaws + trumpet lead, dembow, sidechain pump, gang vocals)
 Fire on the beach, we movin' under the stars
 Faloma all night, the whole lake is ours
 Baila, baila — feel the bass in your chest
@@ -136,18 +139,18 @@ Move them hips, let the rhythm take hold
 Faloma Nights, where the dark turns to gold
 
 [Dance Break]
-(instrumental — blaring trumpet solo, congas, timbales, dembow, claps)
+(festival drop — trumpet trading with a soaring supersaw lead, dembow, sidechain, claps)
 (Baila-baila) move your body
 (Muévelo) Faloma, let's go
 
 [Bridge]
-(pull back to fire crackle and a lone trumpet, then SLAM back in)
+(pull all the way back — fire crackle, lone trumpet, soft pad, then the festival drop SLAMS back)
 When the city's asleep, this is where we come alive
 Sand, fire, stars, and the trumpet keepin' us up all night
-(uno, dos, tres, go!)
+(uno, dos, tres, drop!)
 
 [Final Chorus]
-(biggest, full Latin drop, trumpet, gang vocals)
+(biggest festival drop, full supersaws + trumpet, gang vocals)
 Fire on the beach, we movin' under the stars
 Faloma all night, the whole lake is ours
 Baila, baila — feel the bass in your chest
@@ -156,7 +159,7 @@ Fire on the beach and the night's goin' off
 Faloma Nights, where the dark turns to gold
 
 [Outro]
-(trumpet and congas fading, fire crackle, soft waves)
+(supersaws and trumpet fading, fire crackle, soft waves)
 (Baila!) Fire on the beach
 Faloma 'til la mañana, let's go
 ```
@@ -165,16 +168,16 @@ Faloma 'til la mañana, let's go
 
 ## ⭐ Best Suno prompt
 ```
-Clean Latin pop hip-hop dance banger, 124 BPM, A minor, cumbia reggaeton dembow groove, blaring trumpet hook, congas, timbales, shakers, hard 808, melodic sung-rap verses, huge sung hook, hands-up
+Clean Latin festival future-bass hip-hop, 128 BPM, A minor, cumbia reggaeton dembow verses, blaring trumpet hook into a supersaw festival drop, sidechain pump, hard 808, melodic sung-rap, gang chants
 ```
-**Tip:** the **blaring trumpet hook + cumbia-reggaeton dembow + congas** are the whole "Hips Don't Lie" vibe —
-keep them up front. The `dembow groove` makes it feel hot even at 124. `melodic sung-rap verses` keeps verses
-tuneful. If the horns are shy → add `prominent mariachi trumpet riff, brass stabs`. Want more reggaeton →
-add `reggaeton dembow, perreo`; more cumbia → add `accordion, güira, cumbia bounce`; harder → push to 128.
+**Tip:** the fusion lives in two phrases — `cumbia reggaeton dembow verses` (the Latin half) and
+`supersaw festival drop, sidechain pump` (the Tritonal half) — keep BOTH up front. `trumpet riff on the lead`
+in the drop is the "Mi Gente" move that welds them together. If the drop isn't euphoric enough → add
+`soaring melodic supersaw lead, lush emotive chords`; if it loses the Latin → add `prominent cumbia trumpet,
+dembow groove`; harder → `bigger festival drop, wobble sub`.
 
 ## Variations
-- **Female-lead / duet (very Shakira):** swap `male` → `confident female vocal`, or `male-female trade-off`.
-- **More reggaeton:** add `reggaeton dembow, perreo, hard 808 glide`, keep 124.
-- **More cumbia:** add `cumbia accordion, güira, brass section, Carnival`.
-- **Less Latin / back to straight dance:** drop `trumpet/cumbia/dembow`, use `four-on-the-floor, club synths` (the prior night cut).
-- **Bilingual push:** add full Spanish lines to the post-chorus if you want it more authentically Latin.
+- **Female-lead / duet (most Shakira-like):** swap `male` → `confident female vocal`, or `male-female trade-off`.
+- **More Tritonal/euphoric:** add `melodic progressive house, euphoric breakdown, lush pads`.
+- **More Latin/reggaeton:** add `reggaeton perreo, güira, accordion, brass section`.
+- **Prior cuts (kept):** pure-Latin `Hips Don't Lie` version (no supersaw drop) and the straight `four-on-the-floor` night cut — drop the `supersaw festival drop` tags to get them back.

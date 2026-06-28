@@ -7,8 +7,9 @@ Whiteshell" for 45 years. The spot the tourists miss and the locals keep. Melodi
 
 > **Spelling note:** the place is **"Faloma"** (Faloma Beach / Faloma Beach Marina / Faloma Lakeside Cabins),
 > not "Filoma" — used the real spelling so locals recognize it. Same hidden beach past Falcon Lake.
-> **Brief:** sits on the Beach-Days summer end of the lane, but warmer and smoother — a lake-day banger
-> built on **true, niche local details** so anyone who's been there feels seen, and anyone who hasn't wants to go.
+> **Brief:** the **upbeat dance cut** — pushed to the Beach-Days end with a four-on-the-floor groove, funky
+> boogie bass, claps and an EDM lift on the hook, built on **true, niche local details** so anyone who's been
+> there feels seen and anyone who hasn't wants to go. (Smooth 110 BPM head-nod version kept as a variation.)
 
 ---
 
@@ -22,11 +23,11 @@ else gets wanderlust. Clean by being *cool and grown*, never childish — the fl
 ---
 
 ## Style / Tempo / Vocal
-**Genre:** clean modern **summer pop / hip-hop** — smooth danceable bounce, warm chords, mellow 808, finger
-snaps, lush vocal harmonies; **melodic sung-rap verses** into a big sung hook. Lake-day golden-hour groove,
-radio-polished, a feel-good summer banger.
+**Genre:** clean modern **summer dance-pop / hip-hop** — **four-on-the-floor**, funky boogie bass, bright
+pop synths, claps, mellow 808; **melodic sung-rap verses** into a big sung hook with an **EDM lift** and a
+dance break. Lake-day-into-night, radio-polished, a full feel-good summer **dance banger**.
 
-- **Tempo:** ~**110 BPM** — smooth summer bounce with a danceable lift on the hook.
+- **Tempo:** ~**118 BPM** — driving four-on-the-floor dance groove (bumped up from the smooth 110 cut).
 - **Key:** **G major** (bright, uplifting, open-water sunny).
 - **Vocal:** smooth, confident **male** — melodic sung-rap on verses (tuneful, lots of pitch movement),
   full and warm on the chorus, stacked harmonies. Light auto-tune fine. Clean. (Female/duet swap noted.)
@@ -60,7 +61,7 @@ Faloma Beach
 
 **Style of Music box (paste exactly)**
 ```
-Clean summer pop hip-hop, 110 BPM, key of G, smooth bounce, warm chords, mellow 808, finger snaps, melodic sung-rap verses, big sung hook, lush harmonies, lake-day golden-hour groove, radio polished
+Clean summer dance-pop hip-hop, 118 BPM, key of G, four-on-the-floor, funky boogie bass, bright pop synths, claps, melodic sung-rap verses, big sung hook, EDM lift, lush harmonies, radio polished
 ```
 
 **Exclude Styles box (optional)**
@@ -71,11 +72,11 @@ explicit, profanity, provocative, childish, dark, sad, aggressive, hardcore, met
 **Lyrics box (paste exactly)**
 ```
 [Intro]
-(warm chords, finger snaps, mellow 808, loons calling, soft water)
-Mm... Faloma
+(four-on-the-floor kick, funky boogie bass, bright synth, claps, loons over the groove)
+Mm... Faloma — let's go
 
 [Verse 1]
-(smooth melodic sung-rap, lots of pitch movement)
+(melodic sung-rap, bouncy, lots of pitch movement)
 Ninety minutes east where the city lets go
 Past Falcon on the 301, where the locals all know
 Granite and the pine trees, Whiteshell in the green
@@ -86,12 +87,12 @@ Tourists hit the main beach, we just slide on by
 To a quiet little bay under that big sky
 
 [Pre-Chorus]
-(lift)
+(riser, claps building, drop incoming)
 So follow that gravel till the cell signal's gone
 Soft sand under the water and the sun comin' on
 
 [Chorus]
-(big sung hook, lush harmonies, smooth bounce)
+(big sung hook, four-on-the-floor, claps, EDM lift, lush harmonies)
 Faloma, Faloma, where the good days hide
 Soft sand, calm water, golden on the tide
 Loons on the lake and the cliffs standin' tall
@@ -102,12 +103,12 @@ Sun goin' down and it's paintin' the shore
 Faloma Beach, who could ask for more
 
 [Post-Chorus]
-(chant, snaps)
+(dance chant, claps, hands up)
 (Ooh) Faloma
 (Ooh) heart of the Whiteshell, ooh
 
 [Verse 2]
-(smooth melodic sung-rap)
+(melodic sung-rap, bouncy)
 Free canoe from the cabins, one-minute walk
 Paddle out so quiet that you hear the lake talk
 No slime and no rock, just a clean sandy floor
@@ -117,13 +118,8 @@ Stars all over the water, not a single city light
 Cliffs that they call soarin' and a bay they call secret
 We found it, and we keep it, and we never gonna leak it
 
-[Pre-Chorus]
-(lift)
-So follow that gravel till the cell signal's gone
-Soft sand under the water and the sun comin' on
-
 [Chorus]
-(big sung hook, lush harmonies, smooth bounce)
+(big sung hook, four-on-the-floor, claps, EDM lift, lush harmonies)
 Faloma, Faloma, where the good days hide
 Soft sand, calm water, golden on the tide
 Loons on the lake and the cliffs standin' tall
@@ -133,26 +129,28 @@ Canoe on the water, leave the keys in the car
 Sun goin' down and it's paintin' the shore
 Faloma Beach, who could ask for more
 
+[Dance Break]
+(instrumental — funky boogie bass, bright synth lead, claps, four-on-the-floor)
+(Ooh-ooh) Faloma — hands up
+(Ooh-ooh) Faloma — let's go
+
 [Bridge]
-(pull back, warm, then the groove slides back in)
+(pull back to warm chords, then the dance groove slams back)
 They can have the crowds and the line at the store
 We got a quiet little corner that we love even more
 Heart of the Whiteshell where the loons call your name
 One trip to Faloma and you'll never be the same
 
 [Final Chorus]
-(biggest, full harmonies, snaps)
+(biggest, full four-on-the-floor, claps, gang vocals, EDM lift)
 Faloma, Faloma, where the good days hide
 Soft sand, calm water, golden on the tide
-Loons on the lake and the cliffs standin' tall
 Faloma Beach, best kept secret of 'em all
-Faloma, Faloma, we ain't gotta go far
-Canoe on the water, leave the keys in the car
 Sun goin' down and it's paintin' the shore
 Faloma Beach, who could ask for more
 
 [Outro]
-(snaps fading, loons, gentle water)
+(filtered synth and claps fading, loons, gentle water)
 (Ooh) Faloma
 Keep it quiet, keep it ours, alright
 ```
@@ -161,15 +159,16 @@ Keep it quiet, keep it ours, alright
 
 ## ⭐ Best Suno prompt
 ```
-Clean summer pop hip-hop, 110 BPM, key of G, smooth bounce, warm chords, mellow 808, finger snaps, melodic sung-rap verses, big sung hook, lush harmonies, lake-day golden-hour groove, radio polished
+Clean summer dance-pop hip-hop, 118 BPM, key of G, four-on-the-floor, funky boogie bass, bright pop synths, claps, melodic sung-rap verses, big sung hook, EDM lift, lush harmonies, radio polished
 ```
-**Tip:** keep it **smooth-but-bouncy** — head-nod groove with a lift on the hook, snaps and warm chords; the
-cool comes from *restraint*. `melodic sung-rap verses` keeps verses tuneful (not monotone). It's a **lake
-song, not a country song** — `country, twang, banjo` are in Exclude on purpose; if it drifts twangy, push
-`808, snaps, smooth pop bounce` up. Too sleepy → nudge to 112; want more dance → add `four-on-the-floor, summer EDM lift`.
+**Tip:** the **four-on-the-floor + funky boogie bass + claps** are what make it move — keep them up front for
+the dance groove, and the `EDM lift` makes the hook pop on the drop. `melodic sung-rap verses` keeps verses
+tuneful (not monotone). It's a **lake dance song, not a country song** — `country, twang, banjo` are in
+Exclude on purpose; if it drifts twangy, push `four-on-the-floor, synths, claps` up. Want even harder →
+add `EDM build, drop, soaring synth lead`; too hyper → pull to 114.
 
 ## Variations
-- **More dance (Beach-Days end):** add `four-on-floor, funky boogie bass, EDM build, drop` and push to 112.
-- **More chill (Patio-Nights end):** pull to 104, add `neo-soul chords, Rhodes piano, golden hour`.
+- **Even bigger drop (Beach-Days EDM end):** add `EDM build, big drop, soaring synth lead, TikTok dance break`.
+- **Smooth cut (the original):** `Clean summer pop hip-hop, 110 BPM, key of G, smooth bounce, warm chords, mellow 808, finger snaps, melodic sung-rap verses, big sung hook, lush harmonies, lake-day golden-hour groove, radio polished` — head-nod, no four-on-floor.
 - **Female-lead / duet:** swap `male` → `smooth female vocal`, or `male-female trade-off`.
-- **Deeper-local verse swap:** name-drop more Whiteshell (Caddy Lake tunnels, Top of the World hike, West Hawk) if you want an even more insider cut.
+- **Deeper-local verse swap:** name-drop more Whiteshell (Caddy Lake tunnels, Top of the World hike, West Hawk) for an even more insider cut.

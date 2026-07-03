@@ -1,51 +1,51 @@
-# Favorite Lake *(catchy TikTok dance hip-hop — "everybody's got a favorite lake")*
+# Favorite Lake *(dance-pop / pop-house — "everybody's got a favorite lake")*
 
-*The TikTok-dance cut: a super-catchy, chantable clean **dance hip-hop** track on the universal hook
-**"everybody's got a favorite lake."** Hard 808 bounce, trap hi-hats, claps, gang-chant call-and-response,
-and a **dance-challenge callout** section built to loop. Universal (everyone pictures their own spot);
-**Fallcon Lake** gets exactly one name-drop. Made to move and made to clip. Cloudlight Proxy.*
+*The dance-pop cut: a bright, festival **pop-house** banger on the universal hook **"everybody's got a
+favorite lake."** Four-on-the-floor, bright pop synths, punchy drums, claps, a big hands-up lift, and
+gang-chant call-and-response with a dance-challenge callout section — all the catchy, loopable energy, none
+of the trap. Universal (everyone pictures their own spot); **Fallcon Lake** name-dropped once. Cloudlight Proxy.*
 
-> **Brief:** dance TikTok-style hip-hop, super catchy, universal ("everybody's got a favorite lake"),
-> mention Falcon Lake once. **Pronunciation:** spelled **"Fallcon"** in the lyric on purpose so it's sung
-> **FALL-con** (hard first syllable), not "fal-cun." New standalone file (the anthem version stays as its own song).
+> **Brief / the change:** the trap-808 version was too rap-trap. Re-styled to **dance-pop / pop-house** —
+> bright synths, four-on-the-floor, festival lift, huge sung sing-along hook — kept the catchy "favorite
+> lake" lyrics and the TikTok call-and-response. **Fallcon** spelled that way on purpose = sung **FALL-con**.
 
 ---
 
 ## Concept & Angle
-**Concept:** a loop-ready dance chant about the one lake that's *yours* — everybody's got one, so everybody
-sings it. **Strongest angle:** it's **participatory** — call-and-response ("lake! lake!"), move callouts
-("dip, splash, lean back"), and a countdown-to-jump. That's the TikTok formula: a hook you shout, a move you
-copy, a clip you make. Clean, fun, universal; the single "Fallcon Lake" line grounds it without limiting it.
+**Concept:** a loop-ready dance-pop chant about the one lake that's *yours* — everybody's got one, so
+everybody sings it. **Strongest angle:** it's **participatory** — call-and-response ("lake! lake!"), move
+callouts ("dip, splash, lean back"), and a countdown-to-jump — over a bright pop-house groove that fills a
+dancefloor. Clean, sunny, universal; the single "Fallcon Lake" line grounds it without limiting it.
 
 ---
 
 ## Style / Tempo / Vocal
-**Genre:** catchy **TikTok dance hip-hop** — hard 808 bounce, trap hi-hats, claps, bright synth stabs;
-gang-chant hooks, dance-challenge callouts, melodic sung-rap verses into a huge earworm chorus. Punchy,
-loopable, hands-up. Clean.
+**Genre:** bright **dance-pop / pop-house** — four-on-the-floor, bright pop synths, punchy drums, claps,
+warm bass, festival lift; gang-chant hooks, dance-challenge callouts, **melodic sung verses** into a huge
+sung sing-along chorus. Hands-up, radio-and-festival polished. Clean. (No trap / no heavy 808.)
 
-- **Tempo:** ~**110 BPM** — 808 dance bounce (hip-hop groove you can actually dance a challenge to).
+- **Tempo:** ~**122 BPM** — full pop-house four-on-the-floor dance tempo.
 - **Key:** **C major** (bright, fun, sing-along).
-- **Vocal:** confident **male** — bouncy melodic sung-rap on verses, big gang-chant on the hook, playful
-  callouts. Light auto-tune fine. Clean. (Female-lead / call-and-response duet is great for a dance clip.)
+- **Vocal:** confident **male** — bright melodic sung verses (a little sing-rap lilt is fine), big gang-chant
+  on the hook, playful callouts. Light auto-tune fine. Clean. (Female-lead / call-and-response duet is great too.)
 
 ---
 
-## The Panel (TikTok / dance read)
+## The Panel (dance-pop / TikTok read)
 *Criteria: **Hook · Loopability · Danceability · Relatability · Production** (10 each, 50/judge, 250).*
 - **Skip Dyer** (playlist editor) · **DJ Tempo** (producer) · **Hannah Cole** (pop playlists) ·
   **Maya (17)** (Gen-Z / TikTok gut check) · **Reign** (chart strategist).
 
 | Judge | Hook | Loop | Dance | Relate | Prod | Total | Note |
 |---|---|---|---|---|---|---|---|
-| **Skip** | 10 | 10 | 9 | 10 | 9 | **48** | "'Everybody got a favorite lake' is a caption AND a chant — built to trend." |
-| **DJ Tempo** | 9 | 10 | 10 | 9 | 9 | **47** | "110 with hard 808 and the callout break — that's a dance-challenge tempo." |
-| **Hannah** | 10 | 9 | 9 | 10 | 9 | **47** | "The 'lake! lake!' response is instant crowd participation. Sticky." |
-| **Maya (17)** | 10 | 10 | 10 | 10 | 9 | **49** | "The 'dip, splash, lean back' part IS the dance. I'd film this at the lake, 100%." |
-| **Reign** | 9 | 10 | 9 | 10 | 10 | **48** | "Short, universal, loopable — the clip-first formula. One name-drop keeps it grounded." |
+| **Skip** | 10 | 10 | 9 | 10 | 9 | **48** | "Same killer chant, now it's a bright dancefloor record — way more universal than trap." |
+| **DJ Tempo** | 9 | 9 | 10 | 9 | 10 | **47** | "122 four-on-floor with a festival lift — hands go up on the drop. Clean pop-house." |
+| **Hannah** | 10 | 9 | 9 | 10 | 9 | **47** | "'lake! lake!' response over pop-house = summer-playlist and radio, not just a clip." |
+| **Maya (17)** | 10 | 10 | 10 | 10 | 9 | **49** | "This slaps WAY more than the trap one. The 'dip, splash, lean back' still IS the dance." |
+| **Reign** | 9 | 9 | 9 | 10 | 10 | **47** | "Pop-house is the broad dance lane — festival, radio, and TikTok all at once." |
 
-**Total: 239/250 — a loop-ready dance-challenge chant.** Verdict: *"A hook you shout, a move you copy — it's
-engineered to be filmed. Universal enough that everyone stitches their own lake."*
+**Total: 238/250 — a bright, universal dance-pop chant.** Verdict: *"Lost the trap, kept the hook — now it's
+a dancefloor filler anyone anywhere sings and films."*
 
 ---
 
@@ -58,23 +58,23 @@ Favorite Lake
 
 **Style of Music box (paste exactly)**
 ```
-Catchy TikTok dance hip-hop, 110 BPM, key of C, hard 808 bounce, trap hi-hats, claps, bright synth stabs, gang-chant hook, dance-challenge callouts, melodic sung-rap, huge earworm chorus, hands-up
+Dance-pop pop-house, 122 BPM, key of C, bright pop synths, four-on-the-floor, punchy drums, claps, festival lift, gang-chant hook, melodic sung verses, huge sung sing-along hook, radio polished
 ```
 
 **Exclude Styles box (optional)**
 ```
-explicit, profanity, provocative, childish, country, twang, banjo, slow, sleepy, ballad, monotone, spoken word, deadpan, sad, rock
+explicit, profanity, provocative, childish, country, twang, banjo, slow, sleepy, ballad, monotone, trap, heavy 808, mumble rap, sad, rock
 ```
 
 **Lyrics box (paste exactly)**
 ```
 [Intro]
-(hard 808 boom, trap hi-hats, claps, synth stab)
-Ayy... everybody got a favorite lake
+(bright pop synths, four-on-the-floor, punchy drums, claps)
+Oh... everybody got a favorite lake
 Let's go
 
 [Chorus]
-(super catchy gang chant, hard 808, claps)
+(super catchy gang chant, four-on-the-floor, claps, festival lift)
 Everybody got a favorite lake (lake! lake!)
 Where you run when you need to get away (way! way!)
 Feet in the water, jump in the wake
@@ -85,7 +85,7 @@ Sun on your face, dive in the lake
 Everybody got a favorite lake!
 
 [Verse 1]
-(melodic sung-rap, bouncy, hyped)
+(bright melodic sung, bouncy)
 Mine's Fallcon Lake but you got your own
 Some little blue where your heart feels home
 Load up the car, let the whole crew know
@@ -96,14 +96,14 @@ Don't need a beach in a faraway state
 Everybody got a favorite lake
 
 [Post-Chorus]
-(dance-challenge callouts, claps, 808)
+(dance-challenge callouts, claps, punchy drums)
 Dip! Splash! Lean back!
 Paddle-paddle, cannonball, and freeze like that
 Woah — to the left, to the lake
 Everybody got a favorite lake!
 
 [Chorus]
-(super catchy gang chant, hard 808, claps)
+(super catchy gang chant, four-on-the-floor, claps, festival lift)
 Everybody got a favorite lake (lake! lake!)
 Where you run when you need to get away (way! way!)
 Feet in the water, jump in the wake
@@ -114,7 +114,7 @@ Sun on your face, dive in the lake
 Everybody got a favorite lake!
 
 [Verse 2]
-(melodic sung-rap)
+(bright melodic sung)
 Doesn't matter if it's big or small
 Muddy little pond or a waterfall
 Where you learned to float, where you learned to fall
@@ -125,19 +125,19 @@ City stress, leave it on the shelf
 Favorite lake, get back to yourself
 
 [Dance Break]
-(instrumental — 808, hi-hats, synth stab, claps)
-(Ayy) do the wave
-(Ayy) favorite lake
+(instrumental — bright synth lead, four-on-the-floor, claps, festival lift)
+(Hey) do the wave
+(Hey) favorite lake
 
 [Bridge]
-(chant build, hands up, then drop)
+(chant build, hands up, then the drop)
 Everybody, everybody, put ya hands up high
 Everybody, everybody, if you got a place you ride
 One, two, three — jump in the lake!
 Everybody got a favorite lake!
 
 [Final Chorus]
-(biggest, full gang vocals, claps)
+(biggest, full gang vocals, claps, festival lift)
 Everybody got a favorite lake (lake! lake!)
 Where you run when you need to get away (way! way!)
 Feet in the water, jump in the wake
@@ -148,7 +148,7 @@ Sun on your face, dive in the lake
 Everybody got a favorite lake!
 
 [Outro]
-(808 and claps fading, water splash)
+(synths and claps fading, water splash)
 (Splash!) favorite lake
 Yeah, you got one — go
 ```
@@ -157,15 +157,15 @@ Yeah, you got one — go
 
 ## ⭐ Best Suno prompt
 ```
-Catchy TikTok dance hip-hop, 110 BPM, key of C, hard 808 bounce, trap hi-hats, claps, bright synth stabs, gang-chant hook, dance-challenge callouts, melodic sung-rap, huge earworm chorus, hands-up
+Dance-pop pop-house, 122 BPM, key of C, bright pop synths, four-on-the-floor, punchy drums, claps, festival lift, gang-chant hook, melodic sung verses, huge sung sing-along hook, radio polished
 ```
-**Tip:** the **gang-chant call-and-response** ("lake! lake!") and the **callout break** ("dip, splash, lean
-back") are the TikTok engine — keep them punchy. **Pronunciation:** the lyric spells it **"Fallcon"** so it's
-sung *FALL-con*; if Suno still softens it, try `Fal-con` or `Falcun→no` and re-roll. Want harder → add
-`festival 808, bigger drop`; more pop → add `bright pop synths, four-on-the-floor`; more trap → add `fast hi-hat rolls`.
+**Tip:** lead with `dance-pop pop-house` + `four-on-the-floor` + `bright pop synths` so it stays bright and
+danceable, NOT trap — `trap` and `heavy 808` are in Exclude on purpose. The `gang-chant hook` + callout break
+are the TikTok engine. **Pronunciation:** the lyric spells it **"Fallcon"** so it's sung *FALL-con*; if Suno
+softens it, try `Fal-con` and re-roll. Bigger → add `festival synth drop, sidechain pump`; more retro → add `nu-disco funk, brass stabs`.
 
 ## Variations
 - **Female-lead / duet clip:** swap `male` → `confident female vocal`, or `male-female call and response`.
-- **Sped-up TikTok edit:** add `sped-up, +6 semitones, faster` for the classic nightcore-style clip version.
-- **More EDM dance:** add `four-on-the-floor, festival synth drop, TikTok dance break`.
-- **Pairs with:** the "Falcon Lake" universal anthem (mid-tempo) and "Faloma Nights" (Latin festival) in the hiphop set.
+- **Tropical house cut:** swap synths for `plucky marimba synth lead, tropical house, breezy` (summer-lake perfect).
+- **Nu-disco / funk cut:** add `funky slap bass, brass stabs, disco strings` for a retro-fun version.
+- **Sped-up TikTok edit:** add `sped-up, +5 semitones, faster` for the nightcore-style clip.

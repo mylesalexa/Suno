@@ -3,8 +3,9 @@
 *A glossy, high-energy **best-friends anthem** for Charlie and Blair — inseparable since they were babies.
 Built in the **Freya Skye** lane (bright agile teen-pop, empowering catchy hooks, punchy Scandi-pop
 production — the Mattman & Robin / Julia Michaels sheen). Nails and hair on a Friday, musical theatre and
-dancing and singing, camping at Falcon Lake, both landing the big part in **Artista** this year — two happy,
-friendly, up-for-anything girls who can never be separated. No way. BFF forever. Cloudlight Proxy.*
+dancing and singing, camping together at Falcon Lake, Gigi's ice cream runs, both landing the big part in
+**Artista** this year — two happy, friendly, up-for-anything girls who make each other smile so big their
+cheeks nearly explode, best friends since they were born and who can never be separated. No way. BFF forever. Cloudlight Proxy.*
 
 > **Brief:** poppy, VERY exciting and upbeat, Freya-Skye-style. About Charlie & Blair: they make each other
 > laugh, do girly stuff (nails, hair), love musical theatre / dancing / singing, camp together (top spot
@@ -109,9 +110,10 @@ Charlie and Blair, we don't play fair!
 [Verse 2]
 (bouncy, add movement)
 Falcon Lake and the tent's already up
-Marshmallow smoke and a pink lemonade cup
-Chasin' each other 'round the fire all night
-Up for anything — we're gonna be alright
+Grab a cone from Gigi's, pink lemonade cup
+Campin' all together, up for anything, let's go
+I make you smile so big that your cheeks could explode!
+Best friends since we were born, we're gonna be alright
 
 [Pre-Chorus]
 (claps build, rising)

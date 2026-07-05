@@ -4,7 +4,8 @@
 **Meghan Trainor**-style clap-pop banger built to go viral. Retro doo-wop swing, finger snaps, handclaps,
 brass stabs, cheeky confidence, and a **chant hook + built-in dance moment** (snap-snap, clap-clap,
 left-right, hands up). Nails and hair, musical theatre, camping at Falcon Lake, both with the big part in
-**Artista**, best friends since babies — packaged for a 15-second TikTok. Clean, fun, unstoppable. Cloudlight Proxy.*
+**Artista**, best friends since babies — packaged for a 15-second TikTok. Gigi's ice cream runs, camping
+together, and smiling so big their cheeks nearly explode. Clean, fun, unstoppable. Cloudlight Proxy.*
 
 > **Brief:** more upbeat — a **dance song / TikTok anthem** in the **Meghan Trainor** lane. Same Charlie &
 > Blair story and details, but sassier, snappier, and choreographable: a chant hook, claps/snaps, and a
@@ -109,9 +110,9 @@ Charlie and Blair, we're a matching pair!
 [Verse 2]
 (bouncy, more attitude)
 Falcon Lake, pitch the tent, yeah we the campin' queens
-Marshmallow, cannonball, livin' out our teenage dreams
-Up for anything, honey, we always say yes
-Sing it loud, dance it out — we don't settle for less
+Roll to Gigi's for the ice cream, livin' out our dreams
+Best friends since we were born, and everybody knows
+I make her smile so big that her cheeks about to explode!
 
 [Pre-Chorus]
 (claps build)

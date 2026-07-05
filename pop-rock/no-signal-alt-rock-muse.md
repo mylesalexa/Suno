@@ -1,14 +1,14 @@
 # No Signal *(Muse-style alternative rock — off-the-grid campsite anthem)*
 
 *Same campsite, brand-new song and a totally different Muse mode. Where the cosmic version ("Bay Three,
-Site Four") sang the sky, this one taps Muse's **anti-establishment / off-the-grid** streak (*Uprising*,
-*Hysteria*, *Stockholm Syndrome*): a stomping fuzz-bass riff, defiant falsetto, and one idea — out here
-there's **no signal**, the world can't reach us, and nobody's going back. The fire is the only screen we
-need. Clean, driving, rebellious-but-warm. Cloudlight Proxy.*
+Site Four") sang the sky, this one is full **Hysteria** — that relentless, snarling **fuzz-bass lead riff**
+driving the whole thing, palm-muted guitars, pounding drums, and a soaring falsetto chorus over the top.
+Muse's **anti-establishment / off-the-grid** streak weaponized: out here there's **no signal**, the world
+can't reach us, and nobody's going back. The fire is the only screen we need. Clean, heavy, arena-big. Cloudlight Proxy.*
 
 > **Brief:** a *second*, fresh Muse take on the same night — tent, boat, fire, kids, parents, the truck-
-> climbers next site over, and Teddy the golden doodle. Not the cosmic ballad-anthem; make this one a
-> **riff-driven stomp** with attitude — escape-the-grid defiance instead of starry awe.
+> climbers next site over, and Teddy the golden doodle. Not the cosmic ballad-anthem; make this the
+> **heavy one** — a driving *Hysteria*-style fuzz-bass riff with attitude, escape-the-grid defiance and teeth.
 
 ---
 
@@ -24,14 +24,14 @@ opposite energy — so they work as a two-song pair, not a repeat.
 ---
 
 ## Style / Tempo / Vocal
-**Genre:** **Muse-style alternative rock** — driving fuzz-bass riff, stomping *Uprising*-style beat, gnarly
-distorted guitar, arpeggiated synth stabs; verses with cool restrained menace that kick into a **soaring
-falsetto, gang-stomp chorus**, then a heavy wordless riff break. Rebellious, groovy, arena-big.
+**Genre:** **Muse-style alternative rock — full *Hysteria* mode:** a relentless, overdriven **fuzz-bass
+lead riff** carrying the song, palm-muted driving guitars, pounding kit, and a screaming **guitar solo** on
+the break; verses ride the riff with menace, then explode into a **soaring falsetto chorus**. Heavy, urgent, arena-big.
 
-- **Tempo:** ~**126 BPM** (mid-tempo stomp/groove — the pocket, not a sprint).
+- **Tempo:** ~**132 BPM** (energetic, relentless eighth-note drive — the riff never lets up).
 - **Key:** **E minor** (dark, riff-friendly; lifts on the final chorus).
-- **Vocal:** **male lead** — cool and driving on verses, **big soaring falsetto** on the chorus, gang
-  "whoa-oh / hold the night" backing shouts on the riff. Clean, defiant, still warm at the core.
+- **Vocal:** **male lead** — snarling and driving on verses, **big soaring falsetto** on the chorus, gang
+  "whoa-oh / hold the night" shouts on the riff. Clean (no profanity), defiant, teeth — warm only at the core.
   (Female-lead swap noted.)
 
 ---
@@ -63,7 +63,7 @@ No Signal
 
 **Style of Music box (paste exactly)**
 ```
-Muse-style alternative rock, 126 BPM, E minor, driving fuzz bass riff, stomping Uprising groove, soaring male falsetto chorus, arpeggiated synth, heavy dynamics, gang stomp shouts, defiant anthem
+Muse-style alternative rock, 132 BPM, E minor, relentless fuzz bass lead riff, palm-muted driving guitar, pounding drums, soaring male falsetto chorus, guitar solo, heavy dynamics, aggressive anthem
 ```
 
 **Exclude Styles box (optional)**
@@ -74,7 +74,7 @@ explicit, profanity, rap, hip-hop, trap, country, twang, EDM drop, four-on-the-f
 **Lyrics box (paste exactly)**
 ```
 [Intro]
-(lone fuzz-bass riff, stomping kick, radio static dissolving)
+(the relentless fuzz-bass lead riff kicks in alone, pounding drums drop, radio static shredding away)
 No signal... let it go
 (here it comes)
 
@@ -91,7 +91,7 @@ Let 'em call, let it wait
 Nothin's gettin' through the smoke tonight
 
 [Chorus]
-(soaring falsetto, stomp, fuzz bass)
+(soaring falsetto over the relentless fuzz-bass riff, pounding drums)
 No signal — and I don't wanna be found
 Sun's goin' down, gonna watch the moon come 'round
 Let the world short its wires — we'll be feedin' this fire
@@ -112,7 +112,7 @@ Let 'em call, let it wait
 Nothin's gettin' through the smoke tonight
 
 [Chorus]
-(soaring falsetto, stomp, fuzz bass)
+(soaring falsetto over the relentless fuzz-bass riff, pounding drums)
 No signal — and I don't wanna be found
 Sun's goin' down, gonna watch the moon come 'round
 Let the world short its wires — we'll be feedin' this fire
@@ -127,8 +127,8 @@ Golden doodle holdin' up the weight of the line
 A fold-out chair, a heartbeat, and a body keepin' warm
 This is the most off-the-grid — and the safest — we've been born
 
-[Guitar Riff]
-(heavy fuzz riff, gang stomp, wordless falsetto)
+[Guitar Solo / Riff]
+(screaming distorted guitar solo tearing over the relentless fuzz-bass riff, gang shouts, wordless falsetto)
 Whoa-oh-oh — hold the night
 Whoa-oh-oh — Site Four!
 
@@ -152,17 +152,18 @@ Bay Three, Site Four
 
 ## ⭐ Best Suno prompt
 ```
-Muse-style alternative rock, 126 BPM, E minor, driving fuzz bass riff, stomping Uprising groove, soaring male falsetto chorus, arpeggiated synth, heavy dynamics, gang stomp shouts, defiant anthem
+Muse-style alternative rock, 132 BPM, E minor, relentless fuzz bass lead riff, palm-muted driving guitar, pounding drums, soaring male falsetto chorus, guitar solo, heavy dynamics, aggressive anthem
 ```
-**Tip:** lead with `driving fuzz bass riff` + `stomping groove` so it stays riff-first (that's what makes it
-the *opposite* of the cosmic version). Keep `soaring male falsetto chorus` to hold the Bellamy character.
-Too polite → add `gnarly distorted guitar, gang shouts, bigger stomp`. Want full *Hysteria* bass → add
-`aggressive fuzz bass lead, palm-muted riff`. Want more *Uprising* → add `synth-stomp beat, marching drums,
-hand-clap stomp`. If the falsetto thins → add `powerful belted falsetto, stacked harmonies`.
+**Tip:** the `relentless fuzz bass lead riff` is the whole identity — keep it first in the prompt so the bass
+*drives* (that famous *Hysteria* eighth-note churn), not just supports. Pair with `palm-muted driving guitar`
+so the riff never lets up, and hold `soaring male falsetto chorus` for the Bellamy character. Not heavy
+enough → add `overdriven aggressive bass, distorted riff, pounding double-kick`. Want the solo to scream →
+add `wailing guitar solo, whammy dive`. Falsetto thinning → add `powerful belted falsetto, stacked harmonies`.
+If it gets too busy → add `let the bass riff breathe, tight arrangement`.
 
 ## Variations
-- **Full Hysteria mode:** push the bass, add `aggressive fuzz bass lead, relentless riff, guitar solo`.
-- **More Uprising stomp:** add `synth-stomp, marching drums, big gang chant`, keep it hypnotic and mid-tempo.
-- **Female lead:** swap `soaring male falsetto` → `soaring female belt` (keep the riff and stomp).
+- **Even harder:** add `overdriven aggressive bass, distorted riff, double-kick, wailing guitar solo`, push ~136.
+- **Mid-tempo stomp (the original pocket):** drop to `126 BPM, stomping Uprising groove, synth-stomp, big gang chant` for a more hypnotic, less frantic cut.
+- **Female lead:** swap `soaring male falsetto` → `soaring female belt` (keep the relentless riff).
 - **Companion pairing:** run this back-to-back with **"Bay Three, Site Four"** (the cosmic version) — same night, opposite energy.
 - **Title/hook swaps:** "Hold the Night," "Off the Grid," "Feed the Fire," "Not Goin' Back."

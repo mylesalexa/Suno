@@ -72,7 +72,7 @@ Grand Beach Friday
 
 **Style of Music box (paste exactly)**
 ```
-Festival dance-pop, Katy-Perry Last-Friday-Night style, 128 BPM, A minor, 80s synths, saxophone hook, four-on-the-floor, euphoric Tritonal supersaw drop, sidechain pump, female lead, oh-oh chants
+Festival dance-pop, retro 80s throwback party-pop, 128 BPM, A minor, retro synths, saxophone hook, four-on-the-floor, euphoric supersaw festival drop, sidechain pump, female lead, oh-oh chants
 ```
 
 **Exclude Styles box (optional)**
@@ -99,10 +99,10 @@ Been countin' down all week for the sand beneath our feet
 [Pre-Chorus]
 (white-noise riser, claps build, synth climbing — drop incoming)
 Stack the driftwood higher, strike a match, watch it glow
-Barefoot in the shadows — three, two, one, let's go!
+Barefoot in the shadows, watch it catch and glow!
 
 [Drop / Chorus]
-(euphoric Tritonal-style festival drop — soaring supersaws, lush chords, sidechain pump — sax lick on top)
+(euphoric festival drop — soaring supersaws, lush chords, sidechain pump — sax lick on top)
 It's a Grand Beach Friday, dancin' in the dark
 Silk sand on our feet and a driftwood spark
 Hands to the sky, let the whole night ignite
@@ -127,10 +127,10 @@ Grand Marais behind us and we're wide awake and free
 [Pre-Chorus]
 (white-noise riser, claps build)
 Stack the driftwood higher, strike a match, watch it glow
-Barefoot in the shadows — three, two, one, let's go!
+Barefoot in the shadows, watch it catch and glow!
 
 [Drop / Chorus]
-(euphoric Tritonal-style festival drop — soaring supersaws, sidechain pump — sax lick on top)
+(euphoric festival drop — soaring supersaws, sidechain pump — sax lick on top)
 It's a Grand Beach Friday, dancin' in the dark
 Silk sand on our feet and a driftwood spark
 Hands to the sky, let the whole night ignite
@@ -144,7 +144,7 @@ When Monday comes around we'll be missin' this
 The salt-soft sand, the firelight, that midnight bliss
 So one more spin, one more spark, one more time
 Grand Beach, keep us dancin' 'til the mornin' shines
-(one, two, three — drop!)
+(here it comes — drop!)
 
 [Sax Solo / Dance Break]
 (big saxophone solo over soaring supersaws and four-on-the-floor, sidechain pump, claps, oh-oh chant)
@@ -171,14 +171,14 @@ Grand Beach in the dark, oh-oh-oh
 
 ## ⭐ Best Suno prompt
 ```
-Festival dance-pop, Katy-Perry Last-Friday-Night style, 128 BPM, A minor, 80s synths, saxophone hook, four-on-the-floor, euphoric Tritonal supersaw drop, sidechain pump, female lead, oh-oh chants
+Festival dance-pop, retro 80s throwback party-pop, 128 BPM, A minor, retro synths, saxophone hook, four-on-the-floor, euphoric supersaw festival drop, sidechain pump, female lead, oh-oh chants
 ```
-**Tip:** the fusion lives in two phrases — `Katy-Perry Last-Friday-Night style, saxophone hook` (the playful
-party half) and `euphoric supersaw drop, sidechain pump` (the Tritonal half) — keep BOTH up front. The **sax
-over the supersaws** on the drop is what welds them. Keep `trumpet`, `latin`, `reggaeton` in Exclude so it
-does NOT drift back to the Faloma sound. If the drop isn't euphoric enough → add `soaring melodic supersaw
-lead, big festival drop`; too EDM / losing the fun → add `playful 80s synth-pop verses, sax hook`; want more
-Katy → add `bright pop chorus, gang oh-oh vocals, handclaps`.
+**Tip:** the fusion lives in two phrases — `retro 80s throwback party-pop, saxophone hook` (the playful
+party half) and `euphoric supersaw festival drop, sidechain pump` (the festival-EDM half) — keep BOTH up
+front. The **sax over the supersaws** on the drop is what welds them. Keep `trumpet`, `latin`, `reggaeton` in
+Exclude so it does NOT drift back to the Faloma sound. If the drop isn't euphoric enough → add `soaring
+melodic supersaw lead, big festival drop`; too EDM / losing the fun → add `playful 80s synth-pop verses, sax
+hook`; want more retro-party energy → add `bright pop chorus, gang oh-oh vocals, handclaps`.
 
 ## Variations
 - **More Katy / less drop:** pull the supersaws back, add `80s electropop, sax solo, big pop chorus` for a straight "Last Friday Night" feel.

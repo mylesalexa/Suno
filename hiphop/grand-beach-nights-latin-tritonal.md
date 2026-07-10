@@ -99,7 +99,7 @@ Grand Beach, Grand Beach, muévelo, more
 [Pre-Chorus]
 (white-noise riser, snare roll, trumpet climbing, drop incoming)
 Throw your hands in the sky, let the embers fly
-Trumpets up — three, two, one, let it fly
+Trumpets blastin' loud — vámonos, let's fly
 
 [Drop / Chorus]
 (festival future-bass drop, soaring supersaws, trumpet riff on the lead, dembow, sidechain pump, gang vocals)
@@ -148,7 +148,7 @@ Grand Beach Nights, where the dark turns to gold
 (pull all the way back — driftwood fire crackle, lone trumpet, soft pad, then the festival drop SLAMS back)
 When the city's asleep, this is where we come alive
 Silk sand, driftwood fire, and the trumpet keepin' us up all night
-(uno, dos, tres, drop!)
+(vámonos — drop!)
 
 [Final Chorus]
 (biggest festival drop, full supersaws + trumpet, gang vocals)

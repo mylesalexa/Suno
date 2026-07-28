@@ -1,4 +1,4 @@
-# Small Craft Advisory *(Track 3 — grainy weather report opener, slow lo-fi)*
+# Small Craft Advisory *(Track 5 — grainy weather report opener, slow lo-fi)*
 
 *Opens on a genuinely low-quality AM marine-conditions broadcast — the real, dry, slightly odd cadence of
 a coastal weather report — then settles into a slow, deadpan song about trusting that same crackly
@@ -106,4 +106,4 @@ in the main Style box, not just the intro tag, so the radio character bleeds thr
 
 ## Variations
 - **Female-lead / duet:** swap to `dry deadpan female vocal`.
-- **Album context:** Track 3 of `salt-air-album-defined/`, right after Salt Air.
+- **Album context:** Track 5 of `salt-air-album-defined/`, right after Salt Air.

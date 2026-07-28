@@ -1,4 +1,4 @@
-# Board Break *(Track 5 — vintage instrumental surf-rock, now properly lo-fi)*
+# Board Break *(Track 7 — vintage instrumental surf-rock, now properly lo-fi)*
 
 *The one deliberately vintage-energetic moment on the record — true to real 60s instrumental surf-rock
 heritage (fast, twangy, almost wordless), but dressed in the same cassette grain as everything else on
@@ -84,4 +84,4 @@ tempo down to compensate, the speed is period-authentic.
 
 ## Variations
 - **Add light lyrics:** if fully wordless doesn't render well, add a single repeated line over Theme A/B.
-- **Album context:** Track 5 of `salt-air-album-defined/` — the swell finally arrives after Flat Spell's lull.
+- **Album context:** Track 7 of `salt-air-album-defined/` — the swell finally arrives after Flat Spell's lull.

@@ -1,4 +1,4 @@
-# Open Til the Swell Comes In *(Track 6 — life inside the surf shop, lo-fi)*
+# Open Til the Swell Comes In *(Track 9 — life inside the surf shop, lo-fi)*
 
 *A day in the life of a surf shop: wax on the counter, boards on the rack, the regular who never buys
 anything, the tourist who can't pick a board, a dog asleep in the sun, a radio crackling the surf report.
@@ -113,4 +113,4 @@ Lo-fi surf-bum pop, 100 BPM, G major, warm jangly guitar, cassette tape hiss, do
 
 ## Variations
 - **Female-lead / duet:** swap to `breezy female vocal`.
-- **Album context:** Track 6 of `salt-air-album-defined/`, right after Board Break.
+- **Album context:** Track 9 of `salt-air-album-defined/`, right after Ding Repair.

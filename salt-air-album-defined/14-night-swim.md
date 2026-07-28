@@ -1,4 +1,4 @@
-# Night Swim *(Track 10 — the close, hushed and now properly lo-fi)*
+# Night Swim *(Track 14 — the close, hushed and now properly lo-fi)*
 
 *The final track. Heavy shimmering reverb, brushed slow drums, warm pads, a hushed close vocal — now with
 cassette tape hiss woven through it, the last texture fix needed to hold the album's lo-fi identity strict
@@ -103,4 +103,4 @@ this into a normal pop chorus.
 
 ## Variations
 - **Male-female duet:** add `male-female whispered harmony`.
-- **Album context:** Track 10 of `salt-air-album-defined/` — the close.
+- **Album context:** Track 14 of `salt-air-album-defined/` — the close.

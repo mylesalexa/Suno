@@ -1,4 +1,4 @@
-# Salt Air *(Track 2 — morning paddle-out, lo-fi surf groove)*
+# Salt Air *(Track 4 — morning paddle-out, lo-fi surf groove)*
 
 *Wax on the board, salt in the hair, no watch, no plans — just the wave, the coast highway behind you, and
 the marine layer starting to burn off. Stripped-back, sunlit, intentionally unpolished — the song itself
@@ -113,4 +113,4 @@ whole way, add `half-time floating breakdown, tempo change` explicitly.
 
 ## Variations
 - **Female-lead / duet:** swap to `breezy female vocal`.
-- **Album context:** Track 2 of `salt-air-album-defined/` — leads into `03-small-craft-advisory.md`.
+- **Album context:** Track 4 of `salt-air-album-defined/`, right after The Lineup — leads into `05-small-craft-advisory.md`.

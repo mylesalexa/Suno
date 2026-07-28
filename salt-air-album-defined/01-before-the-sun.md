@@ -98,4 +98,4 @@ The `sunrise` outro cue is the payoff; if it resolves too small, add `warm chord
 
 ## Variations
 - **Female-lead / duet:** swap to `breathy female vocal`.
-- **Album context:** Track 1 of the `salt-air-album-defined/` pressing — leads directly into `02-salt-air.md`.
+- **Album context:** Track 1 of the `salt-air-album-defined/` pressing — leads directly into `02-duck-dive.md`.

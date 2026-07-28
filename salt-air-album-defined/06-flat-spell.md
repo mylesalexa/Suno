@@ -1,4 +1,4 @@
-# Flat Spell *(Track 4 — voicemail intro, lazy midday lull)*
+# Flat Spell *(Track 6 — voicemail intro, lazy midday lull)*
 
 *The report promised swell, but the ocean's dead calm — a whole midday spent waiting it out: cards at the
 shop, the cam checked for the ninth time, a dog with the right idea. Opens on a voicemail. Cloudlight Proxy.*
@@ -100,4 +100,4 @@ song's own `cassette tape hiss` — two textures, not one blur.
 
 ## Variations
 - **Female-lead / duet:** swap to `dry conversational female vocal`.
-- **Album context:** Track 4 of `salt-air-album-defined/` — the payoff (the swell arriving) is the next track.
+- **Album context:** Track 6 of `salt-air-album-defined/` — the payoff (the swell arriving) is the next track.

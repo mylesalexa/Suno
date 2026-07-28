@@ -1,4 +1,4 @@
-# Tiki Torch Nights *(Track 9 — evening lounge wind-down, now properly lo-fi)*
+# Tiki Torch Nights *(Track 13 — evening lounge wind-down, now properly lo-fi)*
 
 *The evening after — torches lit down by the pier, feet in the sand, a slow marimba melody drifting over
 the boardwalk bar. Vibraphone and marimba take over from guitar as the lead voice; congas and bongos
@@ -105,4 +105,4 @@ Lo-fi retro tiki-lounge exotica, 86 BPM, F major, vibraphone and marimba lead, c
 
 ## Variations
 - **Instrumental-only:** drop the verses, loop just Intro/Vibraphone Break/Outro for a pure lounge-background cut.
-- **Album context:** Track 9 of `salt-air-album-defined/`, right after Home Movie.
+- **Album context:** Track 13 of `salt-air-album-defined/`, right after Home Movie.

@@ -1,4 +1,4 @@
-# Forty Summers *(Track 7 — grainy local-newscast interview opener, warm lo-fi)*
+# Forty Summers *(Track 11 — grainy local-newscast interview opener, warm lo-fi)*
 
 *Opens on a garbled local-news human-interest segment — an anchor's brief lead-in, then a clip of an old
 local surfer being interviewed about how long he's been coming to this beach. Then a warm tribute song to
@@ -109,4 +109,4 @@ source layered against the warmer song texture.
 
 ## Variations
 - **Female-lead / duet:** swap to `warm storytelling female vocal`.
-- **Album context:** Track 7 of `salt-air-album-defined/`, between Open Til the Swell Comes In and Home Movie.
+- **Album context:** Track 11 of `salt-air-album-defined/`, right after The Glass.

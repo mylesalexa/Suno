@@ -1,4 +1,4 @@
-# Home Movie *(Track 8 — grainy old-tape recap, warped lo-fi)*
+# Home Movie *(Track 12 — grainy old-tape recap, warped lo-fi)*
 
 *The song sounds like it's actually playing off a warped cassette of a childhood beach day. Grainy, warm,
 a little broken. The tape warps and "rewinds" mid-song before snapping back in. Cloudlight Proxy.*
@@ -107,4 +107,4 @@ Suno will make a clean surf-pop track.
 
 ## Variations
 - **Female-lead / duet:** swap to `breezy female vocal`.
-- **Album context:** Track 8 of `salt-air-album-defined/`, right after Forty Summers.
+- **Album context:** Track 12 of `salt-air-album-defined/`, right after Forty Summers.

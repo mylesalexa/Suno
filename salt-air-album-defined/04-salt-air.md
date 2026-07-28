@@ -61,6 +61,9 @@ Salt air, salt air
 Just me and the wave and a sunburned kiss
 Salt air, salt air
 
+[Loose Jam — first drift]
+(instrumental, tremolo reverb guitar wandering loosely over the groove, no rush, let the vibe drag out here before the next verse)
+
 [Verse 2]
 (breezy, loose)
 Board wax meltin' in the mornin' sun

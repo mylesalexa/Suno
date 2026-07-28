@@ -64,6 +64,9 @@ The glass, the glass
 That's why we're out here before we brew
 The coffee, that's for after
 
+[Loose Jam — first drift]
+(instrumental, warm acoustic-leaning guitar wandering loosely, wind ambience present, unhurried, no rush, let it drag out before the next verse)
+
 [Verse 2]
 (plainspoken, warm)
 Sun comes up, starts warmin' up the land

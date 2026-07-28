@@ -63,6 +63,9 @@ Chest high and glassy, perfect way to spend my time
 Small craft advisory, don't need to hear it twice
 I already believe it before you finish that advice
 
+[Loose Jam — first drift]
+(instrumental, warm jangly guitar wandering loosely, unhurried, tape hiss and faint radio static under it, no rush, let it drag out here)
+
 [Verse 2]
 (dry, deadpan)
 Called in "sick" but everybody kinda knew

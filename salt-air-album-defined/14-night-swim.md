@@ -61,6 +61,9 @@ Everyone's quiet, everyone's in
 Night swim, night swim
 Nowhere to be but exactly where I've been
 
+[Loose Jam — first drift, hushed]
+(instrumental, reverb guitar wandering very quietly, still restrained, no rush at all, let this drag out here before the next verse — stays as quiet as everything else)
+
 [Verse 2]
 (hushed, breathy, intimate)
 Little glints of light movin' through the black

@@ -65,6 +65,15 @@ one energetic outlier; everything else just wanders. If a generated take still f
 fix is the same everywhere: extend that track's `[Loose Jam]` tag further, or add `long instrumental
 outro, extended jam` to the Style of Music box.
 
+**A second wander, right after the first chorus, on six tracks:** Salt Air, Duck Dive, Small Craft
+Advisory, Tiki Torch Nights, Night Swim, and The Glass each got an additional `[Loose Jam — first drift]`
+section inserted between the first chorus and Verse 2 — before the story even gets moving. These are the
+six most "vibe-first" tracks on the record; the more plot-driven ones (Ding Repair, Forty Summers, Open Til
+the Swell Comes In, The Lineup, Flat Spell, Home Movie, Board Break) were left with just their one existing
+jam so the story keeps momentum. So most of these six tracks now wander twice — once right after the
+first chorus, once later in the bridge/breakdown — which is the real way to drag the vibe out rather than
+stretching a single jam section unnaturally long.
+
 ---
 
 ## The four new tracks — researched, not invented

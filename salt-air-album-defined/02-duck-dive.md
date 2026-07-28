@@ -66,6 +66,9 @@ Down and under, then I'm through
 Duck dive, duck dive
 One more wave and I'll be past you
 
+[Loose Jam — first drift]
+(instrumental, pulsing tremolo guitar loosens up here, still rhythmic but wandering, no rush, drag this out before the tension builds again)
+
 [Verse 2]
 (rhythmic, tense, breathless)
 Shoulders burnin', arms gone numb

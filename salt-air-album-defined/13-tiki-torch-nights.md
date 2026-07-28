@@ -62,6 +62,9 @@ Nowhere to go, we got all the time
 Tiki torch nights, tiki torch nights
 Everything's easy under torch light
 
+[Loose Jam — first drift]
+(instrumental, vibraphone wandering into a loose melody, marimba answering softly, no rush, let this drag out before the next verse)
+
 [Verse 2]
 (relaxed, warm, tape hiss present throughout)
 Somebody's playin' somethin' slow

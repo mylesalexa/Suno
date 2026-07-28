@@ -33,13 +33,14 @@ on Any Map (customer interview) — spaced out through the middle of the album s
 
 ---
 
-## Bonus Disc — the Lo-Fi Tape Edition
-A parallel "found on a warped cassette" pressing of five tracks from the main album, same words and
-structure, pushed further into full tape degradation:
-`salt-air-lofi-tape-version.md` · `board-break-lofi-tape-version.md` ·
-`tiki-torch-nights-lofi-tape-version.md` · `night-swim-lofi-tape-version.md` ·
-`open-til-the-swell-comes-in-lofi-tape-version.md`
-*(Home Movie is already the tape-aesthetic original, so it doesn't get a separate bonus cut.)*
+## Archived — pre-album Lo-Fi Tape mashups
+Five early "found on a warped cassette" mashups (same words as their main-album counterparts, pushed into
+full tape degradation) were made before the whole album settled into being lo-fi throughout. Since every
+main-album track is already lo-fi now, these no longer add a distinct edition and have been moved to
+`archive/` rather than kept as a working "bonus disc": `archive/salt-air-lofi-tape-version.md` ·
+`archive/board-break-lofi-tape-version.md` · `archive/tiki-torch-nights-lofi-tape-version.md` ·
+`archive/night-swim-lofi-tape-version.md` · `archive/open-til-the-swell-comes-in-lofi-tape-version.md`.
+They're still complete, generateable songs — just not part of the official release.
 
 ---
 

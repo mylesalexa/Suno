@@ -81,6 +81,9 @@ Some things you can't hurry
 Some things just take their time
 (waitin'... waitin'...)
 
+[Loose Jam — resin haze]
+(instrumental, extended and hazy, guitar drifting slightly out of tune and back, warm and slow, no rush, let this stretch)
+
 [Final Chorus]
 (same warmth, no big lift, patient)
 Twenty-four hours, out of the sun

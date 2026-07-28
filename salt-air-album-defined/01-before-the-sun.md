@@ -81,6 +81,9 @@ Parked along the highway, engine tickin' as it cools
 Not a soul around, just me and you
 Watchin' for that first little edge of light
 
+[Loose Jam — waiting for light]
+(instrumental, hazy and spacious, warm pad drifting, sparse guitar notes hanging in the air, no rush, tape hiss breathing — let this wander)
+
 [Sunrise — Outro]
 (one warm chord swells slowly, tape hiss thinning, marine layer burning off, brightening)
 There it is...

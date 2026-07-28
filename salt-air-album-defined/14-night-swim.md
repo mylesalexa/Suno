@@ -86,6 +86,9 @@ Stay a little longer, don't turn on the porch light yet
 Night swim, night swim
 Everyone's quiet, everyone's in
 
+[Loose Jam — still floating, still hushed]
+(instrumental, reverb guitar wandering very quietly, restrained, hazy and spacious, no rush, stays as quiet as everything else on this track)
+
 [Outro]
 (settling back down, quiet, water lapping, tape hiss fading to almost nothing)
 Night swim...

@@ -81,6 +81,9 @@ Everybody gets their turn in time
 Everybody was new once
 Even him, someday, probably
 
+[Loose Jam — still bobbing]
+(instrumental, gently bobbing rhythm continues, warm guitar noodling loosely, unhurried, no rush, just sitting out here waiting)
+
 [Final Chorus]
 (same size, no big lift, stays patient)
 Closest to the peak gets the wave

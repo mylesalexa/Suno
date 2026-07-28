@@ -63,6 +63,9 @@ Whoa!
 (tape speed stabilizes, guitar picks itself back up, drums rebuild, building back to full energy)
 Here we go—
 
+[Loose Jam — extended guitar noodle]
+(instrumental, guitar noodling loosely over the driving beat, exploring the theme before committing to the final version, no rush)
+
 [Theme A — final]
 (instrumental, biggest and brightest version of the main theme, full band, still grainy)
 Hey! Whoa! Let's go!

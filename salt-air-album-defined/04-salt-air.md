@@ -84,6 +84,9 @@ Just the sun, just the swell, just a sky that don't stop
 Nowhere to be, nothin' to prove
 Just floatin' here, nothin' left to do
 
+[Loose Jam — still floating]
+(instrumental, half-time still, guitar wandering loosely, hazy and spacious, no rush — let this stretch out before building back)
+
 [Build back]
 (drums and bass paddle back in, tempo returns, building)
 Here it comes... here it comes...

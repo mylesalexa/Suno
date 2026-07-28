@@ -75,8 +75,11 @@ Flat spell, flat spell
 Nothin' to do but wait and see
 
 [The Wait]
-(long ambient hold, almost silent, sparse, a ticking clock, a single guitar note ringing out)
+(long ambient hold, almost silent, sparse, a ticking clock, a single guitar note ringing out, let this stretch out much longer than feels necessary — that's the joke)
 (waitin'... waitin'...)
+
+[Loose Jam — still waiting]
+(instrumental, almost nothing happening, warm shuffle groove barely there, hazy and spacious, no rush at all)
 
 [Phone Buzz]
 (a phone buzzes and vibrates, cutting through the quiet)

@@ -82,6 +82,9 @@ We're open til the swell comes in tonight
 Slow Tuesday, nobody's around
 Just the hum of the radio and a sleepy sound
 
+[Loose Jam — killing time]
+(instrumental, sparse warm guitar noodling, unhurried, radio hum still present underneath, no rush)
+
 [Radio Crackle]
 (the surf report crackles through, everyone perks up)
 (radio voice, filtered, distant) "...swell's comin' in strong..."

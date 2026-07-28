@@ -77,8 +77,11 @@ Tiki torch nights, tiki torch nights
 Everything's easy under torch light
 
 [Vibraphone Break — warped]
-(instrumental — vibraphone and marimba trade a slow melody, pitch drifting gently, congas soft underneath)
+(instrumental — vibraphone and marimba trade a slow melody, pitch drifting gently, congas soft underneath, let this stretch out much longer than a normal instrumental break — loose, unhurried, hazy)
 (la la la... doo doo doo...)
+
+[Loose Jam — still under the torches]
+(instrumental, vibraphone and marimba continue wandering, upright bass walking loosely underneath, no rush, warm and hazy)
 
 [Final Chorus]
 (warmest version, full but still soft, tape hiss thinning but never fully clean)

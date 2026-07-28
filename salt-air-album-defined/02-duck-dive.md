@@ -86,6 +86,9 @@ And then it's quiet
 Past the break, past the noise
 Just floatin' here, catchin' my breath
 
+[Loose Jam — floating]
+(instrumental, hazy and spacious, guitar wandering loosely over a warm sustained chord, no rush, let it drift for a while)
+
 [Outro]
 (warm, settled, tape hiss)
 Made it through... made it through

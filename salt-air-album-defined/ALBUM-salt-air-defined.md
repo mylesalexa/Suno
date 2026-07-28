@@ -54,6 +54,19 @@ track's actual style box:
 
 ---
 
+## Loose Jam sections — every track, added after the fact
+The tracks were coming out lyric-heavy — every section had words, with barely any room to just sit in a
+groove. Added a `[Loose Jam]`-tagged instrumental section to all 14 tracks, always dropped into a spot the
+song already had room to wander (an existing breakdown, bridge, or tape-warp moment) rather than bolted on
+awkwardly. Each one is purely instrumental — no lyrics, no drug references, just hazy, spacious,
+unhurried playing that lengthens the song and gives it room to breathe. Night Swim's stays deliberately
+quiet, matching that track's own no-big-lift rule; Board Break's keeps some drive since it's the album's
+one energetic outlier; everything else just wanders. If a generated take still feels too word-dense, the
+fix is the same everywhere: extend that track's `[Loose Jam]` tag further, or add `long instrumental
+outro, extended jam` to the Style of Music box.
+
+---
+
 ## The four new tracks — researched, not invented
 Each one is built on a real, verified piece of surf technique or culture, not just a mood:
 

@@ -82,6 +82,9 @@ I already believe it before you finish that advice
 "...conditions expected to hold through early afternoon..."
 (guitar continues underneath, unbothered)
 
+[Loose Jam — unbothered]
+(instrumental, warm jangly guitar noodling loosely, unhurried, no rush, tape hiss under it all)
+
 [Final Chorus]
 (same size as before — no big lift, stays unhurried)
 Small craft advisory, that's a good sign

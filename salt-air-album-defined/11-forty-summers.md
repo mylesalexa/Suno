@@ -85,6 +85,9 @@ Everything changes except for right here
 Forty summers and he's still got nothin' to fear
 Paddle out, paddle out, one more time
 
+[Loose Jam — reflective]
+(instrumental, acoustic guitar with light tremolo electric accents wandering loosely, warm and unhurried, tape hiss present, no rush)
+
 [Final Chorus]
 (fullest version, warm harmonies)
 Forty summers, forty summers

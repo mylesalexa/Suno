@@ -82,6 +82,9 @@ Slowly... meltin'... in the sun...
 (rewind whir)
 Here we go again
 
+[Loose Jam — replaying the tape]
+(instrumental, tremolo guitar wandering loosely over warm tape hiss, hazy and nostalgic, no rush, let it drift)
+
 [Final Chorus]
 (brighter, fuller, still grainy but warmer, tape hiss thinning out)
 Old tape, old tape

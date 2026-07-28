@@ -84,6 +84,9 @@ The coffee, that's for after
 Ain't magic, it's just how the wind behaves
 Cold air sinkin', warm air risin', makin' waves worth chasin'
 
+[Loose Jam — reading the wind]
+(instrumental, warm acoustic-leaning guitar wandering loosely, wind ambience present, unhurried, contemplative, no rush)
+
 [Final Chorus]
 (same warmth, no big lift)
 The glass, the glass

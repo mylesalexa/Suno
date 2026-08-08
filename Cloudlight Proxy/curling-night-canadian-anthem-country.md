@@ -4,7 +4,12 @@
 like "Hurry Hard," a coast-to-coast tribute. Researched in the lane of **Dean Brody's "Canadian Girls"**
 (a #1 Canadian-radio honky-tonk hit, explicitly written as Canada's warm-twang answer to "California
 Girls") — proud, patriotic, big singalong energy, translated to sound descriptors for Suno. Every little
-town's got a rink; every family's got somebody who sweeps. Clean. Cloudlight Proxy.*
+town's got a rink, and every rink's got a crowd that knows how to celebrate. Clean. Cloudlight Proxy.*
+
+> **Revision note:** the first draft leaned generational (grandparents teaching grandkids), which read a
+> little too family-oriented. Revised so the verses and bridge are about the curling-club crowd itself —
+> the toast after the game, the whole clubhouse celebrating — while the "coast to coast" chorus, the song's
+> best hook, stays exactly as written.
 
 > **Brief:** research "Canadian Girls" and make a curling song about Canadian curling night that sounds
 > like a Canadian anthem — different lane than "Hurry Hard," which is modern country-pop dance fusion.
@@ -25,9 +30,9 @@ town's got a rink; every family's got somebody who sweeps. Clean. Cloudlight Pro
 
 ## Concept & Angle
 **Concept:** where "Hurry Hard" is about *one* bonspiel's chaos and afterparty, this is about curling as a
-quiet, proud, generation-to-generation Canadian institution — every small town's rink lit up on a winter
-night, grandparents teaching grandkids to read the ice, the same "hurry hard" said in every province from
-coast to coast. **Why it's a genuinely different lane, not another curling song in the same clothes:**
+proud, coast-to-coast Canadian institution — every small town's rink lit up on a winter night, the whole
+club packed in and cheering, the same "hurry hard" said in every province, and the toast that follows once
+the last rock's thrown. **Why it's a genuinely different lane, not another curling song in the same clothes:**
 different genre entirely (honky-tonk anthem vs. modern country-pop dance), different emotional register
 (proud and sweeping vs. rowdy and cranked), and a different scope (the whole country's shared pastime vs.
 one club's Saturday night).
@@ -56,7 +61,7 @@ dance-floor drop.
 | **Cole** | 9 | 9 | 10 | 9 | 9 | **46** | "Genuinely different lane from 'Hurry Hard' — honky-tonk instead of club-fusion, and it earns the anthem word." |
 | **Dwight** (radio) | 9 | 9 | 10 | 10 | 9 | **47** | "'This is curling country' has the same singalong shape as a real Canadian-radio No. 1. Built for the format." |
 | **Reggie** (festival) | 8 | 9 | 9 | 9 | 8 | **43** | "Not a festival track, and it shouldn't be — this one's for a packed rink standing for the anthem, not dancing." |
-| **Maya (17)** | 8 | 9 | 10 | 9 | 8 | **44** | "'Watch the broom, trust your feet, don't rush the shot' — that's somebody's actual grandpa talking." |
+| **Maya (17)** | 8 | 9 | 10 | 9 | 8 | **44** | "'Round's on the house, come on in' — that's the kind of curling night you'd actually want to be at." |
 | **Skip** (playlist) | 9 | 9 | 10 | 9 | 9 | **46** | "Slots next to a Canada Day playlist as easily as a curling broadcast. Wide relevance." |
 
 **Total: 226/250 — proud, warm, and built to be sung standing up.** Verdict: *"'Hurry Hard' is the party
@@ -89,13 +94,13 @@ From the Rockies to the Maritimes...
 
 [Verse 1]
 Every little town's got a rink of its own
-Lights come on when the snow starts to blow
-Grandpa's out sweepin' like he's twenty-five
-Kids on the ice before they learn to drive
+Lights come on and the whole street's known
+Neighbours linin' up with a broom in hand
+Nobody's watchin' the clock tonight, and man
 Radio's callin' out the same old game
 Every corner of this country knows the name
 Rock slides down and the whole room goes quiet
-That's a Canadian Saturday night
+Then it's cheers all around — that's a curling night
 
 [Pre-Chorus]
 We didn't pick hockey, we didn't pick snow
@@ -114,14 +119,14 @@ From the prairie wheat to the ocean line
 This is curling country, all the time
 
 [Verse 2]
-Grandkids learnin' how to read the ice
-Same old lessons, said the same way twice
-"Watch the broom, trust your feet, don't rush the shot"
-Wisdom that we never really bought
-It's in the blood, passed hand to hand
-Every rink from here to Newfoundland
-Doesn't matter if you're big or small
-Curling country loves us all
+Clubhouse doors swing open after the game
+Win or lose, we're all singin' the same
+Fiddle kicks up, glasses raised up high
+Toastin' to the ones who showed up tonight
+Doesn't matter who took home the win
+Round's on the house, come on in
+Stories gettin' taller with every round
+Best kind of loud this small town's found
 
 [Pre-Chorus]
 We didn't pick hockey, we didn't pick snow
@@ -142,9 +147,9 @@ This is curling country, all the time
 [Bridge]
 (building, proud, sweeping — the anthem moment)
 Every province, every little town
-Same ice, same call, same crowd sittin' down
+Same ice, same cheer, same crowd stand up now
 We don't need a reason, we don't need a why
-It's just who we are beneath this open sky
+Just raise a glass beneath this open sky
 Sweep it home, sweep it home
 This is ours, and ours alone
 

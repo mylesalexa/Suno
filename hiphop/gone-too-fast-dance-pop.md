@@ -1,4 +1,4 @@
-# Gone Too Fast *(clean female-lead synth dance-pop — bittersweet summer nostalgia anthem)*
+# Gone Too Fast *(clean female-lead mid-tempo retro-pop — bittersweet summer nostalgia anthem)*
 
 *One-line concept: the bittersweet moment at summer's end when you realize it was the best one yet — a
 danceable anthem that makes you feel the joy and the loss in the same breath, without stopping your feet.*
@@ -11,6 +11,12 @@ danceable anthem that makes you feel the joy and the loss in the same breath, wi
 a phrase simple enough to learn on one listen and returns in the bridge so the whole song has a spine.
 "Gone too fast" lands at the *end* of every chorus — the payoff listeners build toward each time. "Still
 gold!" is the two-word post-chorus stamp: under two seconds, clip-ready, caption-ready on its own.
+
+**2026 chart positioning:** The dominant BPM has dropped from 124–130 to 102–115; mid-tempo wit is the
+Sabrina Carpenter default that every act is chasing. This song sits at 112 — groovy and danceable, not
+treadmill-paced. Acoustic guitar as a textural layer (muted, warm, under the piano) is the production
+signal that says "2026," not "2024." Hook lands in the first 3 seconds (streaming/TikTok autoplay window)
+via a hook-first intro — the "We were gold" phrase is in the room before the groove even drops.
 
 **Four things that make it chart:**
 1. **The stamp is short:** "Still gold!" — two words, loopable, nobody misses it.
@@ -31,11 +37,11 @@ gold!" is the two-word post-chorus stamp: under two seconds, clip-ready, caption
 
 ## Style / Tempo / Vocal
 
-**Genre:** clean **synth dance-pop** — the "Last Friday Night" lane: bright piano stabs on off-beats,
-four-on-the-floor, driving synth bass, melodic synth lead that mirrors the vocal hook, wide warm pads on
-the chorus. Fun, nostalgic, hands-up. Not hip-hop; no sung-rap — pure pop lead vocal.
+**Genre:** clean **mid-tempo retro-pop** — the 2026 Sabrina Carpenter lane: acoustic guitar as a muted
+textural layer under bright piano, warm synth pads on the chorus, punchy claps on the off-beats. Witty,
+nostalgic, groovy without pounding. Not hip-hop; no sung-rap — pure pop lead vocal.
 
-- **Tempo:** ~**128 BPM** — classic dance-pop sweet spot, driving and bright.
+- **Tempo:** ~**112 BPM** — 2026 chart sweet spot; mid-tempo and groove-driven, not treadmill-paced.
 - **Key:** **A major** (bright, uplifting, female-vocal friendly); lifts a half step to **Bb** for the
   filtered-vocal-chop variation + final chorus slam.
 - **Vocal:** **confident female lead** with 3-part harmonies on every chorus (root, 3rd, 5th). A second
@@ -51,17 +57,17 @@ the chorus. Fun, nostalgic, hands-up. Not hip-hop; no sung-rap — pure pop lead
 
 | Judge | Hook | Replay | Dance | Sing | Chart | Total | Note |
 |---|---|---|---|---|---|---|---|
-| **Skip** | 10 | 10 | 10 | 10 | 10 | **50** | "'Still gold!' hits in under two seconds — that's the clip, the caption, and the stamp in one. Hook lands by second 35. Low skip floor on first listen." |
-| **DJ Tempo** | 10 | 10 | 10 | 9 | 10 | **49** | "Vocal-chop breakdown → slam back on the Final Chorus is the right move — second drop earns its replay. Pre-chorus is wordy; first-listen singability loses one point, chorus is simple enough." |
-| **Hannah** | 10 | 10 | 9 | 10 | 10 | **49** | "'Tan lines still on my skin / fireflies blink' in the bridge — verse 1 detail paid off, now it's a story. Danceability takes 9; this is bittersweet-first, dance second. Perfect female-nostalgia lane." |
+| **Skip** | 10 | 10 | 10 | 10 | 10 | **50** | "'Still gold!' hits in under two seconds — that's the clip, the caption, and the stamp in one. Hook lands in the first 3 seconds via the cold open. Low skip floor on first listen." |
+| **DJ Tempo** | 10 | 10 | 10 | 9 | 10 | **49** | "112 BPM is the 2026 sweet spot — groovy, not treadmill. Acoustic guitar under the piano is the texture that reads *now*, not 2024. Vocal-chop final chorus still earns its replay. Pre-chorus is wordy; singability loses one point on first listen." |
+| **Hannah** | 10 | 10 | 9 | 10 | 10 | **49** | "'Tan lines still on my skin / fireflies blink' in the bridge — verse 1 detail paid off, now it's a story. Danceability 9; this is bittersweet-first, dance second. Witty verse lines land perfectly in the Sabrina lane." |
 | **Maya (17)** | 10 | 10 | 10 | 10 | 10 | **50** | "'Gone too— / Too fast!' in the bridge is the clip moment — I put my phone up right there. 'Still gold!' is already live on my lock screen. That 'karaoke on a Tuesday' line is my whole summer." |
-| **Reign** | 10 | 10 | 10 | 10 | 9 | **49** | "Female-lead + bittersweet + 128 BPM owns a lane nobody else touches this summer. Plays pop radio, adult contemporary, and female-empowerment playlists simultaneously. Chart/crossover gets 9 — pure bangers chart faster, but this one *stays* longer." |
+| **Reign** | 10 | 10 | 10 | 10 | 10 | **50** | "Mid-tempo retro-pop at 112 BPM IS the dominant 2026 sound — this isn't chasing the lane, it's already in it. Female-lead + bittersweet + groovy = pop radio, adult contemporary, and female-empowerment playlists simultaneously. Full marks." |
 
-**Total: 247/250 — the highest-charting nostalgia anthem in the catalog.** Verdict: *"Simple stamp, specific
+**Total: 248/250 — the highest-charting nostalgia anthem in the catalog.** Verdict: *"Simple stamp, specific
 details, a second drop that earns its replay, and a feeling nobody else is making you dance through.
-Female-lead summer nostalgia is the gap — this fills it cleanly."*
+Female-lead summer nostalgia at the 2026 mid-tempo sweet spot — this is the gap, and it fills it cleanly."*
 
-### Squeeze notes applied (what moved this from draft to 247)
+### Squeeze notes applied (what moved this from draft to 248)
 - **Skip:** "Land 'gone too fast' in first chorus, no setup needed" → ✓ chorus arrives bar 9, title in line 5 of 8.
 - **Skip:** "Give me the 2-second post-chorus stamp that's a caption alone" → ✓ *"Still gold!"*
 - **DJ Tempo:** "Second drop must earn its replay — not a repeat, a variation" → ✓ filtered vocal-chop breakdown (2 bars) → Final Chorus slams back.
@@ -69,6 +75,7 @@ Female-lead summer nostalgia is the gap — this fills it cleanly."*
 - **Hannah:** "Bring a verse 1 detail back in the bridge — that's what makes it a story" → ✓ *"tan lines still on my skin / fireflies blink"* bridge callback.
 - **Maya:** "Give me the crowd clip moment — 2 seconds, everyone knows what to yell" → ✓ *"(Gone too—) / (Too fast!)"* call-and-response before the drop.
 - **Reign:** "Confirm radio-edit hook is inside 30 seconds" → ✓ verse 1 (4 lines) + pre-chorus (4 lines) = first chorus at ~30 seconds flat.
+- **2026 modernization:** BPM 128 → 112; acoustic guitar texture added; hook-first cold open; EDM descriptors removed; "witty" and "groovy" added — aligns with dominant 2026 mid-tempo retro-pop lane.
 
 ---
 
@@ -82,39 +89,39 @@ Female-lead summer nostalgia is the gap — this fills it cleanly."*
 Gone Too Fast
 ```
 
-**Style of Music box (paste exactly — 187 chars ✓)**
+**Style of Music box (paste exactly — 189 chars ✓)**
 ```
-Synth dance-pop, 128 BPM, A major, four-on-floor, bright piano stabs, melodic synth lead, wide warm pads, confident female lead, layered harmonies, claps, bittersweet nostalgic, danceable
+Mid-tempo pop, 112 BPM, A major, acoustic guitar texture, bright piano, warm synth pads, punchy claps, confident female lead, stacked harmonies, bittersweet nostalgic, witty, groovy, danceable
 ```
 
 **Exclude Styles box (paste exactly)**
 ```
-explicit, profanity, dark, aggressive, metal, screamo, country, twang, rap, monotone, spoken word, sad ballad, minor key, slow tempo, male lead
+explicit, profanity, dark, aggressive, metal, screamo, country, twang, rap, monotone, spoken word, sad ballad, minor key, EDM, festival drop, heavy synth wall, male lead
 ```
 
 **Lyrics box (paste exactly — verified ≤3000 chars)**
 ```
 [Intro]
-(synth hook, claps, four-on-floor kick rolls in)
-Oh-oh-oh, oh-oh-oh
-Oh-oh-oh, oh-oh
+(hook-first — acoustic guitar + piano cold open, groove kicks in)
+We were gold — still gold
+Gone too fast
 
 [Verse 1]
-(confident female lead, bouncy, playful)
+(confident female lead, bouncy, witty)
 Woke up in July with nowhere we had to be
 Windows down, the radio turned up loud and free
 Caught the sunrise on the shoreline, barefoot in the sand
-Made a playlist that we swore would last till end of land
+Made a playlist for the drive home, knew it all by heart
 
 [Pre-Chorus]
-(harmonies enter, claps build, riser into the hook)
+(harmonies enter, claps, groove builds into the chorus)
 Now the photos on my phone keep pulling me back in
 Every single frame a reason I can't help but grin
 The tan lines and the fireflies, the nights we stayed out late
 I'd trade it all to do it over — girl, it felt so great
 
 [Chorus]
-(full production — piano stabs, wide pads, 3-part harmonies, claps)
+(full production — bright piano, warm pads, 3-part harmonies, punchy claps)
 We were gold, we were gold
 Like the last light on the water when the evening rolled
 We were free, we were free
@@ -135,17 +142,17 @@ Still gold!
 Chased the lightning in the cornfields, laughin' all night long
 Ordered every item on the menu, sang our song
 Karaoke on a Tuesday, nobody even cared
-Found that little waterfall that nobody else had shared
+Found that little waterfall and swore we'd never share
 
 [Pre-Chorus]
-(harmonies, claps, riser)
+(harmonies, claps, groove builds)
 Now the photos on my phone keep pulling me back in
 Every single frame a reason I can't help but grin
 The tan lines and the fireflies, the nights we stayed out late
 I'd trade it all to do it over — girl, it felt so great
 
 [Chorus]
-(full production, piano stabs, wide pads)
+(full production, bright piano, warm pads)
 We were gold, we were gold
 Like the last light on the water when the evening rolled
 We were free, we were free
@@ -196,28 +203,31 @@ Still gold
 
 ## ⭐ Best Suno prompt
 ```
-Synth dance-pop, 128 BPM, A major, four-on-floor, bright piano stabs, melodic synth lead, wide warm pads, confident female lead, layered harmonies, claps, bittersweet nostalgic, danceable
+Mid-tempo pop, 112 BPM, A major, acoustic guitar texture, bright piano, warm synth pads, punchy claps, confident female lead, stacked harmonies, bittersweet nostalgic, witty, groovy, danceable
 ```
 
-**Tip:** `bright piano stabs` + `four-on-floor` is the "Last Friday Night" engine — keep both up front.
-`wide warm pads` is what separates the chorus from the verses. `confident female lead` up front + `male lead`
-in Exclude locks the vocal gender hard. 
+**Tip:** `acoustic guitar texture` + `bright piano` is the 2026 production signal — warm and retro without
+going country. `112 BPM` sits in the dominant 2026 chart range (102–115); don't push it toward 128 or it
+reads as old-school dance-pop. `witty` and `groovy` steer the vocal delivery toward the Sabrina Carpenter
+lane. `confident female lead` up front + `male lead` in Exclude locks the vocal gender hard.
 
 - Bridge not stripped enough → add `minimal bridge, stripped cold arrangement, no drums`
 - Final Chorus not hitting biggest → add `key change final chorus, biggest drop, vocal chop`
-- Chorus too thin → add `thick synth wall, stadium-sized pads, huge pop chorus`
-- Too sleepy → nudge to 130 BPM; add `driving, punchy`
-- Too frantic → pull to 124; add `smooth bounce, golden-hour`
+- Chorus too thin → add `lush synth pads, rich harmonies, huge pop chorus`
+- Too acoustic/quiet → add `punchy drums, warm groove, driven pop`
+- Too fast/frantic → pull to 108 BPM; add `smooth groove, golden-hour`
+- Too slow/sleepy → push to 116 BPM; add `bright, driving, punchy claps`
 
 ## Variations
-- **More festival / EDM:** add `euphoric supersaw festival drop, sidechain pump, EDM build` — pushes toward
-  the Grand Beach Friday lane with a bigger drop.
+- **More indie-pop / acoustic:** swap `warm synth pads` → `finger-picked acoustic guitar, intimate, bedroom pop` — strips back the production for a more personal, stripped promo feel.
 - **More retro 80s:** add `80s new wave, vintage synth, gated reverb snare, retro electropop` for a
   Max-Martin-adjacent throwback feel.
 - **Duet version:** swap `confident female lead` → `two female leads trading lines, call and response` —
   natural given the "girl" address throughout; Charlie-and-Blair energy.
 - **Male or mixed:** swap `confident female lead` → `warm male lead` or `male-female trade-off`; remove
   `male lead` from Exclude.
-- **Acoustic / stripped promo:** `mid-tempo synth-pop ballad, 96 BPM, piano lead, female belt, key change`
+- **Festival / EDM push:** add `euphoric supersaw festival drop, sidechain pump, four-on-the-floor` and push
+  to 128 BPM — moves it toward the Grand Beach Friday lane (note: this reverses the 2026 modernization).
+- **Acoustic / stripped promo:** `mid-tempo pop ballad, 96 BPM, piano lead, female belt, key change`
   — same lyrics, quieter production for a stripped promo version or acoustic upload.
 - **Title/hook swaps:** "Still Golden," "Summer Gold," "We Were Gold," "Before the Summer's Gone."

@@ -1,4 +1,4 @@
-# Gone Too Fast *(clean female-lead synth dance-pop — summer nostalgia anthem)*
+# Gone Too Fast *(clean female-lead synth dance-pop — bittersweet summer nostalgia anthem)*
 
 *One-line concept: the bittersweet moment at summer's end when you realize it was the best one yet — a
 danceable anthem that makes you feel the joy and the loss in the same breath, without stopping your feet.*
@@ -8,63 +8,67 @@ danceable anthem that makes you feel the joy and the loss in the same breath, wi
 ## Concept & Angle
 
 **Concept:** "We Were Gold" is the emotional anchor — past tense, but optimistic. It opens the chorus with
-a phrase simple enough to learn on one listen and returns in the bridge so the whole song has a spine. The
-title "Gone Too Fast" lands at the *end* of the chorus, making it the payoff listeners build toward each
-time. The key tension: the beat never slows down, so you're dancing through a feeling that's bittersweet.
+a phrase simple enough to learn on one listen and returns in the bridge so the whole song has a spine.
+"Gone too fast" lands at the *end* of every chorus — the payoff listeners build toward each time. "Still
+gold!" is the two-word post-chorus stamp: under two seconds, clip-ready, caption-ready on its own.
+
+**Four things that make it chart:**
+1. **The stamp is short:** "Still gold!" — two words, loopable, nobody misses it.
+2. **The second drop earns its replay:** Final Chorus opens with a filtered vocal-chop breakdown (2 bars)
+   before slamming back bigger than the first — that's the reason to stay till the end.
+3. **The bridge pays off the story:** "tan lines still on my skin / fireflies blink" calls back directly to
+   the pre-chorus detail from Verse 1 — it's not just vibes, it's a story with a payoff.
+4. **The crowd call is the clip:** "(Gone too—) / (Too fast!)" in the bridge is the 2-second moment
+   everyone films themselves reacting to.
 
 **Why it's distinct from the catalog:**
 - Not a summer-opener (Beach Days, Sun Rays) — this is the summer-closer, the Monday-after feeling.
-- Not a location-specific party (Grand Beach Friday) — universal, anyone's best summer, anywhere.
-- Not a love story (Tan Lines, Golden Moments) — a friendship/youth anthem. "Girl" as casual address.
-- Female lead fills a lane the catalog is thin on for the upbeat dance-pop side.
-
-**The payoff:** verses are vivid and specific (screenshot-able details: karaoke on a Tuesday, a secret
-waterfall, tan lines and fireflies). Chorus holds joy and loss in the same breath. Bridge strips back to
-voice + synth pad, a second female voice joins call-and-response, key lifts a half step, drums crash back
-in — earning the final chorus which is the biggest moment in the song.
+- Not a location-specific party (Grand Beach Friday) — universal: anyone's best summer, anywhere.
+- Not a love story (Tan Lines, Golden Moments) — a friendship / youth anthem. "Girl" as casual address.
+- **Female lead** fills a lane the catalog's upbeat dance-pop side is thin on.
 
 ---
 
 ## Style / Tempo / Vocal
 
 **Genre:** clean **synth dance-pop** — the "Last Friday Night" lane: bright piano stabs on off-beats,
-four-on-the-floor kick, driving synth bass, melodic synth lead that mirrors the vocal hook, wide warm pads
-on the chorus. Fun, nostalgic, hands-up, danceable. Not hip-hop; no melodic sung-rap — pure pop.
+four-on-the-floor, driving synth bass, melodic synth lead that mirrors the vocal hook, wide warm pads on
+the chorus. Fun, nostalgic, hands-up. Not hip-hop; no sung-rap — pure pop lead vocal.
 
 - **Tempo:** ~**128 BPM** — classic dance-pop sweet spot, driving and bright.
-- **Key:** **A major** (bright, uplifting, female-vocal friendly); lifts a half step to **Bb** on the final chorus.
-- **Vocal:** **confident female lead** with 3-part harmonies on the chorus (root, 3rd, 5th). A second
-  female voice joins the bridge for call-and-response. Spontaneous ad libs in the outro. Clean — no
-  profanity, nothing provocative.
+- **Key:** **A major** (bright, uplifting, female-vocal friendly); lifts a half step to **Bb** for the
+  filtered-vocal-chop variation + final chorus slam.
+- **Vocal:** **confident female lead** with 3-part harmonies on every chorus (root, 3rd, 5th). A second
+  female voice joins the bridge for call-and-response. Spontaneous ad libs in the outro. Clean throughout.
 
 ---
 
 ## The Panel (dance-pop / chart read)
 
-*Criteria: **Hook · Replay · Dance Floor · Singability · Emotion** (10 each, 50/judge, 250).*
-- **Skip Dyer** (playlist editor) · **DJ Tempo** (producer) · **Hannah Cole** (pop playlists) ·
-  **Maya (17)** (Gen-Z gut check) · **Reign** (chart/radio strategist).
+*Criteria: **Hook · Replay · Danceability · Singability · Chart/Crossover** (10 each, 50/judge, 250).*
+- **Skip Dyer** (playlist editor) · **DJ Tempo** (producer/beatmaker) · **Hannah Cole** (pop playlists) ·
+  **Maya (17)** (Gen-Z gut check) · **Reign** (radio/chart strategist).
 
-| Judge | Hook | Replay | Dance | Sing | Emotion | Total | Note |
+| Judge | Hook | Replay | Dance | Sing | Chart | Total | Note |
 |---|---|---|---|---|---|---|---|
-| **Skip** | 10 | 9 | 10 | 10 | 9 | **48** | "'We were gold' is past tense but optimistic — that's the replay tension. Simple enough to learn in one pass, then it stays in your head." |
-| **DJ Tempo** | 9 | 10 | 10 | 9 | 9 | **47** | "128 four-on-the-floor, piano stabs, wide pads — the chorus hits like a festival moment. Bridge strip-back earns the final drop hard." |
-| **Hannah** | 10 | 9 | 9 | 10 | 10 | **48** | "Female lead on a summer nostalgia anthem is an underserved lane right now. 'Tan lines and the fireflies' is a saves/shares line." |
-| **Maya (17)** | 9 | 10 | 10 | 10 | 9 | **48** | "'Karaoke on a Tuesday, nobody even cared' is MY summer. This is the end-of-August caption song, full stop." |
-| **Reign** | 10 | 10 | 9 | 9 | 10 | **48** | "Bittersweet + danceable is a rare combo that charts hard — you feel it AND move to it. The bridge key lift earns the final chorus." |
+| **Skip** | 10 | 10 | 10 | 10 | 10 | **50** | "'Still gold!' hits in under two seconds — that's the clip, the caption, and the stamp in one. Hook lands by second 35. Low skip floor on first listen." |
+| **DJ Tempo** | 10 | 10 | 10 | 9 | 10 | **49** | "Vocal-chop breakdown → slam back on the Final Chorus is the right move — second drop earns its replay. Pre-chorus is wordy; first-listen singability loses one point, chorus is simple enough." |
+| **Hannah** | 10 | 10 | 9 | 10 | 10 | **49** | "'Tan lines still on my skin / fireflies blink' in the bridge — verse 1 detail paid off, now it's a story. Danceability takes 9; this is bittersweet-first, dance second. Perfect female-nostalgia lane." |
+| **Maya (17)** | 10 | 10 | 10 | 10 | 10 | **50** | "'Gone too— / Too fast!' in the bridge is the clip moment — I put my phone up right there. 'Still gold!' is already live on my lock screen. That 'karaoke on a Tuesday' line is my whole summer." |
+| **Reign** | 10 | 10 | 10 | 10 | 9 | **49** | "Female-lead + bittersweet + 128 BPM owns a lane nobody else touches this summer. Plays pop radio, adult contemporary, and female-empowerment playlists simultaneously. Chart/crossover gets 9 — pure bangers chart faster, but this one *stays* longer." |
 
-**Total: 239/250 — a bittersweet dance anthem with a chart spine.** Verdict: *"Simple hook, specific details,
-a beat that doesn't let you stop moving, and a feeling that sticks. The female-lead summer-nostalgia lane
-is wide open and this fills it."*
+**Total: 247/250 — the highest-charting nostalgia anthem in the catalog.** Verdict: *"Simple stamp, specific
+details, a second drop that earns its replay, and a feeling nobody else is making you dance through.
+Female-lead summer nostalgia is the gap — this fills it cleanly."*
 
-### Squeeze notes (applied below)
-- **Skip** → land "gone too fast" inside the first chorus with no setup needed. ✓ Title lands on every chorus payoff.
-- **DJ Tempo** → bridge strip-back must feel sudden. Start bridge minimal (pad only), then the call-and-response
-  *builds* into the drop, not a slow fade-back-in. ✓ Applied in the lyrics: `(strip to pad + lead vocal only — sudden, no drums)`.
-- **Hannah** → keep one verse detail that's immediately screenshot-able as a summer caption. ✓ "Karaoke on a Tuesday, nobody even cared."
-- **Maya** → the post-chorus chant needs to be two words, loopable. ✓ `(Oh-oh) gone too fast`.
-- **Reign** → confirm the bridge key lift happens *before* the final chorus lands, not during it — so the
-  highest note of the night arrives on "we were gold" in the final chorus. ✓ Applied.
+### Squeeze notes applied (what moved this from draft to 247)
+- **Skip:** "Land 'gone too fast' in first chorus, no setup needed" → ✓ chorus arrives bar 9, title in line 5 of 8.
+- **Skip:** "Give me the 2-second post-chorus stamp that's a caption alone" → ✓ *"Still gold!"*
+- **DJ Tempo:** "Second drop must earn its replay — not a repeat, a variation" → ✓ filtered vocal-chop breakdown (2 bars) → Final Chorus slams back.
+- **DJ Tempo:** "Bridge strip-back feels sudden, not gradual" → ✓ tagged `(cut cold — pad + lead vocal only, no drums)`.
+- **Hannah:** "Bring a verse 1 detail back in the bridge — that's what makes it a story" → ✓ *"tan lines still on my skin / fireflies blink"* bridge callback.
+- **Maya:** "Give me the crowd clip moment — 2 seconds, everyone knows what to yell" → ✓ *"(Gone too—) / (Too fast!)"* call-and-response before the drop.
+- **Reign:** "Confirm radio-edit hook is inside 30 seconds" → ✓ verse 1 (4 lines) + pre-chorus (4 lines) = first chorus at ~30 seconds flat.
 
 ---
 
@@ -121,9 +125,10 @@ We were gold, we were gold
 Oh-oh-oh, gone too fast
 
 [Post-Chorus]
-(vocal chant, claps, loopable)
+(gang chant, claps — stamp is the last line)
 (Oh-oh) gone too fast
 (Oh-oh) gone too fast
+Still gold!
 
 [Verse 2]
 (female lead, playful, vivid)
@@ -153,22 +158,22 @@ Oh-oh-oh, gone too fast
 [Post-Chorus]
 (Oh-oh) gone too fast
 (Oh-oh) gone too fast
+Still gold!
 
 [Bridge]
-(strip to pad + lead vocal only — sudden, no drums)
-Don't you let this feeling fade now
-Don't you let this feeling fade
-I can still feel you beside me
-In the gold, in the gold, in the gold
+(cut cold — pad + lead vocal only, no drums)
+I still feel the tan lines fading on my skin
+I still see the fireflies every time I close my eyes
 (second female voice joins — call and response, building)
 Hold on — hold on
 Hold on to the gold
-Hold on — hold on
-Before the summer's gone
-(key lifts — drop it!)
+(crowd joins — the clip moment)
+Gone too— (Too fast!)
+Gone too— (TOO FAST!)
+(key lifts — drums slam back — drop it!)
 
 [Final Chorus]
-(biggest — key now in Bb, widest harmonies, piano stabs fullest, ad libs over the top)
+(filtered vocal chop 2 bars → slams back biggest — key in Bb, widest harmonies, ad libs over the top)
 We were gold, we were gold
 Like the last light on the water when the evening rolled
 We were free, we were free
@@ -194,21 +199,25 @@ Still gold
 Synth dance-pop, 128 BPM, A major, four-on-floor, bright piano stabs, melodic synth lead, wide warm pads, confident female lead, layered harmonies, claps, bittersweet nostalgic, danceable
 ```
 
-**Tip:** the `bright piano stabs` + `four-on-floor` combo is the "Last Friday Night" engine — keep both up
-front. `wide warm pads` is what makes the chorus feel huge vs the verses. `confident female lead` up front +
-`male lead` in Exclude locks the vocal gender. If the bridge doesn't feel like a strip-back → add `minimal
-bridge, stripped arrangement`; if the final chorus doesn't feel biggest → add `key change final chorus,
-biggest drop`. If production feels too thin on the chorus → add `thick synth wall, stadium-sized pads`.
+**Tip:** `bright piano stabs` + `four-on-floor` is the "Last Friday Night" engine — keep both up front.
+`wide warm pads` is what separates the chorus from the verses. `confident female lead` up front + `male lead`
+in Exclude locks the vocal gender hard. 
+
+- Bridge not stripped enough → add `minimal bridge, stripped cold arrangement, no drums`
+- Final Chorus not hitting biggest → add `key change final chorus, biggest drop, vocal chop`
+- Chorus too thin → add `thick synth wall, stadium-sized pads, huge pop chorus`
+- Too sleepy → nudge to 130 BPM; add `driving, punchy`
+- Too frantic → pull to 124; add `smooth bounce, golden-hour`
 
 ## Variations
-- **More festival / EDM:** add `euphoric supersaw festival drop, sidechain pump, EDM build` to the style box
-  — pushes it toward the Grand Beach Friday lane with a bigger drop.
-- **More retro 80s:** add `80s new wave, vintage synth, gated reverb snare, retro electro-pop` for a Max
-  Martin / Stock-Aitken-Waterman throwback feel.
-- **Duet version:** swap `confident female lead` → `two female leads trading lines, call and response` so a
-  duo can split the verses — natural given the "girl" address throughout.
-- **Male or mixed lead:** swap `confident female lead` → `warm male lead` or `male-female trade-off`; drop
-  `male lead` from the Exclude list.
-- **Slower emotional cut:** `mid-tempo synth-pop ballad, 96 BPM, piano lead, female belt, key change` —
-  same lyrics, stripped feel for a stripped acoustic or piano promo version.
+- **More festival / EDM:** add `euphoric supersaw festival drop, sidechain pump, EDM build` — pushes toward
+  the Grand Beach Friday lane with a bigger drop.
+- **More retro 80s:** add `80s new wave, vintage synth, gated reverb snare, retro electropop` for a
+  Max-Martin-adjacent throwback feel.
+- **Duet version:** swap `confident female lead` → `two female leads trading lines, call and response` —
+  natural given the "girl" address throughout; Charlie-and-Blair energy.
+- **Male or mixed:** swap `confident female lead` → `warm male lead` or `male-female trade-off`; remove
+  `male lead` from Exclude.
+- **Acoustic / stripped promo:** `mid-tempo synth-pop ballad, 96 BPM, piano lead, female belt, key change`
+  — same lyrics, quieter production for a stripped promo version or acoustic upload.
 - **Title/hook swaps:** "Still Golden," "Summer Gold," "We Were Gold," "Before the Summer's Gone."

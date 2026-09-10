@@ -52,6 +52,7 @@
 ### Squeeze notes applied
 - **User note:** "It's a little cheesy" → ✓ cut the repeated "you never know" moralizing; replaced the invented-sounding chorus with an established idiom; softened the bridge from a pronouncement to an admission.
 - **User note:** "Broaden it to how we should always try to leave a good legacy" → ✓ verse 2 adds teacher / stranger / parent vignettes; chorus and stamp both generalized from "what happened that night" to an ongoing practice.
+- **User note:** "Leave it better than we found it is too frequent" → ✓ chorus trimmed from 8 lines (the phrase repeated 4×) to 6 lines (said once); post-chorus trimmed from a 3-line call-and-response to 2 lines; bridge call-and-response reduced to single lines. Phrase count across the whole song dropped from roughly 18 to 9.
 - **Maya:** "Make the stamp something a real person would actually say, not a poster line" → ✓ "Leave it better" replaces "Lead by example."
 - **Hannah:** "Give me one concrete image per idea, not an explanation of the idea" → ✓ each verse 2 line is a scene, not a statement.
 - **Reign:** "Keep the honesty in the ending — don't let broadening the theme talk you into a neat bow" → ✓ outro still ends on "don't know where any of it goes."
@@ -78,7 +79,7 @@ Retro 80s soft-pop, yacht rock, 104 BPM, key of G, warm synths, clean electric p
 explicit, profanity, dark, aggressive, metal, screamo, rap, hip-hop, trap, 808, EDM, progressive house, reggaeton, cynical, sad, ballad, minor key, female lead, ironic, sarcastic
 ```
 
-**Lyrics box (paste exactly — verified 2879/3000 chars ✓)**
+**Lyrics box (paste exactly — verified 2518/3000 chars ✓)**
 ```
 [Intro]
 (hook-first — warm electric piano)
@@ -101,17 +102,14 @@ They travel farther than you'd ever believe
 [Chorus]
 (warm harmonies swell, electric piano)
 We leave it better than we found it
-We leave it better than we found it
 Nobody's watching, but somebody might
-We leave it better than we found it
 Not for credit, not for the light
 Some things you do and never see the end of
 Small good turns, passed on, passed on
-We leave it better than we found it — that's the legacy
+That's the kind of legacy that no one plans
 
 [Post-Chorus]
 (soft harmony, stamp is last line)
-(Somebody might) leave it better
 (Somebody might) leave it better
 Leave it better
 
@@ -132,16 +130,13 @@ Some legacies are smaller than you think they are
 [Chorus]
 (harmonies, synths swell)
 We leave it better than we found it
-We leave it better than we found it
 Nobody's watching, but somebody might
-We leave it better than we found it
 Not for credit, not for the light
 Some things you do and never see the end of
 Small good turns, passed on, passed on
-We leave it better than we found it — that's the legacy
+That's the kind of legacy that no one plans
 
 [Post-Chorus]
-(Somebody might) leave it better
 (Somebody might) leave it better
 Leave it better
 
@@ -150,20 +145,18 @@ Leave it better
 You won't always know what you started
 Won't always get to see it grow
 (group joins softly, builds warmly)
-Leave it better — (leave it better)
-That's all we know — (that's all we know)
+Leave it better
+That's all we know
 (key lifts gently — quiet, earned 80s moment)
 
 [Final Chorus]
 (key A major — warm harmonies, synths swell, glowing not loud)
 We leave it better than we found it
-We leave it better than we found it
 Nobody's watching, but somebody might
-We leave it better than we found it
 Not for credit, not for the light
 Some things you do and never see the end of
 Small good turns, passed on, passed on
-We leave it better than we found it — that's the legacy
+That's the kind of legacy that no one plans
 
 [Outro]
 (warm fade, sincere)
